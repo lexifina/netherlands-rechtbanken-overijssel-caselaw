@@ -24,7 +24,7 @@ RECHTBANK ZWOLLE - LELYSTAD
 
 Sector Strafrecht - Meervoudige Strafkamer
 
-Parketnr.  : 07.607059-09 en 07.607387-08 (P)
+Parketnr. : 07.607059-09 en 07.607387-08 (P)
 
 Uitspraak : 15 oktober 2009
 
@@ -56,7 +56,7 @@ hij op of omstreeks 05 februari 2009 in de gemeente Almere tezamen en in verenig
 
 althans, indien het vorenstaande onder 1 niet tot een veroordeling mocht of zou kunnen leiden:
 
-hij op of omstreeks 05 februari 2009 te Almere ter uitvoering van het door verdachte voorgenomen misdrijf om tezamen en in vereniging met een ander of anderen, althans alleen, met het oogmerk van wederrechtelijke toe-eigening weg te nemen, geld en/of sieraden, en/althans een of meer goederen, geheel of ten dele toebehorende aan Juwelier de Gouden Kroon en/of [slachtoffer], in elk geval aan een ander of anderen dan aan verdachte en/of zijn mededader(s), het pand van de Juwelier de Gouden Kroon is/zijn binnengegaan en/of (vervolgens) het glas  van een of meer vitrines in dat pand heeft/hebben verbroken en/of een of meer sieraden, en/althans goederen heeft/hebben gepakt, terwijl de uitvoering van dat voorgenomen misdrijf niet is voltooid, welke poging tot diefstal werd vergezeld en/of gevolgd door geweld en/of bedreiging met geweld tegen [slachtoffer], gepleegd met het oogmerk om die diefstal gemakkelijk te maken en/of om bij betrapping op heterdaad aan zichzelf en/of aan zijn mededader(s) hetzij de vlucht mogelijk te maken, hetzij het bezit van het gestolene te verzekeren, welk geweld en/of welke bedreiging met geweld hierin bestond(en) dat verdachte en/of zijn mededader(s) toen daar opzettelijk gewelddadig en/of bedreigend:
+hij op of omstreeks 05 februari 2009 te Almere ter uitvoering van het door verdachte voorgenomen misdrijf om tezamen en in vereniging met een ander of anderen, althans alleen, met het oogmerk van wederrechtelijke toe-eigening weg te nemen, geld en/of sieraden, en/althans een of meer goederen, geheel of ten dele toebehorende aan Juwelier de Gouden Kroon en/of [slachtoffer], in elk geval aan een ander of anderen dan aan verdachte en/of zijn mededader(s), het pand van de Juwelier de Gouden Kroon is/zijn binnengegaan en/of (vervolgens) het glas van een of meer vitrines in dat pand heeft/hebben verbroken en/of een of meer sieraden, en/althans goederen heeft/hebben gepakt, terwijl de uitvoering van dat voorgenomen misdrijf niet is voltooid, welke poging tot diefstal werd vergezeld en/of gevolgd door geweld en/of bedreiging met geweld tegen [slachtoffer], gepleegd met het oogmerk om die diefstal gemakkelijk te maken en/of om bij betrapping op heterdaad aan zichzelf en/of aan zijn mededader(s) hetzij de vlucht mogelijk te maken, hetzij het bezit van het gestolene te verzekeren, welk geweld en/of welke bedreiging met geweld hierin bestond(en) dat verdachte en/of zijn mededader(s) toen daar opzettelijk gewelddadig en/of bedreigend:
 
 - met een bivakmuts en/of een panty en/of een capuchon op en/of over het hoofd en/of voor het gezicht en/althans met een zodanig bedekking van het gezicht dat herkenning niet mogelijk was, althans werd bemoeilijkt en/of voorzien van een of meer hamers althans slagvoorwerpen dat pand van die Juwelier, waarin die [slachtoffer] zich bevond, is/zijn binnengegaan en/of (vervolgens) in het bijzijn van en/of zichtbaar en/of hoorbaar voor die [slachtoffer] het glas van een of meer vitrines heeft/hebben ingeslagen en/of (aldus) voor die [slachtoffer] een bedreigende situatie heeft/hebben doen ontstaan en/of met een of meer hamers althans slagvoorwerp in de hand ten overstaan van en/of zichtbaar voor die [slachtoffer] heeft/hebben gemanipuleerd en/of
 
@@ -74,7 +74,7 @@ hij op of omstreeks 8 januari 2009 in de gemeente Alkmaar tezamen en in verenigi
 
 en/of
 
-met het oogmerk van wederrechtelijke toe-eigening heeft weggenomen geld, te weten een geldbedrag van in totaal 3931,67 euro, in elk geval enig goed, geheel of ten dele toebehorende aan winkelbedrijf Lidl, in elk geval aan een ander of anderen dan aan verdachte en/of zijn mededader(s), welke diefstal werd voorafgegaan en/of vergezeld en/of gevolgd van geweld en/of bedreiging met geweld tegen [slachtoffer 1] en/of [slachtoffer 2], gepleegd met het oogmerk om de diefstal voor te bereiden en/of gemakkelijk te maken en/of om bij betrapping op heterdaad aan zichzelf en/of aan zijn mededader(s) hetzij de vlucht  mogelijk te maken, hetzij het bezit van het gestolene te verzekeren, welk geweld en/of welke bedreiging met geweld hierin bestond(en) dat verdachte en/of zijn mededader(s)
+met het oogmerk van wederrechtelijke toe-eigening heeft weggenomen geld, te weten een geldbedrag van in totaal 3931,67 euro, in elk geval enig goed, geheel of ten dele toebehorende aan winkelbedrijf Lidl, in elk geval aan een ander of anderen dan aan verdachte en/of zijn mededader(s), welke diefstal werd voorafgegaan en/of vergezeld en/of gevolgd van geweld en/of bedreiging met geweld tegen [slachtoffer 1] en/of [slachtoffer 2], gepleegd met het oogmerk om de diefstal voor te bereiden en/of gemakkelijk te maken en/of om bij betrapping op heterdaad aan zichzelf en/of aan zijn mededader(s) hetzij de vlucht mogelijk te maken, hetzij het bezit van het gestolene te verzekeren, welk geweld en/of welke bedreiging met geweld hierin bestond(en) dat verdachte en/of zijn mededader(s)
 
 - naar die [slachtoffer 1] is gelopen met een vuurwapen, althans een op een vuurwapen gelijkend voorwerp, in zijn hand en/of daarbij één of meermalen dreigend tegen die [slachtoffer 1] heeft geschreeuwd: "Open de kassalade" en/of (daarbij) een vuurwapen, althans een op een vuurwapen gelijkend voorwerp, van korte afstand op het hoofd en/of elders op het lichaam van die [slachtoffer 1] heeft gericht en/of gericht gehouden en/of daarbij meermalen zeer dreigend heeft geschreeuwd: "Het briefgeld, het briefgeld, waar zijn de vijftigjes, ook de vijftigjes" en/of "Ik schiet jullie neer, ik zal jullie doodschieten" en/of "Schiet op, schiet op anders schiet ik je neer" en/of
 
@@ -86,11 +86,11 @@ met het oogmerk van wederrechtelijke toe-eigening heeft weggenomen geld, te wete
 
 althans, indien het vorenstaande onder 3 niet tot een veroordeling mocht of zou kunnen leiden:
 
-[dader 1] en/of [dader 2] en/of [dader 3] en/of één of meerdere onbekende (mede)dader(s) op of omstreeks 08 januari 2009 in de gemeente Alkmaar, tezamen en in vereniging met een ander of anderen, althans alleen, met het oogmerk om zich en/of (een) ander(en) wederrechtelijk te bevoordelen door geweld en/of bedreiging met geweld, [slachtoffer 1] en/of [slachtoffer 2] heeft gedwongen tot de afgifte van geld, te weten, een geldbedrag van in totaal 3931,67 euro, in elk geval van enig goed, geheel of ten dele toebehorende aan  winkelbedrijf Lidl, in elk geval aan een ander of anderen dan aan verdachte en/of zijn mededader(s),
+[dader 1] en/of [dader 2] en/of [dader 3] en/of één of meerdere onbekende (mede)dader(s) op of omstreeks 08 januari 2009 in de gemeente Alkmaar, tezamen en in vereniging met een ander of anderen, althans alleen, met het oogmerk om zich en/of (een) ander(en) wederrechtelijk te bevoordelen door geweld en/of bedreiging met geweld, [slachtoffer 1] en/of [slachtoffer 2] heeft gedwongen tot de afgifte van geld, te weten, een geldbedrag van in totaal 3931,67 euro, in elk geval van enig goed, geheel of ten dele toebehorende aan winkelbedrijf Lidl, in elk geval aan een ander of anderen dan aan verdachte en/of zijn mededader(s),
 
 en/of
 
-met het oogmerk van wederrechtelijke toe-eigening heeft weggenomen geld, te weten een geldbedrag van in totaal 3931,67 euro, in elk geval enig goed, geheel of ten dele toebehorende aan winkelbedrijf Lidl, in elk geval aan een ander of anderen dan aan verdachte en/of zijn mededader(s), welke diefstal werd voorafgegaan en/of vergezeld en/of gevolgd van geweld en/of bedreiging met geweld tegen [slachtoffer 1] en/of [slachtoffer 2], gepleegd met het oogmerk om de diefstal voor te bereiden en/of gemakkelijk te maken en/of om bij betrapping op heterdaad aan zichzelf en/of aan zijn mededader(s) hetzij de vlucht  mogelijk te maken, hetzij het bezit van het gestolene te verzekeren, welk geweld en/of welke bedreiging met geweld hierin bestond[dader 1] en/of [dader 2] en/of [dader 3] en/of één of meerdere onbekende (mede)dader(s)
+met het oogmerk van wederrechtelijke toe-eigening heeft weggenomen geld, te weten een geldbedrag van in totaal 3931,67 euro, in elk geval enig goed, geheel of ten dele toebehorende aan winkelbedrijf Lidl, in elk geval aan een ander of anderen dan aan verdachte en/of zijn mededader(s), welke diefstal werd voorafgegaan en/of vergezeld en/of gevolgd van geweld en/of bedreiging met geweld tegen [slachtoffer 1] en/of [slachtoffer 2], gepleegd met het oogmerk om de diefstal voor te bereiden en/of gemakkelijk te maken en/of om bij betrapping op heterdaad aan zichzelf en/of aan zijn mededader(s) hetzij de vlucht mogelijk te maken, hetzij het bezit van het gestolene te verzekeren, welk geweld en/of welke bedreiging met geweld hierin bestond[dader 1] en/of [dader 2] en/of [dader 3] en/of één of meerdere onbekende (mede)dader(s)
 
 - naar die [slachtoffer 1] is gelopen met een vuurwapen, althans een op een vuurwapen gelijkend voorwerp, in zijn hand en/of daarbij één of meermalen dreigend tegen die [slachtoffer 1] heeft geschreeuwd: "Open de kassalade" en/of (daarbij) een vuurwapen, althans een op een vuurwapen gelijkend voorwerp, van korte afstand op het hoofd en/of elders op het lichaam van die [slachtoffer 1] heeft gericht en/of gericht gehouden en/of daarbij meermalen zeer dreigend heeft geschreeuwd: "Het briefgeld, het briefgeld, waar zijn de vijftigjes, ook de vijftigjes" en/of "Ik schiet jullie neer, ik zal jullie doodschieten" en/of "Schiet op, schiet op anders schiet ik je neer" en/of
 
@@ -116,11 +116,11 @@ De in deze telastelegging gebruikte termen en uitdrukkingen worden, voorzover da
 
 5.
 
-hij op of omstreeks 1 november 2008 in de gemeente IJsselstein tezamen en in vereniging met een ander of anderen, althans alleen, met het oogmerk om zich en/of (een) ander(en) wederrechtelijk te bevoordelen door geweld en/of bedreiging met geweld, [slachtoffer 1] en/of [slachtoffer 2] en/of [slachtoffer 3] heeft gedwongen tot de afgifte van geld, te weten een  geldbedrag van in totaal 3373,- euro en/of een kassalade, in elk geval enig goed, geheel of ten dele toebehorende aan winkelbedrijf C1000, in elk geval aan een ander of anderen dan aan verdachte en/of zijn mededader(s),
+hij op of omstreeks 1 november 2008 in de gemeente IJsselstein tezamen en in vereniging met een ander of anderen, althans alleen, met het oogmerk om zich en/of (een) ander(en) wederrechtelijk te bevoordelen door geweld en/of bedreiging met geweld, [slachtoffer 1] en/of [slachtoffer 2] en/of [slachtoffer 3] heeft gedwongen tot de afgifte van geld, te weten een geldbedrag van in totaal 3373,- euro en/of een kassalade, in elk geval enig goed, geheel of ten dele toebehorende aan winkelbedrijf C1000, in elk geval aan een ander of anderen dan aan verdachte en/of zijn mededader(s),
 
 en/of
 
-met het oogmerk van wederrechtelijke toe-eigening heeft weggenomen geld, te weten een geldbedrag van in totaal 3373,- euro en/of een kassalade, in elk geval enig goed, geheel of ten dele toebehorende aan winkelbedrijf C1000, in elk geval aan een ander of anderen dan aan verdachte en/of zijn mededader(s), welke diefstal werd voorafgegaan en/of vergezeld en/of gevolgd van geweld en/of bedreiging met geweld tegen die [slachtoffer 1] en/of [slachtoffer 2] en/of [slachtoffer 3], gepleegd met het oogmerk om de diefstal voor te bereiden en/of gemakkelijk te  maken en/of om bij betrapping op heterdaad aan zichzelf en/of aan zijn mededader(s) hetzij de vlucht mogelijk te maken, hetzij het bezit van het gestolene te verzekeren, welk geweld en/of welke bedreiging met geweld hierin bestond(en) dat verdachte en/of zijn mededader(s) - (ieder) een vuurwapen, althans een op een vuurwapen gelijkend voorwerp in zijn/hun hand had(den) en/of daarbij één of meermalen dreigend (dit) (deze) vuurwapen(s), althans op een vuurwapen gelijkend(e) voorwerp(en) richtte(n) op [slachtoffer 1] en/of [slachtoffer 2] en/of [slachtoffer 3] en/of - (hierbij) dreigend de woorden toevoegde(n) "Maak open, geef mij geld" en/of  "We willen geld" en/of "Geef geld, geef geld" en/of
+met het oogmerk van wederrechtelijke toe-eigening heeft weggenomen geld, te weten een geldbedrag van in totaal 3373,- euro en/of een kassalade, in elk geval enig goed, geheel of ten dele toebehorende aan winkelbedrijf C1000, in elk geval aan een ander of anderen dan aan verdachte en/of zijn mededader(s), welke diefstal werd voorafgegaan en/of vergezeld en/of gevolgd van geweld en/of bedreiging met geweld tegen die [slachtoffer 1] en/of [slachtoffer 2] en/of [slachtoffer 3], gepleegd met het oogmerk om de diefstal voor te bereiden en/of gemakkelijk te maken en/of om bij betrapping op heterdaad aan zichzelf en/of aan zijn mededader(s) hetzij de vlucht mogelijk te maken, hetzij het bezit van het gestolene te verzekeren, welk geweld en/of welke bedreiging met geweld hierin bestond(en) dat verdachte en/of zijn mededader(s) - (ieder) een vuurwapen, althans een op een vuurwapen gelijkend voorwerp in zijn/hun hand had(den) en/of daarbij één of meermalen dreigend (dit) (deze) vuurwapen(s), althans op een vuurwapen gelijkend(e) voorwerp(en) richtte(n) op [slachtoffer 1] en/of [slachtoffer 2] en/of [slachtoffer 3] en/of - (hierbij) dreigend de woorden toevoegde(n) "Maak open, geef mij geld" en/of "We willen geld" en/of "Geef geld, geef geld" en/of
 
 - een tik gaf op het hoofd van die [slachtoffer 1] en/of
 
@@ -132,7 +132,7 @@ met het oogmerk van wederrechtelijke toe-eigening heeft weggenomen geld, te wete
 
 - riep(en) "Doe die kankerkassa open of we schieten je dood" en/of
 
-- met een vuurwapen althans een op een vuurwapen gelijkend voorwerp richtend  op die [slachtoffer 1] en/of [slachtoffer 2] en/of [slachtoffer 3], riep "Opschieten anders schieten  we haar dood".
+- met een vuurwapen althans een op een vuurwapen gelijkend voorwerp richtend op die [slachtoffer 1] en/of [slachtoffer 2] en/of [slachtoffer 3], riep "Opschieten anders schieten we haar dood".
 
 6.
 
@@ -156,11 +156,11 @@ welk geweld en/of welke bedreiging met geweld hierin bestond(en) dat verdachte e
 
 - genoemde [slachtoffer 1] bij haar hals en nek vastpakte en stevig vastklemde en/of
 
-- een vuurwapen, althans een op een vuurwapen gelijkend voorwerp in zijn hand had en hiermee richtte op genoemde [slachtoffer 1] en/of [slachtoffer 2] en/of andere  personen met de woorden toevoegend: "Geef geld, geld" en/of
+- een vuurwapen, althans een op een vuurwapen gelijkend voorwerp in zijn hand had en hiermee richtte op genoemde [slachtoffer 1] en/of [slachtoffer 2] en/of andere personen met de woorden toevoegend: "Geef geld, geld" en/of
 
 - dreigend (een) mes(sen), althans een op een mes gelijkend voorwerp in zijn hand(en) vasthield(en) en dit richtte naar het slachtoffer [slachtoffer 1] en/of [slachtoffer 2] en/of
 
-- een vuurwapen, althans een op een vuurwapen gelijkend voorwerp in zijn hand  had en richtte op het hoofd van [slachtoffer 2] en dreigend schreeuwde: "Alles in de  tas, alles in de tas" en/of
+- een vuurwapen, althans een op een vuurwapen gelijkend voorwerp in zijn hand had en richtte op het hoofd van [slachtoffer 2] en dreigend schreeuwde: "Alles in de tas, alles in de tas" en/of
 
 - één of en meermalen dreigend tegen die [slachtoffer 1] heeft geroepen: "Ik maak je af, ik maak je af";
 
@@ -180,11 +180,11 @@ kunnen leiden:
 
 - een vuurwapen, althans een op een vuurwapen gelijkend voorwerp in zijn hand had en hiermee richtte op genoemde [slachtoffer 1] en/of [slachtoffer 2] en/of andere personen met de woorden toevoegend: "Geef geld, geld" en/of
 
-- dreigend (een) mes(sen), althans een op een mes gelijkend voorwerp in zijn hand(en) vasthield(en) en dit gericht naar het slachtoffer [slachtoffer 1] en/of  [slachtoffer 2] en/of
+- dreigend (een) mes(sen), althans een op een mes gelijkend voorwerp in zijn hand(en) vasthield(en) en dit gericht naar het slachtoffer [slachtoffer 1] en/of [slachtoffer 2] en/of
 
-- een vuurwapen, althans een op een vuurwapen gelijkend voorwerp in zijn hand  had en richtte op het hoofd van [slachtoffer 2] en dreigend schreeuwde: "Alles in de  tas, alles in de tas" en/of
+- een vuurwapen, althans een op een vuurwapen gelijkend voorwerp in zijn hand had en richtte op het hoofd van [slachtoffer 2] en dreigend schreeuwde: "Alles in de tas, alles in de tas" en/of
 
-- één of en meermalen dreigend tegen die [slachtoffer 1] heeft geroepen: "Ik maak  je af, ik maak je af";
+- één of en meermalen dreigend tegen die [slachtoffer 1] heeft geroepen: "Ik maak je af, ik maak je af";
 
 tot en/of bij het plegen van welk misdrijf verdachte op of omstreeks 06 januari 2009 in de gemeente Amersfoort en/of elders te Nederland opzettelijk gelegenheid, middelen en/of inlichtingen heeft verschaft en/of opzettelijk behulpzaam is geweest door (toen en daar)
 
@@ -240,7 +240,7 @@ hij op of omstreeks 11 september 2008 in de gemeente Almere met het oogmerk om z
 
 * "Doe ook je andere oorbel uit." en/of
 
-* "Ik ga het controleren of het echt goud is door hem te branden, als het zwart wordt, 	    dan ga ik je nek breken.",
+* "Ik ga het controleren of het echt goud is door hem te branden, als het zwart wordt, dan ga ik je nek breken.",
 
 althans (telkens) woorden van gelijke aard of strekking;
 
@@ -274,7 +274,7 @@ hij op of omstreeks 11 september 2008 in de gemeente Almere met het oogmerk van 
 
 * "Doe ook je andere oorbel uit." en/of
 
-* "Ik ga het controleren of het echt goud is door hem te branden, als het zwart wordt, 	    dan ga ik je nek breken.",
+* "Ik ga het controleren of het echt goud is door hem te branden, als het zwart wordt, dan ga ik je nek breken.",
 
 althans (telkens) woorden van gelijke aard of strekking,
 
@@ -282,7 +282,7 @@ althans, indien het vorenstaande niet tot een veroordeling mocht of zou kunnen l
 
 hij op of omstreeks 11 september 2008 in de gemeente Almere opzettelijk [slachtoffer] heeft mishandeld door
 
--	(met kracht) die [slachtoffer] op het linkeroog en/of tegen het rechteroor en/of op/tegen/in heeft geslagen/gestompt,
+- (met kracht) die [slachtoffer] op het linkeroog en/of tegen het rechteroor en/of op/tegen/in heeft geslagen/gestompt,
 
 waardoor deze lestel heeft bekomen en/of pijn heeft ondervonden.
 
@@ -298,7 +298,7 @@ De rechtbank heeft vastgesteld dat de dagvaarding geldig is, dat zijzelf bevoegd
 
 4.1.1. Vaststaande feiten
 
-Op 5 februari 2009 wordt  een gewapende overval gepleegd op de juwelier “De Gouden Kroon” te Almere. Omstreeks 17.45 uur komen vier mannen met bedekte gezichten de winkel binnen. Twee van hen beginnen direct met de hamers die zij in hun handen hebben de vitrines in de winkel kapot te slaan. [slachtoffer], die op dat moment alleen aan het werk is in de winkel van zijn broer, loopt vanuit de werkkamer de winkel in en gooit zijn werkhamer richting een van de overvallers. Hierna rent hij door de voordeur naar buiten. Hij drukt op de alarmknop en schreeuwt dat er een overval plaatsvindt. Vervolgens probeert [slachtoffer] het rolluik aan de voorzijde van de juwelierszaak naar beneden te trekken met als doel om de daders van de overval in te sluiten. Het rolluik wordt tegengehouden en één van de overvallers weet onder het rolluik door weg te komen. Als deze overvaller onder het rolluik door is lukt het [slachtoffer] het rolluik tot aan de grond toe naar beneden te trekken. Terwijl [slachtoffer] het rolluik naar beneden houdt wordt hij door de ontkomen overvaller in zijn buik geschoten.
+Op 5 februari 2009 wordt een gewapende overval gepleegd op de juwelier “De Gouden Kroon” te Almere. Omstreeks 17.45 uur komen vier mannen met bedekte gezichten de winkel binnen. Twee van hen beginnen direct met de hamers die zij in hun handen hebben de vitrines in de winkel kapot te slaan. [slachtoffer], die op dat moment alleen aan het werk is in de winkel van zijn broer, loopt vanuit de werkkamer de winkel in en gooit zijn werkhamer richting een van de overvallers. Hierna rent hij door de voordeur naar buiten. Hij drukt op de alarmknop en schreeuwt dat er een overval plaatsvindt. Vervolgens probeert [slachtoffer] het rolluik aan de voorzijde van de juwelierszaak naar beneden te trekken met als doel om de daders van de overval in te sluiten. Het rolluik wordt tegengehouden en één van de overvallers weet onder het rolluik door weg te komen. Als deze overvaller onder het rolluik door is lukt het [slachtoffer] het rolluik tot aan de grond toe naar beneden te trekken. Terwijl [slachtoffer] het rolluik naar beneden houdt wordt hij door de ontkomen overvaller in zijn buik geschoten.
 
 De schutter weet te vluchten. De andere drie overvallers worden door de politie op heterdaad aangehouden. Verdachte is één van hen.
 
@@ -320,17 +320,17 @@ De raadsvrouw van verdachte heeft aangevoerd dat het schieten niet aan verdachte
 
 De rechtbank is van oordeel dat hetgeen verdachte onder 1 primair en onder 2 ten laste is gelegd wettig en overtuigend kan worden bewezen.
 
-Nu er reeds sieraden uit de vitrines waren weggenomen en in een tas waren gedaan  is sprake van een voltooide wegnemingshandeling en daarmee een voltooide diefstal. De weggenomen sieraden zijn op dat moment in de feitelijke heerschappij van de overvallers. Dat zij de winkel niet hebben (kunnen) verlaten doet hieraan niet af. Overigens zijn ook buiten de winkel sieraden aangetroffen.
+Nu er reeds sieraden uit de vitrines waren weggenomen en in een tas waren gedaan is sprake van een voltooide wegnemingshandeling en daarmee een voltooide diefstal. De weggenomen sieraden zijn op dat moment in de feitelijke heerschappij van de overvallers. Dat zij de winkel niet hebben (kunnen) verlaten doet hieraan niet af. Overigens zijn ook buiten de winkel sieraden aangetroffen.
 
-Anders dan de verdediging is de rechtbank van oordeel dat ook het gebruik van het vuurwapen door de weggekomen dader aan verdachte kan worden toegerekend. De verklaring van verdachte dat hij niet op de hoogte was van het feit dat er een wapen was meegenomen en dat men aannam dat het inslaan van de vitrines met hamers een voldoende afschrikwekkend effect zou moeten hebben acht de rechtbank uiterst ongeloofwaardig. Verdachte heeft samen met zijn mededaders van te voren een plan gemaakt om de juwelierszaak te gaan overvallen.  Zij hebben een rolverdeling gemaakt, waarbij één overvaller de ruiten zou inslaan, één overvaller de medewerker van de juwelierszaak vast zou houden en twee overvallers de sieraden zouden pakken uit de ingeslagen vitrines. Verdachte heeft verklaard dat het zijn taak was om de ruiten in te slaan . Medeverdachte [X] heeft verklaard dat hij sieraden heeft gepakt uit de vitrines samen met medeverdachte [Y] .
+Anders dan de verdediging is de rechtbank van oordeel dat ook het gebruik van het vuurwapen door de weggekomen dader aan verdachte kan worden toegerekend. De verklaring van verdachte dat hij niet op de hoogte was van het feit dat er een wapen was meegenomen en dat men aannam dat het inslaan van de vitrines met hamers een voldoende afschrikwekkend effect zou moeten hebben acht de rechtbank uiterst ongeloofwaardig. Verdachte heeft samen met zijn mededaders van te voren een plan gemaakt om de juwelierszaak te gaan overvallen. Zij hebben een rolverdeling gemaakt, waarbij één overvaller de ruiten zou inslaan, één overvaller de medewerker van de juwelierszaak vast zou houden en twee overvallers de sieraden zouden pakken uit de ingeslagen vitrines. Verdachte heeft verklaard dat het zijn taak was om de ruiten in te slaan . Medeverdachte [X] heeft verklaard dat hij sieraden heeft gepakt uit de vitrines samen met medeverdachte [Y] .
 
 Uit deze afgesproken rolverdeling volgt, dat was afgesproken dat de later ontkomen vierde dader de medewerker(s) van de winkel onder controle zou houden. Bij deze rol past het voorhanden hebben van een wapen.
 
 Op 4 februari komt men al in de woning van [getuige 1] bijeen om de overval te plegen. Omdat het die dag echter al te laat was gaat het dan niet door.
 
-[getuige 1] verklaart dat het wapen op 4 februari van hand tot hand is gegaan.  De verklaring van [getuige 1] dat de “pipa” er op 5 februari niet bij was zegt naar het oordeel van de rechtbank niet meer dan dat hij het wapen op 5 februari niet gezien heeft en niet dat er op 5 februari daadwerkelijk geen wapen was.
+[getuige 1] verklaart dat het wapen op 4 februari van hand tot hand is gegaan. De verklaring van [getuige 1] dat de “pipa” er op 5 februari niet bij was zegt naar het oordeel van de rechtbank niet meer dan dat hij het wapen op 5 februari niet gezien heeft en niet dat er op 5 februari daadwerkelijk geen wapen was.
 
-Medegedetineerde [X] heeft in detentie verdachte horen zeggen dat het de bedoeling was dat de juwelier onder schot zou worden gehouden.  De verklaring van verdachte dat dit slechts stoere praat was acht de rechtbank in het licht van het vorengaande niet aannemelijk. Dat verdachte zich niet van wapens distantieert, blijkt overigens ook wel uit de foto’s die zijn aangetroffen waarop te zien is hoe verdachte trots met een vuurwapen poseert.
+Medegedetineerde [X] heeft in detentie verdachte horen zeggen dat het de bedoeling was dat de juwelier onder schot zou worden gehouden. De verklaring van verdachte dat dit slechts stoere praat was acht de rechtbank in het licht van het vorengaande niet aannemelijk. Dat verdachte zich niet van wapens distantieert, blijkt overigens ook wel uit de foto’s die zijn aangetroffen waarop te zien is hoe verdachte trots met een vuurwapen poseert.
 
 Nu de verdachte wist dat er ten tijde van de overval een vuurwapen aanwezig was en het (eventuele) gebruik van geweld en bedreiging met geweld onderdeel was van het gezamenlijke plan, heeft verdachte bewust de aanmerkelijke kans aanvaard dat er met het wapen op de in de winkel aanwezige medewerker(s) zou worden geschoten en dat iemand als gevolg daarvan zwaar lichamelijk letsel zou oplopen.
 
@@ -362,7 +362,7 @@ De rechtbank overweegt dat zich in het strafdossier ten aanzien van het onder 3 
 
 Het DNA-profiel van verdachte matcht met het DNA mengprofiel dat is aangetroffen op de trui die in de Volkswagen Golf is gevonden. De rechtbank overweegt dat uit het strafdossier niet volgt dat de onderzochte trui de trui is die door een van de daders bij de overval is gedragen, zodat deze DNA gegevens geen bewijs kunnen opleveren voor betrokkenheid van verdachte bij de overval. De rechtbank overweegt ten overvloede dat, zelfs al zou komen vast te staan dat de trui die is onderzocht de trui is die door een van de overvallers ten tijde van de overval werd gedragen, daaruit nog niet volgt dat verdachte toen de trui moet hebben gedragen. Er is een mengprofiel aangetroffen waarvan verdachtes DNA deel uitmaakt, zodat niet meer vastgesteld kan worden dan dat verdachte ooit in contact moet zijn geweest met die trui.
 
-Er zijn historische verkeersgegevens van de mobiele telefoon met nummer xx-xxxxxxxx. Dit  nummer stond onder de naam [xxxx] in de telefoon van een medeverdachte en had ten tijde van de overval contact met een vaste GSM-antenne in Alkmaar. De rechtbank overweegt dat, mocht al kunnen worden vastgesteld dat het nummer ten tijde van de overval bij verdachte in gebruik was, deze gegevens geen bewijs opleveren voor de aanwezigheid van verdachte op de plaats van de overval.
+Er zijn historische verkeersgegevens van de mobiele telefoon met nummer xx-xxxxxxxx. Dit nummer stond onder de naam [xxxx] in de telefoon van een medeverdachte en had ten tijde van de overval contact met een vaste GSM-antenne in Alkmaar. De rechtbank overweegt dat, mocht al kunnen worden vastgesteld dat het nummer ten tijde van de overval bij verdachte in gebruik was, deze gegevens geen bewijs opleveren voor de aanwezigheid van verdachte op de plaats van de overval.
 
 Ten slotte is er nog het wapen dat is gevonden in de auto, wat gelijkenissen vertoont met het wapen waarmee verdachte op een foto is te zien. Ook het aantreffen van dit wapen kan (ook in samenhang bezien met het vorenstaande) geen bewijs opleveren voor betrokkenheid van verdachte bij de overval. Immers kan niet worden vastgesteld dat het betreffende wapen het wapen is dat bij de overval op de Lidl is gebruikt.
 
@@ -426,15 +426,15 @@ De rechtbank is van oordeel dat wettig en overtuigend kan worden bewezen dat ver
 
 De rechtbank ziet geen reden om de verklaringen van getuige [getuige 2] en getuige [medeverdachte 3] uit te sluiten van het bewijs, zoals door de raadsvrouw is betoogd. Uit het dossier komt voldoende duidelijk naar voren op welke wijze de politie bij getuige [getuige 2] terecht is gekomen, namelijk via de telefoon van [medeverdachte 1].
 
-De rechtbank hecht met name waarde aan de verklaring van getuige [getuige 2]. Zij wordt zelf niet verdacht van enig strafbaar feit en heeft er dus geen belang bij anderen te belasten om zo zichzelf te ontlasten. Getuige [getuige 2] verklaart dat zij op 5 januari rond 23.00 uur in de bus drie jongens heeft ontmoet, een Antilliaanse, een Surinaamse [X], en een Hindoestaanse jongen.  Zij herkent bij een fotoconfrontatie verdachte als de Antilliaan, [medeverdachte 2] als de Hindoestaan en [medeverdachte 1] als de Surinamer uit Almere, de jongens die zij die avond in de bus tegen komt.  Ze vertellen haar dat ze uit Almere komen en dat ze gaan chillen bij een vriend. Aan [X] geeft ze haar telefoonnummer. Op 6 januari 2009 wordt ze door de Antilliaan opgehaald en meegenomen naar de flat van die vriend. Ze vragen haar om een schroevendraaier, maar die geeft ze niet. Ze gaat naar huis en als ze die avond weer naar de woning komt heeft ze door dat er iets mis is. Ze merkt dat er in de badkamer geld wordt verdeeld. Haar telefoon wordt afgepakt en ze mag niet weg.  Aan de politie wijst ze een woning aan de Leonorehof aan waar ze met de jongens is geweest.  In deze woning blijkt [medeverdachte 3], ook wel [Y] genoemd, te verblijven.
+De rechtbank hecht met name waarde aan de verklaring van getuige [getuige 2]. Zij wordt zelf niet verdacht van enig strafbaar feit en heeft er dus geen belang bij anderen te belasten om zo zichzelf te ontlasten. Getuige [getuige 2] verklaart dat zij op 5 januari rond 23.00 uur in de bus drie jongens heeft ontmoet, een Antilliaanse, een Surinaamse [X], en een Hindoestaanse jongen. Zij herkent bij een fotoconfrontatie verdachte als de Antilliaan, [medeverdachte 2] als de Hindoestaan en [medeverdachte 1] als de Surinamer uit Almere, de jongens die zij die avond in de bus tegen komt. Ze vertellen haar dat ze uit Almere komen en dat ze gaan chillen bij een vriend. Aan [X] geeft ze haar telefoonnummer. Op 6 januari 2009 wordt ze door de Antilliaan opgehaald en meegenomen naar de flat van die vriend. Ze vragen haar om een schroevendraaier, maar die geeft ze niet. Ze gaat naar huis en als ze die avond weer naar de woning komt heeft ze door dat er iets mis is. Ze merkt dat er in de badkamer geld wordt verdeeld. Haar telefoon wordt afgepakt en ze mag niet weg. Aan de politie wijst ze een woning aan de Leonorehof aan waar ze met de jongens is geweest. In deze woning blijkt [medeverdachte 3], ook wel [Y] genoemd, te verblijven.
 
-Bovengenoemde verklaring van getuige [getuige 2] wordt bevestigd door de verklaring van [medeverdachte 1]. [medeverdachte 1] verklaart dat hij op 5 januari samen met verdachte en [medeverdachte 2]) vanaf het station Amersfoort naar het huis van [medeverdachte 3] is gegaan. In de bus komen ze een meisje tegen zo verklaart hij.  [medeverdachte 3] verklaart dat op 5 en 6 januari verdachte, [medeverdachte 2] en [medeverdachte 1] bij hem kwamen.  Ook verdachte verklaart dat hij op 5 januari 2009 bij [medeverdachte 3] thuis is geweest.
+Bovengenoemde verklaring van getuige [getuige 2] wordt bevestigd door de verklaring van [medeverdachte 1]. [medeverdachte 1] verklaart dat hij op 5 januari samen met verdachte en [medeverdachte 2]) vanaf het station Amersfoort naar het huis van [medeverdachte 3] is gegaan. In de bus komen ze een meisje tegen zo verklaart hij. [medeverdachte 3] verklaart dat op 5 en 6 januari verdachte, [medeverdachte 2] en [medeverdachte 1] bij hem kwamen. Ook verdachte verklaart dat hij op 5 januari 2009 bij [medeverdachte 3] thuis is geweest.
 
 Zowel uit de verklaring van [medeverdachte 1] als uit de verklaring van [medeverdachte 3] volgt dat de overval door drie personen vanuit de woning van [medeverdachte 3] is gepleegd.
 
 Op basis van de aangifte en de verklaringen van [getuige 2], [medeverdachte 3] en [medeverdachte 1] komt de rechtbank tot de conclusie dat de overval op de supermarkt Hoogvliet vanuit de woning van [medeverdachte 3] is gepleegd door drie personen. In de woning aanwezig waren verdachte, [medeverdachte 2], [medeverdachte 1] en [medeverdachte 3] zelf. Vervolgens dient de rechtbank de vraag te beantwoorden welke drie van deze vier personen de overval op de supermarkt Hoogvliet hebben gepleegd en wie van hen er in de woning is achter gebleven. [medeverdachte 1] verklaart dat hij degene was die in de woning achter bleef, terwijl [medeverdachte 3] verklaart dat hij niet bij de overval op de supermarkt Hoogvliet aanwezig was, thuis is gebleven en achter de computer zat.
 
-De verklaring van [medeverdachte 3] acht de rechtbank geloofwaardig. Hij verklaart dat verdachte en [medeverdachte 2] hem bij een bezoek aan de supermarkt Hoogvliet op 5 januari ’s middags eerst vroegen mee te doen aan de overval en dat toen hij weigerde ze [medeverdachte 1] hebben gevraagd.  Dat dit daadwerkelijk ook is gebeurd blijkt uit de verklaring van [medeverdachte 1].  Op uitnodiging van [medeverdachte 2] gaat hij naar Amersfoort en reist in ieder geval het laatste stuk samen met verdachte en [medeverdachte 2] naar de woning van [medeverdachte 3]. De rechtbank acht het niet aannemelijk dat [medeverdachte 1] vervolgens in het huis van een ander gaat zitten wachten terwijl die ander samen met zijn vrienden een overval gaat plegen. De verklaring van [medeverdachte 3] op dit punt is aannemelijker. De overval is gepleegd vanuit het huis waar hij verbleef. Uit MSN gesprekken blijkt dat met gebruikmaking van zijn MSN account op het moment van de overval een MSN bericht is verzonden.
+De verklaring van [medeverdachte 3] acht de rechtbank geloofwaardig. Hij verklaart dat verdachte en [medeverdachte 2] hem bij een bezoek aan de supermarkt Hoogvliet op 5 januari ’s middags eerst vroegen mee te doen aan de overval en dat toen hij weigerde ze [medeverdachte 1] hebben gevraagd. Dat dit daadwerkelijk ook is gebeurd blijkt uit de verklaring van [medeverdachte 1]. Op uitnodiging van [medeverdachte 2] gaat hij naar Amersfoort en reist in ieder geval het laatste stuk samen met verdachte en [medeverdachte 2] naar de woning van [medeverdachte 3]. De rechtbank acht het niet aannemelijk dat [medeverdachte 1] vervolgens in het huis van een ander gaat zitten wachten terwijl die ander samen met zijn vrienden een overval gaat plegen. De verklaring van [medeverdachte 3] op dit punt is aannemelijker. De overval is gepleegd vanuit het huis waar hij verbleef. Uit MSN gesprekken blijkt dat met gebruikmaking van zijn MSN account op het moment van de overval een MSN bericht is verzonden.
 
 De rechtbank zal de verklaring van getuige [getuige 2] met betrekking tot de herkenning van verdachte en anderen op foto’s van de overval niet bezigen voor het bewijs. Naar het oordeel van de rechtbank is herkenning van personen door middel van deze foto’s waarop weinig uiterlijke kenmerken waarneembaar zijn, niet voldoende betrouwbaar.
 
@@ -470,7 +470,7 @@ De rechtbank acht wettig en overtuigend bewezen hetgeen de verdachte onder 1 pri
 
 1.
 
-hij op 05 februari 2009 in de gemeente Almere tezamen en in vereniging met anderen, met het oogmerk van wederrechtelijke toe-eigening heeft weggenomen, sieraden, geheel of ten dele toebehorende aan Juwelier de Gouden Kroon, welke diefstal werd vergezeld en gevolgd door geweld en bedreiging met geweld tegen [slachtoffer], gepleegd met het oogmerk om die diefstal gemakkelijk te maken en om bij betrapping op heterdaad aan zichzelf en/of aan zijn mededaders de vlucht mogelijk te maken, welk geweld en welke bedreiging met geweld hierin bestonden dat verdachte en zijn mededaders met een zodanige bedekking van het gezicht dat herkenning niet mogelijk was en voorzien van hamers dat pand van die Juwelier, waarin die [slachtoffer] zich bevond zijn binnengegaan en (vervolgens) in het bijzijn van en zichtbaar en hoorbaar voor die [slachtoffer] het glas van vitrines hebben ingeslagen en (aldus) voor die [slachtoffer] een bedreigende situatie hebben doen ontstaan en met een hamer in de hand ten overstaan van en zichtbaar voor die [slachtoffer] hebben gemanipuleerd en met een vuurwapen in de richting van genoemde Karatay hebben geschoten waarbij genoemde [slachtoffer] door een kogel in zijn buik werd geraakt, tengevolge van welk feit die [slachtoffer], zwaar lichamelijk letsel, te weten een schotwond in de buik en een beschadiging aan de dunne darm, heeft bekomen.
+hij op 05 februari 2009 in de gemeente Almere tezamen en in vereniging met anderen, met het oogmerk van wederrechtelijke toe-eigening heeft weggenomen, sieraden, geheel of ten dele toebehorende aan Juwelier de Gouden Kroon, welke diefstal werd vergezeld en gevolgd door geweld en bedreiging met geweld tegen [slachtoffer], gepleegd met het oogmerk om die diefstal gemakkelijk te maken en om bij betrapping op heterdaad aan zichzelf en/of aan zijn mededaders de vlucht mogelijk te maken, welk geweld en welke bedreiging met geweld hierin bestonden dat verdachte en zijn mededaders met een zodanige bedekking van het gezicht dat herkenning niet mogelijk was en voorzien van hamers dat pand van die Juwelier, waarin die [slachtoffer] zich bevond zijn binnengegaan en (vervolgens) in het bijzijn van en zichtbaar en hoorbaar voor die [slachtoffer] het glas van vitrines hebben ingeslagen en (aldus) voor die [slachtoffer] een bedreigende situatie hebben doen ontstaan en met een hamer in de hand ten overstaan van en zichtbaar voor die [slachtoffer] hebben gemanipuleerd en met een vuurwapen in de richting van genoemde [slachtoffer] hebben geschoten waarbij genoemde [slachtoffer] door een kogel in zijn buik werd geraakt, tengevolge van welk feit die [slachtoffer], zwaar lichamelijk letsel, te weten een schotwond in de buik en een beschadiging aan de dunne darm, heeft bekomen.
 
 2.
 
@@ -486,7 +486,7 @@ hij op 6 januari 2009 in de gemeente Amersfoort, tezamen en in vereniging met an
 
 - genoemde [slachtoffer 1] bij haar hals en nek vastpakte en stevig vastklemde en
 
-- een vuurwapen, althans een op een vuurwapen gelijkend voorwerp in zijn hand  had en richtte op het hoofd van [slachtoffer 2] en dreigend schreeuwde: "Alles in de  tas, alles in de tas" en
+- een vuurwapen, althans een op een vuurwapen gelijkend voorwerp in zijn hand had en richtte op het hoofd van [slachtoffer 2] en dreigend schreeuwde: "Alles in de tas, alles in de tas" en
 
 - dreigend tegen die [slachtoffer 1] heeft geroepen: "Ik maak je af, ik maak je af";
 
@@ -524,7 +524,7 @@ hij op 11 september 2008 in de gemeente Almere met het oogmerk om zich wederrech
 
 * "Doe ook je andere oorbel uit." en
 
-* "Ik ga het controleren of het echt goud is door hem te branden, als het zwart wordt, 	    dan ga ik je nek breken."
+* "Ik ga het controleren of het echt goud is door hem te branden, als het zwart wordt, dan ga ik je nek breken."
 
 Van het onder 1 primair, 2, 7 primair en 8 op de dagvaarding met parketnummer 07.607059-09 en het primair op de dagvaarding met parketnummer 07.607387-08 meer of anders ten laste gelegde zal de verdachte worden vrijgesproken, aangezien de rechtbank dat niet wettig en overtuigend bewezen acht.
 
@@ -600,7 +600,7 @@ De hoogte van die schade is naar het oordeel van de rechtbank genoegzaam komen v
 
 De vordering van de benadeelde partij, die in die vordering ontvankelijk is, is in dier voege toewijsbaar.
 
-De vordering van de benadeelde partij [benadeelde partij 2]  is naar het oordeel van de rechtbank voor wat het meer gevorderde betreft niet van zo eenvoudige aard dat deze zich leent voor behandeling in het strafgeding. De rechtbank zal derhalve bepalen dat de benadeelde partij voor dat deel niet-ontvankelijk is en dat de vordering voor dat deel slechts bij de burgerlijke rechter kan worden aangebracht.
+De vordering van de benadeelde partij [benadeelde partij 2] is naar het oordeel van de rechtbank voor wat het meer gevorderde betreft niet van zo eenvoudige aard dat deze zich leent voor behandeling in het strafgeding. De rechtbank zal derhalve bepalen dat de benadeelde partij voor dat deel niet-ontvankelijk is en dat de vordering voor dat deel slechts bij de burgerlijke rechter kan worden aangebracht.
 
 De verdachte is voor de schade, voor zover toegewezen, naar burgerlijk recht hoofdelijk aansprakelijk.
 
