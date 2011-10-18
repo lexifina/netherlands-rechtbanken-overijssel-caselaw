@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Voorlopige voorziening"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBZLY:2011:BT8860"
-published_in: ["Rechtspraak.nl", "RAR 2012/12", "AR-Updates.nl 2011-0862"]
+published_in: ["Rechtspraak.nl", "RAR 2012/12", "AR-Updates.nl 2011-0862", "VAAN-AR-Updates.nl 2011-0862"]
 ---
 
 # ECLI:NL:RBZLY:2011:BT8860 Rechtbank Zwolle-Lelystad , 18-10-2011 / 571882 VV 11-71
