@@ -9,11 +9,15 @@ type: "uitspraak"
 procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBOVE:2017:2182"
-published_in: ["Rechtspraak.nl", "V-N 2018/3.2.3", "V-N Vandaag 2017/1284", "FutD 2017-1381", "NLF 2017/1468 met annotatie van"]
+published_in: ["Rechtspraak.nl", "V-N 2018/3.2.3", "V-N Vandaag 2017/1284", "NLF 2017/1468", "FutD 2017-1381", "Viditax (FutD) 2017060103"]
 cites_law: ["netherlands/national/acts/uitvoeringsregeling-algemene-wet-inkomensafhankelijke-regelingen/art-009bis.md"]
 ---
 
-# ECLI:NL:RBOVE:2017:2182
+# ECLI:NL:RBOVE:2017:2182 Rechtbank Overijssel , 24-05-2017 / ak_16_2706
+
+## Inhoudsindicatie
+
+Verzoek van eiseres om bij de bepaling van haar recht op zorg- en huurtoeslag de aan haar toegekende schadevergoeding van € 260.000.00 buiten beschouwing te laten voor wat betreft het berekeningsjaar 2013 op goede gronden afgewezen; beroep ongegrond.
 
 ## Uitspraak
 
