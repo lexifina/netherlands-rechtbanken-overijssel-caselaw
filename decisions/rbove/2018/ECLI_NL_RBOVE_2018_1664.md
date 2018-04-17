@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht; Personen- en familierecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBOVE:2018:1664"
-published_in: ["Rechtspraak.nl", "PJ 2018/131", "PR-Updates.nl PR-2018-0062"]
+published_in: ["Rechtspraak.nl", "PJ 2018/131", "PR-Updates.nl PR-2018-0062", "PR-Updates.nl 2018-0062"]
 ---
 
 # ECLI:NL:RBOVE:2018:1664 Rechtbank Overijssel , 17-04-2018 / 6579864 \ CV EXPL  18-191
