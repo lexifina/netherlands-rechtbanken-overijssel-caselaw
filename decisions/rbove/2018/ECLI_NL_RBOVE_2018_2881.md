@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBOVE:2018:2881"
-published_in: ["Rechtspraak.nl", "PJ 2018/154", "AR-Updates.nl 2018-0936", "PR-Updates.nl PR-2018-0104"]
+published_in: ["Rechtspraak.nl", "PJ 2018/154", "AR-Updates.nl 2018-0936", "PR-Updates.nl PR-2018-0104", "VAAN-AR-Updates.nl 2018-0936", "PR-Updates.nl 2018-0104"]
 ---
 
 # ECLI:NL:RBOVE:2018:2881 Rechtbank Overijssel , 17-07-2018 / 6593782 \ CV EXPL  18-291
