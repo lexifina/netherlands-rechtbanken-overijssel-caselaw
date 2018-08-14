@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Mondelinge uitspraak"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBOVE:2018:5155"
-published_in: ["Rechtspraak.nl", "AR-Updates.nl 2020-0512", "PR-Updates.nl PR-2020-0096", "PJ 2020/95"]
+published_in: ["Rechtspraak.nl", "AR-Updates.nl 2020-0512", "PR-Updates.nl PR-2020-0096", "PJ 2020/95", "VAAN-AR-Updates.nl 2020-0512", "PR-Updates.nl 2020-0096"]
 ---
 
 # ECLI:NL:RBOVE:2018:5155 Rechtbank Overijssel , 14-08-2018 / 6038530 \ CV EXPL  17-1983 (pm)
