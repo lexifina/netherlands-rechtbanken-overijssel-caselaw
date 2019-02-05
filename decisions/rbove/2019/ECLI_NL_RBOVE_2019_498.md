@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht; Arbeidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBOVE:2019:498"
-published_in: ["Rechtspraak.nl", "AR-Updates.nl 2019-0174", "PR-Updates.nl PR-2019-0035"]
+published_in: ["Rechtspraak.nl", "AR-Updates.nl 2019-0174", "PR-Updates.nl PR-2019-0035", "VAAN-AR-Updates.nl 2019-0174", "PR-Updates.nl 2019-0035"]
 ---
 
 # ECLI:NL:RBOVE:2019:498 Rechtbank Overijssel , 05-02-2019 / 7020745 CV EPL 18-3534
