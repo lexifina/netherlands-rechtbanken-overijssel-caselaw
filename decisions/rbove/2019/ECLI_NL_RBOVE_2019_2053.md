@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht; Arbeidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBOVE:2019:2053"
-published_in: ["Rechtspraak.nl", "PJ 2019/89", "AR-Updates.nl 2019-0639", "PR-Updates.nl PR-2019-0088"]
+published_in: ["Rechtspraak.nl", "PJ 2019/89", "AR-Updates.nl 2019-0639", "PR-Updates.nl PR-2019-0088", "VAAN-AR-Updates.nl 2019-0639", "PR-Updates.nl 2019-0088"]
 ---
 
 # ECLI:NL:RBOVE:2019:2053 Rechtbank Overijssel , 11-06-2019 / 7285342 \ CV EXPL  18-5664
