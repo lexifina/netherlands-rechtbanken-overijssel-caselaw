@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Kort geding"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBOVE:2019:3713"
-published_in: ["Rechtspraak.nl", "AR-Updates.nl 2019-1089", "JAR 2019/285", "PR-Updates.nl PR-2019-0141"]
+published_in: ["Rechtspraak.nl", "AR-Updates.nl 2019-1089", "JAR 2019/285", "PR-Updates.nl PR-2019-0141", "VAAN-AR-Updates.nl 2019-1089", "PR-Updates.nl 2019-0141"]
 ---
 
 # ECLI:NL:RBOVE:2019:3713 Rechtbank Overijssel , 09-07-2019 / 7721740 CV EXPL 19-2657
