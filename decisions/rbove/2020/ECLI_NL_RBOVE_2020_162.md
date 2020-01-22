@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBOVE:2020:162"
-published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2020-0017", "PJ 2020/73"]
+published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2020-0017", "PJ 2020/73", "PR-Updates.nl 2020-0017"]
 ---
 
 # ECLI:NL:RBOVE:2020:162 Rechtbank Overijssel , 22-01-2020 / C/08/238202 / HA ZA 19-444
