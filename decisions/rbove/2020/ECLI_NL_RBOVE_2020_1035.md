@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht; Ambtenarenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBOVE:2020:1035"
-published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2020-0073"]
+published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2020-0073", "PR-Updates.nl 2020-0073"]
 ---
 
 # ECLI:NL:RBOVE:2020:1035 Rechtbank Overijssel , 06-03-2020 / ak_19 _ 807
