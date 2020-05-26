@@ -9,7 +9,8 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBOVE:2020:1855"
-published_in: ["Rechtspraak.nl", "AR-Updates.nl 2020-0606", "PR-Updates.nl PR-2020-0103", "JAR 2020/171 met annotatie van Haaren, K.A. van", "PJ 2020/106"]
+published_in: ["Rechtspraak.nl", "AR-Updates.nl 2020-0606", "PR-Updates.nl PR-2020-0103", "JAR 2020/171 met annotatie van Haaren, K.A. van", "PJ 2020/106", "VAAN-AR-Updates.nl 2020-0606", "PR-Updates.nl 2020-0103"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHARL:2022:6832, (Gedeeltelijke) vernietiging en zelf afgedaan"]]
 ---
 
 # ECLI:NL:RBOVE:2020:1855 Rechtbank Overijssel , 26-05-2020 / 7841402 \ CV EXPL  19-3524
