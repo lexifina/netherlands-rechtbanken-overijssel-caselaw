@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Beschikking"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBOVE:2020:2309"
-published_in: ["Rechtspraak.nl", "AR-Updates.nl 2020-0785", "PR-Updates.nl PR-2020-0135"]
+published_in: ["Rechtspraak.nl", "AR-Updates.nl 2020-0785", "PR-Updates.nl PR-2020-0135", "VAAN-AR-Updates.nl 2020-0785", "PR-Updates.nl 2020-0135"]
 ---
 
 # ECLI:NL:RBOVE:2020:2309 Rechtbank Overijssel , 24-06-2020 / 8325326 \ EJ VERZ  20-58
