@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Beschikking"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBOVE:2020:3165"
-published_in: ["Rechtspraak.nl", "AR-Updates.nl 2020-1161", "JAR 2020/244", "PR-Updates.nl PR-2020-0157"]
+published_in: ["Rechtspraak.nl", "AR-Updates.nl 2020-1161", "JAR 2020/244", "PR-Updates.nl PR-2020-0157", "VAAN-AR-Updates.nl 2020-1161", "PR-Updates.nl 2020-0157"]
 ---
 
 # ECLI:NL:RBOVE:2020:3165 Rechtbank Overijssel , 16-09-2020 / 8598763 \ EJ VERZ  20-208
@@ -243,15 +243,15 @@ Het geschil
 
 De OR verzoekt om bij beschikking, voor zover mogelijk uitvoerbaar bij voorraad, [verweerster] te verplichten zich te onthouden van handelingen die strekken tot uitvoering of toepassing van het nietige besluit en aan [verweerster] de verplichting op te leggen om bepaalde handelingen te verrichten of na te laten, meer in het bijzonder:
 
-I. [verweerster] te verbieden de hoogte van het pensioen met ingang van 1 januari 2020 niet te garanderen op de wijze zoals dat voor die datum gold, te gebieden uiterlijk binnen twee maanden na deze beschikking de hoogte van het pensioen met ingang van 1 januari 2020 te garanderen op de wijze zoals dat voor die datum gold,
+I. [verweerster] te verbieden de hoogte van het pensioen met ingang van 1 januari 2020 niet te garanderen op de wijze zoals dat voor die datum gold,[verweerster] te gebieden uiterlijk binnen twee maanden na deze beschikking de hoogte van het pensioen met ingang van 1 januari 2020 te garanderen op de wijze zoals dat voor die datum gold,
 
-II. [verweerster] te verbieden met ingang van 1 januari 2020 een verdeling van de pensioenpremie te hanteren van 52 % werkgever en 48 % werknemer,  te gebieden uiterlijk binnen 14 dagen na deze beschikking de verdeling van de pensioenpremie met ingang van 1 januari 2020 te handhaven op de wijze zoals dat voor die datum gold, te weten: 70,46 % werkgever en 29,54 % werknemer,
+II. [verweerster] te verbieden met ingang van 1 januari 2020 een verdeling van de pensioenpremie te hanteren van 52 % werkgever en 48 % werknemer, [verweerster] te gebieden uiterlijk binnen 14 dagen na deze beschikking de verdeling van de pensioenpremie met ingang van 1 januari 2020 te handhaven op de wijze zoals dat voor die datum gold, te weten: 70,46 % werkgever en 29,54 % werknemer,
 
-III. [verweerster] te verbieden de stijging van de pensioenpremie over het jaar 2019 ten laste te brengen van de winst over dat jaar bij de berekening van de winstuitkering over dat jaar,  te gebieden de stijging van de pensioenpremie over het jaar 2019 bij de berekening van de winstuitkering over dat jaar buiten beschouwing te laten,
+III. [verweerster] te verbieden de stijging van de pensioenpremie over het jaar 2019 ten laste te brengen van de winst over dat jaar bij de berekening van de winstuitkering over dat jaar, [verweerster] te gebieden de stijging van de pensioenpremie over het jaar 2019 bij de berekening van de winstuitkering over dat jaar buiten beschouwing te laten,
 
-IV. [verweerster] te verbieden de loonontwikkeling van de Cao Metalektro pas te volgen met ingang van 1 januari 2020,  te gebieden de loonontwikkeling van de Cao Metalektro te volgen met ingang van 1 januari 2019,
+IV. [verweerster] te verbieden de loonontwikkeling van de Cao Metalektro pas te volgen met ingang van 1 januari 2020, [verweerster] te gebieden de loonontwikkeling van de Cao Metalektro te volgen met ingang van 1 januari 2019,
 
-V. [verweerster] te verbieden het pensioen per 1 januari 2019 niet te indexeren uit het daartoe beschikbare indexatiedepot op basis van de CBS-cijfers van oktober 2018 en ook overigens op de wijze zoals dat voor 1 januari 2019 gold en [verweerster] te verbieden het indexatiedepot in de plaats daarvan te besteden aan een eenmalige indexatie bij alle actieve deelnemers, te gebieden uiterlijk binnen twee maanden na deze beschikking het pensioen per 1 januari 2019 te indexeren uit het daartoe beschikbare indexatiedepot op basis van de CBS-cijfers van oktober 2018 en ook overigens op de wijze zoals dat voor 1 januari 2019 gold,
+V. [verweerster] te verbieden het pensioen per 1 januari 2019 niet te indexeren uit het daartoe beschikbare indexatiedepot op basis van de CBS-cijfers van oktober 2018 en ook overigens op de wijze zoals dat voor 1 januari 2019 gold en [verweerster] te verbieden het indexatiedepot in de plaats daarvan te besteden aan een eenmalige indexatie bij alle actieve deelnemers,[verweerster] te gebieden uiterlijk binnen twee maanden na deze beschikking het pensioen per 1 januari 2019 te indexeren uit het daartoe beschikbare indexatiedepot op basis van de CBS-cijfers van oktober 2018 en ook overigens op de wijze zoals dat voor 1 januari 2019 gold,
 
 en te bepalen dat [verweerster] aan hetgeen is vermeld onder I tot en met V gevolg dient te geven, althans zodanige uitspraak te doen als de kantonrechter in goede justitie meent te behoren, alles met veroordeling van [verweerster] in de kosten van dit geding, het salaris van de gemachtigden van de OR daaronder begrepen.
 
