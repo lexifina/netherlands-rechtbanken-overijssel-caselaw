@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht; Arbeidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBOVE:2020:4451"
-published_in: ["Rechtspraak.nl", "AR-Updates.nl 2020-1587", "PR-Updates.nl PR-2021-0005"]
+published_in: ["Rechtspraak.nl", "AR-Updates.nl 2020-1587", "PR-Updates.nl PR-2021-0005", "VAAN-AR-Updates.nl 2020-1587", "PR-Updates.nl 2021-0005"]
 ---
 
 # ECLI:NL:RBOVE:2020:4451 Rechtbank Overijssel , 15-12-2020 / 8208457 CV EXPL 19-4323
