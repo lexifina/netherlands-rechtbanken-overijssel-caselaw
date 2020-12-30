@@ -9,7 +9,8 @@ type: "uitspraak"
 procedure: "Eerste aanleg - meervoudig"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBOVE:2020:4598"
-published_in: ["Rechtspraak.nl", "JOR 2021/59 met annotatie van Bartman, Steef M.", "RAV 2021/29", "RO 2021/24", "JONDR 2021/277"]
+published_in: ["Rechtspraak.nl", "JOR 2021/59 met annotatie van prof. mr. S.M. Bartman", "RAV 2021/29", "RO 2021/24", "JONDR 2021/277"]
+relations: [["Formele relatie", "Einduitspraak: ECLI:NL:RBOVE:2024:2004"]]
 ---
 
 # ECLI:NL:RBOVE:2020:4598 Rechtbank Overijssel , 30-12-2020 / C/08/240720 HA ZA 19-534
