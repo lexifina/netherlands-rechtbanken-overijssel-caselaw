@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht; Ambtenarenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBOVE:2021:3155"
-published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2021-0166", "TAR 2021/123"]
+published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2021-0166", "TAR 2021/123", "PR-Updates.nl 2021-0166"]
 ---
 
 # ECLI:NL:RBOVE:2021:3155 Rechtbank Overijssel , 05-08-2021 / ak_20 _ 1412
