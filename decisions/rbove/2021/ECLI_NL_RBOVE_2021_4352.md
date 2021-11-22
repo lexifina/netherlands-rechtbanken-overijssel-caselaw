@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - meervoudig"
 subject: "Strafrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBOVE:2021:4352"
-published_in: ["Rechtspraak.nl", "Jeugdrecht.nl JR-2021-0046", "JR-Updates.nl 2021-0046"]
+published_in: ["Rechtspraak.nl", "Jeugdrecht.nl JR-2021-0046", "JR-Updates.nl 2021-0046", "PFR-Updates.nl 2021-0046"]
 ---
 
 # ECLI:NL:RBOVE:2021:4352 Rechtbank Overijssel , 22-11-2021 / 08.090996.21 (P)
