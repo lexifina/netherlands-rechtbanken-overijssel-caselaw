@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBOVE:2022:2288"
-published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2022-0163", "PJ 2022/116"]
+published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2022-0163", "PJ 2022/116", "PR-Updates.nl 2022-0163"]
 ---
 
 # ECLI:NL:RBOVE:2022:2288 Rechtbank Overijssel , 03-08-2022 / C/08/277931 / HA ZA 22-68
