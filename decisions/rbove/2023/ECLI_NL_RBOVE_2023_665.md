@@ -10,6 +10,7 @@ procedure: "Proces-verbaal"
 subject: "Strafrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBOVE:2023:665"
 published_in: ["Rechtspraak.nl"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHARL:2023:3610, (Gedeeltelijke) vernietiging en zelf afgedaan"]]
 ---
 
 # ECLI:NL:RBOVE:2023:665 Rechtbank Overijssel , 19-01-2023 / 08.280268.22
