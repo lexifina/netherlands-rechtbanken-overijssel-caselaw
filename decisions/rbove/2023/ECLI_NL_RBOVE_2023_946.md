@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Beschikking"
 subject: "Civiel recht; Arbeidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBOVE:2023:946"
-published_in: ["Rechtspraak.nl", "AR-Updates.nl 2023-0353", "PR-Updates.nl PR-2023-0046", "VAAN-AR-Updates.nl 2023-0353"]
+published_in: ["Rechtspraak.nl", "AR-Updates.nl 2023-0353", "PR-Updates.nl PR-2023-0046", "VAAN-AR-Updates.nl 2023-0353", "PR-Updates.nl 2023-0046"]
 ---
 
 # ECLI:NL:RBOVE:2023:946 Rechtbank Overijssel , 08-03-2023 / 10199466 \ EJ VERZ  22-287
