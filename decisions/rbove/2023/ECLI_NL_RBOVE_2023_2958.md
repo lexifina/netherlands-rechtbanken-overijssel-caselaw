@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBOVE:2023:2958"
-published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2023-0151"]
+published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2023-0151", "PR-Updates.nl 2023-0151"]
 ---
 
 # ECLI:NL:RBOVE:2023:2958 Rechtbank Overijssel , 13-04-2023 / 294845 FT RK 23.201
