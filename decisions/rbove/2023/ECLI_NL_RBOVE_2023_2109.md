@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBOVE:2023:2109"
-published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2023-0130"]
+published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2023-0130", "PR-Updates.nl 2023-0130"]
 ---
 
 # ECLI:NL:RBOVE:2023:2109 Rechtbank Overijssel , 06-06-2023 / C/08/293515 / HA RK 23-23
