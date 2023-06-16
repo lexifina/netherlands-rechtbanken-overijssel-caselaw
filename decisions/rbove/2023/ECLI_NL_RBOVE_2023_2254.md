@@ -1,0 +1,652 @@
+---
+ecli: "ECLI:NL:RBOVE:2023:2254"
+court: "Rechtbank Overijssel"
+court_code: "RBOVE"
+docket: "08.301710.22, 08.263459.22, 01.265119.19 (TUL) en 01.300091.21 (TUL) (ttz.gev.) (P)"
+decided: "2023-06-16"
+published: "2023-06-16"
+type: "uitspraak"
+procedure: "Eerste aanleg - meervoudig"
+subject: "Strafrecht"
+source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBOVE:2023:2254"
+published_in: ["Rechtspraak.nl"]
+---
+
+# ECLI:NL:RBOVE:2023:2254 Rechtbank Overijssel , 16-06-2023 / 08.301710.22, 08.263459.22, 01.265119.19 (TUL) en 01.300091.21 (TUL) (ttz.gev.) (P)
+
+## Inhoudsindicatie
+
+De rechtbank Overijssel veroordeelt een 26-jarige man tot een gevangenisstraf van 21 maanden voor het plegen van drie woninginbraken, waarvan twee in vereniging. Naast de gevangenisstraf moet de man ook nog twee andere voorwaardelijk opgelegde gevangenisstraffen uitvoeren.
+
+## Uitspraak
+
+RECHTBANK OVERIJSSEL
+Team Strafrecht
+
+Meervoudige kamer
+
+Zittingsplaats Almelo
+
+Parketnummers: 08.301710.22, 08.263459.22, 01.265119.19 (TUL) en 01.300091.21 (TUL) (ttz.gev.) (P)
+
+Datum vonnis: 16 juni 2023
+
+Vonnis op tegenspraak in de zaak van de officier van justitie tegen:
+
+[verdachte] ,
+
+geboren op [geboortedatum 1] 1996 in [geboorteplaats 1] ,
+
+wonende aan [adres 1] ,
+
+nu verblijvende in de PI Almelo te Almelo.
+
+1
+Het onderzoek op de terechtzitting
+
+Dit vonnis is gewezen naar aanleiding van het onderzoek op de openbare terechtzittingen van 26 mei 2023 en 9 juni 2023.
+
+De rechtbank heeft kennisgenomen van de vordering van de officier van justitie
+
+mr. K.J.L. de Valk en van wat door verdachte en zijn raadsman mr. A. Boumanjal, advocaat in Utrecht, naar voren is gebracht.
+
+2
+De tenlastelegging
+
+De verdenking komt er na aanpassing van de tenlastelegging als bedoeld in artikel 314a van het Wetboek van Strafvordering (Sv) van 26 mei 2023, kort en zakelijk weergegeven, op neer dat verdachte:
+
+parketnummer 08.301710.22
+
+al dan niet samen met een ander heeft ingebroken en goederen heeft gestolen uit woningen aan [adres 2] , [adres 3] en [adres 4] , dan wel al dan niet samen met een ander goederen heeft geheeld;
+
+parketnummer 08.263459.22
+
+feit 1: al dan niet samen met een ander heeft ingebroken en goederen heeft gestolen uit een woning aan [adres 5] ;
+
+feit 2: heeft ingebroken en goederen heeft gestolen uit een woning aan [adres 6] .
+
+Voluit luidt de tenlastelegging aan verdachte, dat:
+
+parketnummer 08.301710.22
+
+hij op of omstreeks 18 november 2022 te Hengelo, gemeente Hengelo (O) tezamen en in vereniging met een of meer anderen, althans alleen, in/uit een woning(gelegen aan [adres 2] )
+
+-ongeveer € 250,- contant geld en/of
+
+-meerdere, althans een fles(sen) met sterke drank en/of meerdere, althans een fles(sen) wijn en/of
+
+-een hoeveelheid (gouden) sieraden en/of een trouwring (met inscriptie " [inscriptie] ) en/of
+
+-enig(e) ander(e) goed(eren) van zijn/hun gading
+
+en/of in/uit een woning (gelegen aan [adres 3] )
+
+-een hoeveelheid zilveren (euro)munten en/of
+
+-ongeveer 200( tweehonderd) 0,50 eurocent munten en/of
+
+-een of twee herkenningsmunten en/of
+
+-enig(e) ander(e) goed(eren) van zijn/hun gading
+
+en/of in/uit een woning (gelegen aan [adres 4] )
+
+-een gele fles met Palmoliveshampoo en/of
+
+-enig(e) ander(e) goed(eren) van zijn/hun gading, in elk geval enig goed, dat/die geheel of ten dele aan (respectievelijk) [aangever 1] en/of [aangever 2] en/of [aangever 3] , in elk geval aan een ander dan aan verdachte en/of zijn mededader(s) toebehoorde(n) heeft
+
+weggenomen met het oogmerk om het zich wederrechtelijk toe te eigenen, terwijl verdachte en/of zijn mededader(s) zich de toegang tot de plaats van het misdrijf heeft/hebben verschaft en/of die weg te nemen goederen voornoemd (telkens) onder zijn/hun bereik heeft/hebben gebracht door middel van braak, verbreking, en/of inklimming;
+
+subsidiair althans, indien het vorenstaande niet tot een veroordeling mocht of zou kunnen leiden:
+
+hij op of omstreeks 18 november 2022 te Stroe, gemeente Barneveld(Rijksweg A1 ter hoogte van hectometerpaal 67.0), tezamen en in vereniging met een of meer anderen, althans alleen,
+
+meermalen, althans eenmaal
+
+-een goudkleurige trouwring (met inscriptie " [inscriptie] ) en/of
+
+-een hoeveelheid geld( te weten ongeveer € 225,--) en/of
+
+-een grote hoeveelheid 0,50 eurocent munten en/of
+
+-een hoeveelheid (gouden) sieraden
+
+- ( in totaal) 8 zilveren 10 euro muntstukken althans een of meer goederen heeft verworven, voorhanden heeft gehad en/of heeft overgedragen, terwijl hij en zijn mededader(s) ten tijde van de verwerving of het voorhanden krijgen van deze goederen wist(en), althans redelijkerwijs hadden moeten vermoeden, dat het (een) door misdrijf verkregen
+
+goed(eren) betrof;
+
+parketnummer 08.263459.22
+
+1.
+
+hij op of omstreeks 16 mei 2022 te Deurningen, gemeente Oldenzaal tezamen en in vereniging met een of meer anderen, althans alleen, in een woning en/of op een besloten erf waarop een woning stond, te weten de woning gelegen aan [adres 5] , alwaar verdachte en/of zijn mededader(s) zich buiten weten of tegen de wil van de rechthebbende bevond(en)
+
+- een geldbedrag (van in totaal ongeveer 50.000 euro) en/of
+
+- een hoeveelheid goud (van in totaal ongeveer 3 kilogram) en/of
+
+- een laptop (van het merk: Dell), in elk geval enig goed, dat/die geheel of ten dele aan [aangever 4] , in elk geval aan een ander dan aan verdachte en/of zijn mededader(s) toebehoorde(n) heeft weggenomen met het oogmerk om het zich wederrechtelijk toe te eigenen, terwijl verdachte en/of zijn mededader(s) zich de toegang tot de plaats van het misdrijf heeft/hebben verschaft en/of dat/die weg te nemen voornoemde geldbedrag en/of
+
+hoeveelheid goud onder zijn/hun bereik heeft/hebben gebracht door middel van braak, verbreking en/of inklimming;
+
+2.
+
+hij op of omstreeks 8 maart 2022 te Hengelo (O), in een woning en/of op een besloten erf waarop een woning stond, te weten de woning gelegen aan [adres 6] , alwaar verdachte zich buiten weten of tegen de wil van de rechthebbende bevond
+
+- een of meer kettingen en/of
+
+- een doosje en/of
+
+- een horloge en/of
+
+- een album,
+
+in elk geval enig goed, dat/die geheel of ten dele aan [aangever 5] , in elk geval aan een ander dan aan verdachte toebehoorde(n) heeft weggenomen met het oogmerk om het zich wederrechtelijk toe te eigenen, terwijl verdachte zich de toegang tot de plaats van het misdrijf heeft verschaft en/of dat/die weg te nemen goed/goederen onder zijn bereik heeft gebracht door middel van braak, verbreking en/of inklimming.
+
+3
+De voorvragen
+
+De rechtbank heeft vastgesteld dat de dagvaarding geldig is, dat zij bevoegd is tot kennisneming van deze zaak, dat de officier van justitie ontvankelijk is in de vervolging en dat er geen redenen zijn voor schorsing van de vervolging.
+
+4
+De bewijsmotivering
+
+4.1
+
+Het standpunt van de officier van justitie
+
+De officier van justitie heeft zich op het standpunt gesteld dat alle aan verdachte ten laste gelegde feiten wettig en overtuigend kunnen worden bewezen.
+
+4.2
+
+Het standpunt van de verdediging
+
+De raadsman heeft partiële vrijspraak bepleit ten aanzien van de onder parketnummer 08.301710.22 primair tenlastegelegde inbraak aan [adres 4] , omdat er onvoldoende overtuigend bewijs is dat verdachte dit onderdeel van het feit heeft begaan. De inbraken aan [adres 2] en [adres 3] heeft verdachte bekend en kunnen worden bewezen verklaard.
+
+Ten aanzien van de feiten 1 en 2 onder parketnummer 08.263459.22 heeft de raadsman vrijspraak bepleit en daartoe aangevoerd dat er onvoldoende overtuigend bewijs is dat verdachte deze feiten heeft begaan. Het bewijs is slechts gebaseerd op herkenningen gedaan door verbalisanten en de raadsman acht deze herkenningen onvoldoende betrouwbaar om voor het bewijs te gebruiken. Indien de processen-verbaal van herkenning voor het bewijs worden gebruikt, doet de raadsman het voorwaardelijke verzoek tot het horen van de verbalisanten die verdachte hebben herkend alsmede om nader vergelijkend onderzoek door het NFI te laten doen naar het gezicht op de beelden en het gezicht van verdachte. In het geval van toewijzing van het voorwaardelijk verzoek, heeft de raadsman tevens verzocht om de gevoegde parketnummers te splitsen.
+
+4.3
+
+Het oordeel van de rechtbank
+
+4.3.1
+
+Ten aanzien van parketnummer 08.301710.22
+
+Vaststelling van feiten en omstandigheden
+
+De rechtbank stelt op grond van de in de bijlage opgenomen bewijsmiddelen de navolgende feiten en omstandigheden vast.
+
+Op 18 november 2022 heeft [aangever 1] (hierna [aangever 1] ) aangifte gedaan van een woningbraak gepleegd aan [adres 2] in Hengelo. Deze inbraak moet die dag hebben plaatsgevonden tussen 16:20 uur en 18:30 uur. Een raam op de eerste verdieping was ontzet, er waren afdrukken van gereedschap in het kozijn en schoenafdrukken op de vloerbedekking onder het raam zichtbaar. Er is ongeveer € 250,00 aan contant geld (onder andere ongeveer € 50,00 aan zogenaamde twee euro munten), flessen wijn en sterke drank en gouden sieraden, waaronder een trouwring met de inscriptie “[inscriptie] ” en zilveren munten weggenomen.
+
+De politie heeft een buurtonderzoek ingesteld waaruit naar voren is gekomen dat een buurtbewoner op 18 november 2022 om 17:15 uur een lamp aan zag gaan door een bewegingssensor die gericht is op [adres 2] en dat een andere buurtbewoner omstreeks 18:05 uur bij [adres 7] drie buitenlandse jongens zag lopen, waarvan één mogelijk negroïde.
+
+Ook [aangever 2] (hierna: [aangever 2] ) heeft aangifte gedaan van een woninginbraak gepleegd aan [adres 3] in Hengelo. Deze inbraak vond plaats tussen 17 november 2022 omstreeks 07:15 uur en 18 november 2022 omstreeks 22:45 uur. Een raam stond open, er was schade aan het kozijn en de hendel van het raam lag op de grond. Verschillende lades en deurtjes van kasten stonden open en waren doorzocht. Er waren zilveren munten en ongeveer 200 muntstukken van 50 eurocent weggenomen.
+
+Op camerabeelden is te zien dat om 18:39 uur drie personen naar de woning aan [adres 3] lopen. Aan de zijkant van de woning bevindt zich een raam. Op de beelden is te zien dat het raam meermalen beweegt, dat dit raam wordt opengeklapt en dat er een silhouet door het raam naar binnengaat. Even later gaat er op de bovenverdieping van de woning een lamp aan. Een andere persoon blijft buiten staan. Als de silhouet weer door het raam naar buiten komt, lopen drie personen met versnelde pas weg bij de woning.
+
+Tot slot heeft [aangever 3] aangifte gedaan van een woninginbraak gepleegd aan [adres 4] in Hengelo, gepleegd tussen 15:00 uur op 18 november 2022 en 01:47 uur op 19 november 2022. Drie kamers waren doorzocht. Het raam was ontzet en er waren sporen van het hout zichtbaar op de grond. Ook was er een schoenafdruk op het bed zichtbaar. Daarnaast waren er schoensporen zichtbaar in de tuin onder het opengebroken raam.
+
+Op 18 november 2022 omstreeks 22:00 uur kregen verbalisanten een ANPR hit op een auto rijdende ter hoogte van Apeldoorn richting Amersfoort. De aanduiding bij de ANPR hit was dat de auto mogelijk zou worden gebruikt door woninginbrekers. De verbalisanten wilden de auto controleren en zij zagen dat de persoon op de bijrijdersstoel voorin handelingen verrichtte die erop leken alsof hij spullen bij zijn geslachtsdeel aan het wegstoppen was. [verdachte] (hierna: [verdachte] ) bleek de bestuurder van de auto. [medeverdachte 1] (hierna: [medeverdachte 1] ) bleek op de bijrijdersstoel voorin te zitten en [medeverdachte 2] (hierna: [medeverdachte 2] ) zat achterin de auto. Na een identiteitsfouillering van [medeverdachte 2] bleek hij € 620,00 aan contant geld bij zich te hebben. [verdachte] had in zijn jaszak een paar handschoenen, twee zilveren munten en
+
+€ 95,00 aan contant geld. Bij [medeverdachte 1] werden meerdere goederen bij zijn liesstreek aangetroffen waaronder: een paar handschoenen, twee bivakmutsen, meerdere goudkleurige sieraden, een trouwring met onder andere de inscriptie “ [inscriptie] ”, zes zilveren munten en € 130,00 aan contant geld. In de auto werden twee zilveren munten aangetroffen, een diamantje en in totaal € 182,90 euro aan muntgeld waarvan 199 munten van 50 eurocent en 35 zogenaamde 2 euro munten.
+
+Onderzoek wees uit dat de auto waarin [verdachte] , [medeverdachte 1] en [medeverdachte 2] werden aangehouden, om 16:53 uur voorbij Azelo richting het oosten is gereden en om 21:23 uur weer voorbij Azelo terug is gereden. De woninginbraken aan [adres 2] en [adres 3] in Hengelo vonden plaats binnen deze tijdsperiode.
+
+[aangever 1] herkent de onder de verdachten inbeslaggenomen, aan [adres 2] weggenomen, munten en sieraden als haar eigendom, waaronder een gegraveerde ring.
+
+Overwegingen en conclusies
+
+Ten aanzien van [adres 4]
+
+Onderzoek wijst uit dat de schoensporen in de tuin zijn veroorzaakt met een schoen die soortgelijk is aan de schoenen die onder [verdachte] en [medeverdachte 1] in beslag zijn genomen, maar niet kon worden vastgesteld dat de sporen daadwerkelijk zijn veroorzaakt door de schoenen van [verdachte] en [medeverdachte 1] vanwege het ontbreken van specifieke kenmerken. Naast dit bewijsmiddel is er enkel de aangifte. Dat is naar het oordeel van de rechtbank onvoldoende om tot wettig en overtuigend bewijs te komen dat verdachte zich schuldig heeft gemaakt aan de inbraak bij de woning aan [adres 4] op 18 november 2022. De rechtbank zal verdachte dan ook van dat onderdeel van het onder 1 primair ten laste gelegde partieel vrijspreken.
+
+Ten aanzien van [adres 2] en [adres 3]
+
+Verdachte heeft bekend bij de woning aan [adres 2] geld, sieraden en munten te hebben weggenomen. Ook heeft hij verklaard binnen te zijn geweest bij de woning aan [adres 3] . Verdachte heeft niets over eventuele medeverdachten willen verklaren.
+
+De rechtbank acht op grond van de hiervoor vastgestelde feiten en omstandigheden en de bekennende verklaring van verdachte wettig en overtuigend bewezen dat verdachte de woninginbraken aan [adres 2] en [adres 3] heeft gepleegd, zoals primair ten laste gelegd.
+
+De rechtbank ziet zich nog voor de vraag gesteld of sprake is van medeplegen en zij overweegt daaromtrent als volgt.
+
+De rechtbank stelt voorop dat de betrokkenheid aan een strafbaar feit als medeplegen kan worden bewezenverklaard, indien is komen vast te staan dat bij het begaan daarvan sprake is geweest van een voldoende nauwe en bewuste samenwerking. Daarbij moet de van medeplegen verdachte persoon aan de totstandkoming van het delict een wezenlijke bijdrage hebben geleverd, waaruit blijkt van opzet op zowel de samenwerking als het plegen van het strafbare feit. Bij de beoordeling of daaraan is voldaan, kan rekening worden gehouden met onder meer de intensiteit van de samenwerking, de onderlinge taakverdeling, de rol in de voorbereiding, de uitvoering of de afhandeling van het delict en het belang van de rol van de verdachte, diens aanwezigheid op belangrijke momenten en het zich niet terugtrekken op een daartoe geëigend tijdstip.
+
+Uit de in de bijlage opgenomen bewijsmiddelen leidt de rechtbank het volgende af. Bij [adres 2] zijn in de tijdspanne dat de inbraak gepleegd moet zijn, drie buitenlands uitziende jongens gezien, waarvan één mogelijk negroïde. [medeverdachte 2] , die samen met [verdachte] en [medeverdachte 1] in de auto is aangetroffen met gestolen goederen uit de woningen aan [adres 2] en [adres 3] , is negroïde. [medeverdachte 1] heeft, evenals [verdachte] , bekend uit de woning aan [adres 2] goederen te hebben gestolen. Bovendien kan op basis van camerabeelden in combinatie met de bekennende verklaringen van [verdachte] en [medeverdachte 1] afgeleid worden dat [verdachte] samen met twee andere personen naar [adres 3] is gelopen, dat de drie personen zich bij het raam bewogen, dat ten minste één van hen bij de woning door het raam naar binnen is gegaan en dat één van hen op de uitkijk bleef staan. [verdachte] heeft bekend in de woning naar binnen te zijn geweest maar ontkent dat hij uit die woning goederen heeft weggenomen. [verdachte] heeft ook verklaard dat hij wist dat [medeverdachte 2] munten had weggenomen. [medeverdachte 1] heeft bekend dat hij de persoon is geweest die bij een inbraak op de uitkijk bleef staan. Nadat een persoon weer door het raam naar buiten kwam, liepen de drie personen gezamenlijk met een versnelde pas bij de woning vandaan. [verdachte] , [medeverdachte 1] en [medeverdachte 2] werden vervolgens een paar uur later gezamenlijk staande gehouden en de gestolen goederen uit de woningen aan [adres 2] en [adres 3] werden bij [medeverdachte 1] , bij [verdachte] en in de auto aangetroffen. Tenslotte is duidelijk geworden dat [medeverdachte 2] , [verdachte] en [medeverdachte 1] elkaar kennen, onder meer nu zij ook twee dagen eerder samen in een auto staande zijn gehouden.
+
+Uit de wijze waarop de beide inbraken hebben plaatsgevonden en het aantreffen van verdachten samen in een auto met de buit kan worden afgeleid dat er sprake was van een bewuste en nauwe samenwerking tussen [verdachte] , [medeverdachte 1] en [medeverdachte 2] , zodat de rechtbank het medeplegen wettig en overtuigend bewezen acht.
+
+4.3.2
+
+Ten aanzien van parketnummer 08.263459.22
+
+4.3.2.1 Ten aanzien van feit 1
+
+De rechtbank is van oordeel dat op basis van het dossier, in het bijzonder de beperkte zichtbaarheid van de persoon/personen op de beelden van de beveiligingscamera, en het verhandelde ter terechtzitting niet wettig en overtuigend kan worden bewezen dat het [verdachte] is geweest die op 16 mei 2022 heeft ingebroken bij en goederen heeft gestolen uit een woning gelegen aan [adres 5] te Deurningen en spreekt hem reeds om die reden van het tenlastegelegde vrij.
+
+Ten overvloede merkt de rechtbank op dat zij ook vindt dat er onvoldoende bewijs is dat de in de aangifte genoemde goederen uit de woning zijn weggenomen. Een nadere onderbouwing van de aangever over het bezit van 50.000,00 tot 100.000,00 euro, drie kilo goud en een laptop ontbreekt en dit bezit wordt onvoldoende ondersteund door andere bewijsmiddelen in het dossier. Het is daarom onvoldoende komen vast te staan dat deze goederen uit de woning zijn weggenomen.
+
+4.3.2.2 Ten aanzien van feit 2
+
+Vaststelling van feiten en omstandigheden
+
+De rechtbank stelt op grond van de in de bijlage opgenomen bewijsmiddelen de navolgende feiten en omstandigheden vast.
+
+Op 8 maart 2022 heeft [aangever 5] (hierna [aangever 5] ) aangifte gedaan van een woninginbraak gepleegd aan [adres 6] . Deze inbraak vond die dag plaats tussen 19:30 uur en 20:20 uur. Er lagen doosjes en kistjes op bed, kasten waren doorzocht en stonden open en er waren spullen omgegooid. De balkondeur van de slaapkamer was opengebroken, stond op een kier en de antibraak tochtpinnen waren boven en beneden afgebroken. Ook in de hobbykamer stond een raam open. Er was een gouden ketting, een ketting met een hartje, een doosje, een album en een horloge weggenomen.
+
+Om 20:11 uur is op camerabeelden van de deurbel te zien dat een man naar de voordeur sluipt en naar binnenkijkt, weer wegloopt en kort daarna is geluid te horen dat de verbalisant omschrijft als passend bij het inbreken in een huis. De man op de camerabeelden is door twee verbalisanten herkend als [verdachte] . De verbalisanten herkennen [verdachte] meteen doordat zij hem ambtshalve kennen en meerdere keren met [verdachte] in contact zijn geweest.
+
+[verdachte] ontkent uitdrukkelijk dat hij de persoon op de beelden is en dat hij de ten laste gelegde inbraak heeft gepleegd.
+
+Overweging en conclusie
+
+De rechtbank dient te beoordelen of de door verbalisanten gedane herkenningen van verdachte op de beelden en/of afbeeldingen voldoende betrouwbaar zijn om voor het bewijs te gebruiken. Daarvoor is onder meer van belang of de herkenning heeft plaatsgevonden op basis van specifieke, onderscheidende persoonskenmerken. De kwaliteit van de beelden en de zichtbaarheid van de verdachte op de beelden kunnen daarbij een rol spelen. Tot slot kan van belang zijn in welke hoedanigheid en frequentie waarnemer en de verdachte elkaar eerder getroffen hebben.
+
+De rechtbank is van oordeel dat de bewegende camerabeelden, die zich in het dossier bevinden, van zodanige inhoud en kwaliteit zijn dat op basis hiervan een betrouwbare herkenning mogelijk is. Op de bewegende beelden alsmede op de afbeeldingen in het dossier zijn voldoende onderscheidende kenmerken van de afgebeelde persoon waar te nemen. De verbalisanten hebben de herkenning gedaan op basis van de bewegende beelden en duidelijk is geworden op basis van welke specifieke, onderscheidende persoonskenmerken zij [verdachte] herkennen als de persoon op de beelden. Verbalisant [verbalisant 1] herkent [verdachte] onder andere aan de langwerpige vorm van zijn gezicht, met hierin zijn diepliggende ogen, zijn lichaamsbouw en lengte en zijn volledige gelaat en houding. Verbalisant [verbalisant 2] herkent [verdachte] meteen aan onder andere zijn gehele postuur en houding, zijn haardracht, zijn voorhoofd, neusgedeelte (een haviksneus) en ogen. De herkenning is derhalve op basis van voldoende gespecificeerde onderscheidende persoonskenmerken gebaseerd.
+
+De rechtbank acht de herkenningen die door verbalisanten op basis van de camerabeelden zijn gedaan voldoende betrouwbaar en is dan ook van oordeel dat deze voor het bewijs kunnen worden gebruikt. De ontkennende verklaring van [verdachte] acht de rechtbank ongeloofwaardig.
+
+De rechtbank is, gelet op het vorenstaande, van oordeel dat wettig en overtuigend bewezen is dat [verdachte] het ten laste gelegde feit heeft gepleegd.
+
+Voorwaardelijk verzoek
+
+Gelet op hetgeen de rechtbank hiervoor heeft overwogen omtrent de betrouwbaarheid van de herkenningen, ziet zij geen noodzaak om de verbalisanten die tot de herkenning zijn gekomen nader te laten horen en om nader vergelijkend onderzoek te laten doen naar de herkenningen door het NFI. De rechtbank wijst het voorwaardelijk verzoek van de raadsman af.
+
+4.4
+
+De bewezenverklaring
+
+De rechtbank acht op grond van de opgegeven bewijsmiddelen en de in de bijlage opgenomen bewijsmiddelen waarin zijn vervat de redengevende feiten en omstandigheden waarop de bewezenverklaring steunt wettig en overtuigend bewezen dat verdachte de ten laste gelegde feiten heeft begaan, met dien verstande dat:
+
+parketnummer 08.301710.22
+
+hij op 18 november 2022 te Hengelo, gemeente Hengelo tezamen en in vereniging met anderen, uit een woning (gelegen aan [adres 2] )
+
+- ongeveer € 250,- contant geld en
+
+- meerdere flessen met sterke drank en meerdere flessen wijn en
+
+- een hoeveelheid (gouden) sieraden en een trouwring (met inscriptie “ [inscriptie] ”) en
+
+- andere goederen van hun gading en
+
+uit een woning (gelegen aan [adres 3] )
+
+- een hoeveelheid zilveren munten en
+
+- ongeveer 200 0,50 eurocent munten en
+
+- andere goederen van hun gading,
+
+die aan (respectievelijk) [aangever 1] en [aangever 2] , toebehoorden heeft weggenomen met het oogmerk om het zich wederrechtelijk toe te eigenen, terwijl verdachte en zijn mededaders zich de toegang tot de plaats van het misdrijf hebben verschaft door middel van braak;
+
+parketnummer 08.263459.22
+
+2
+
+hij op 8 maart 2022 te Hengelo, in een woning gelegen aan [adres 6] , alwaar verdachte zich buiten weten of tegen de wil van de rechthebbende bevond
+
+- kettingen en
+
+- een doosje en
+
+- een horloge en
+
+- een album,
+
+die aan [aangever 5] toebehoorden heeft weggenomen met het oogmerk om het zich wederrechtelijk toe te eigenen, terwijl verdachte zich de toegang tot de plaats van het misdrijf heeft verschaft door middel van braak.
+
+De rechtbank acht niet bewezen wat aan verdachte meer of anders is ten laste gelegd, zodat zij hem daarvan zal vrijspreken.
+
+De in de tenlastelegging voorkomende taal- en/of schrijffouten zijn verbeterd in de bewezenverklaring. De verdachte is daardoor niet geschaad in de verdediging.
+
+5
+De strafbaarheid van het bewezenverklaarde
+
+Het bewezenverklaarde is strafbaar gesteld in artikel 311 van het Wetboek van Strafrecht (Sr). Er zijn geen feiten of omstandigheden aannemelijk geworden die de strafbaarheid van de feiten uitsluiten. Het bewezenverklaarde levert op:
+
+parketnummer 08.301710.22
+
+primair
+
+het misdrijf: diefstal door twee of meer verenigde personen, waarbij de schuldige zich de toegang tot de plaats van het misdrijf heeft verschaft door middel van braak, meermalen gepleegd;
+
+parketnummer 08.263459.22
+
+feit 2
+
+het misdrijf: diefstal, waarbij de schuldige zich de toegang tot de plaats van het misdrijf heeft verschaft door middel van braak.
+
+6
+De strafbaarheid van verdachte
+
+Er zijn geen feiten of omstandigheden aannemelijk geworden die de strafbaarheid van verdachte uitsluiten. De rechtbank oordeelt daarom dat verdachte strafbaar is voor de bewezenverklaarde feiten.
+
+7
+De op te leggen straf of maatregel
+
+7.1
+
+De vordering van de officier van justitie
+
+De officier van justitie heeft gevorderd verdachte te veroordelen tot een gevangenisstraf voor de duur van drie jaren.
+
+7.2
+
+Het standpunt van de verdediging
+
+De raadsman heeft bepleit dat verdachte geen veelvuldig recidivist is, maar “slechts” recidivist nu er sprake is van een groot tijdsverloop tussen de strafbare feiten. Gelet op de oriëntatiepunten voor straftoemeting van het Landelijk Overleg Vakinhoud Strafrecht (LOVS) zal dan een gevangenisstraf van vijf maanden per inbraak passend zijn. Verdachte zit nu al zes maanden in voorarrest en hij kan in september aan een opleiding beginnen. De raadsman verzoekt dan ook om aan verdachte een gevangenisstraf van negen maanden en daarbij eventueel een groot voorwaardelijk strafdeel op te leggen. Al dan niet in combinatie met een taakstraf voor de duur van 240 uur.
+
+7.3
+
+De gronden voor een straf of maatregel
+
+Bij de strafoplegging houdt de rechtbank rekening met de aard en de ernst van de gepleegde feiten, de omstandigheden waaronder deze zijn begaan en de persoon van verdachte zoals die uit het dossier en tijdens de behandeling ter terechtzitting naar voren zijn gekomen. De rechtbank acht daarbij in het bijzonder het volgende van belang.
+
+Aard en ernst van de feiten
+
+Verdachte heeft drie woninginbraken gepleegd, waarvan twee in vereniging. Woninginbraken veroorzaken materiële schade en hinder voor de benadeelden. Daarnaast worden de bewoners in hun persoonlijke levenssfeer aangetast, nu een woning bij uitstek een plek is waar men zich veilig hoort te kunnen voelen. Ook brengen dit soort feiten in het algemeen gevoelens van onbehagen en onveiligheid in de samenleving teweeg. Verdachte heeft er bij het plegen van deze misdrijven blijk van gegeven andermans eigendomsrechten niet te respecteren, geen rekening te houden met de veiligheidsgevoelens van de slachtoffers en de impact van een inbraak op de bewoners van een huis. Verdachte heeft alleen maar aan zijn eigen financieel gewin gedacht. De rechtbank rekent dat verdachte zwaar aan.
+
+De persoon van de verdachte
+
+Bij het bepalen van de straf heeft de rechtbank rekening gehouden met het strafblad van verdachte van 10 mei 2023. Hieruit blijkt dat verdachte eerder meermalen is veroordeeld voor woninginbraken, terwijl deze veroordelingen hem er kennelijk niet van hebben weerhouden om opnieuw strafbare feiten te plegen. De rechtbank houdt hier in strafverzwarende zin rekening mee. De rechtbank heeft, op grond van het bepaalde in artikel 63 Sr, ook rekening gehouden met een eerdere veroordeling van verdachte.
+
+De rechtbank heeft kennisgenomen van het reclasseringsadvies van Reclassering Nederland van 23 december 2022 dat is uitgebracht in het kader van de voorlopige hechtenis van verdachte. De reclassering is al vijf jaar betrokken bij verdachte en dit heeft tot op heden niet geleid tot het stoppen van het delictgedrag van verdachte. De reclassering ziet een hardnekkig, tot op heden niet te doorbreken, pro crimineel gedragspatroon en spreekt van een veelpleger. De leefgebieden van verdachte maken een stabiele indruk en hij wordt geacht de gevolgen van zijn gedrag in te kunnen zien. Risico’s lijken te liggen in het sociale netwerk, het psychosociaal functioneren en zijn houding. De momenten dat hij geen werk heeft, kunnen leiden tot nieuw delictgedrag en nieuwe problemen. Reclasseringstoezicht heeft geen meerwaarde en draagt niet bij aan risicobeperking of gedragsverandering en de reclassering adviseert dan ook om verdachte onvoorwaardelijk af te straffen.
+
+De straf of maatregel
+
+De rechtbank heeft acht geslagen op de oriëntatiepunten voor straftoemeting van het LOVS en op straffen die in soortgelijke gevallen zijn opgelegd. Volgens de LOVS oriëntatiepunten is het uitgangspunt ten aanzien van “inbraak woning” waarbij sprake is van “veelvuldige recidive”, een onvoorwaardelijke gevangenisstraf voor de duur van zeven maanden per inbraak. Op grond van het vorenstaande is de rechtbank van oordeel dat op deze feiten niet anders kan worden gereageerd dan met de oplegging van een onvoorwaardelijke gevangenisstraf. Alles afwegend acht de rechtbank oplegging van een gevangenisstraf voor de duur van 21 maanden, met aftrek van de tijd die verdachte in voorarrest heeft doorgebracht, passend en geboden.
+
+Tenuitvoerlegging van de op te leggen gevangenisstraf zal volledig plaatsvinden binnen de penitentiaire inrichting, tot het moment dat aan de verdachte voorwaardelijke invrijheidstelling wordt verleend als bedoeld in artikel 6:2:10 van het Wetboek van Strafvordering.
+
+7.4
+
+De inbeslaggenomen voorwerpen
+
+De officier van justitie heeft het standpunt ingenomen dat de inbeslaggenomen auto en het inbeslaggenomen contante geld (€ 95,00) verbeurd moeten worden verklaard.
+
+De raadsman heeft betoogd dat de inbeslaggenomen auto niet van verdachte is, maar dat de auto van het zusje van verdachte is en dat onvoldoende is gebleken dat zij zou hebben geweten dat verdachte de auto voor strafbare feiten zou gaan gebruiken. De raadsman heeft geen standpunt ingenomen over het inbeslaggenomen geld.
+
+De rechtbank is van oordeel dat het op de beslaglijst vermelde contante geld á € 95,00 moet worden verbeurd verklaard, omdat het contante geld een voorwerp betreft dat geheel door middel van en uit de baten van het strafbare feit is verkregen. Verdachte heeft ter terechtzitting verklaard dat hij geld heeft weggenomen bij de inbraak aan [adres 2] .
+
+De rechtbank zal de teruggave aan de rechthebbende gelasten van de op de beslaglijst vermelde personenauto, aangezien deze niet vatbaar is voor verbeurdverklaring of onttrekking aan het verkeer en het belang van strafvordering zich niet tegen teruggave verzet.
+
+8
+De vordering tenuitvoerlegging
+
+8.1
+
+Het standpunt van de officier van justitie
+
+De officier van justitie heeft de tenuitvoerlegging gevorderd van de bij vonnis van de rechtbank Oost-Brabant van 21 juli 2020 opgelegde voorwaardelijke gevangenisstraf van 55 dagen (parketnummer 01.265119.19) en van de bij vonnis van de rechtbank Oost-Brabant van 4 februari 2022 opgelegde voorwaardelijke gevangenisstraf van vier maanden (parketnummer 01.300091.21).
+
+8.2
+
+Het standpunt van de verdediging
+
+De raadsman heeft geen inhoudelijk standpunt ingenomen over de vordering tenuitvoerlegging.
+
+8.3
+
+Het oordeel van de rechtbank
+
+De hierboven bewezen verklaarde feiten zijn na het wijzen van voornoemde vonnissen en voor het eindigen van de proeftijden gepleegd. Door het plegen van de bewezen feiten heeft verdachte de aan de vonnissen verbonden algemene voorwaarde, dat hij voor het einde van de proeftijd geen nieuwe strafbare feiten zou plegen, niet nageleefd.
+
+Gelet op het voorgaande zal de tenuitvoerlegging worden gelast van de onder parketnummer 01.265119.19 aan verdachte voorwaardelijk opgelegde gevangenisstraf van 55 dagen. Ook zal de tenuitvoerlegging worden gelast van de onder parketnummer 01.300091.21 aan verdachte voorwaardelijk opgelegde gevangenisstraf van vier maanden.
+
+9
+De toegepaste wettelijke voorschriften
+
+De hierna te nemen beslissing berust op de hiervoor genoemde wetsartikelen. Daarnaast berust deze beslissing op de artikelen 33, 33a, 57 Sr.
+
+10
+De beslissing
+
+De rechtbank:
+
+afwijzing voorwaardelijk verzoek
+
+- wijst af het verzoek van de verdediging tot het horen van de verbalisanten die tot de herkenning van verdachte zijn gekomen (het ten laste gelegde onder 2 van parketnummer 08.263459.22) en om nader vergelijkend onderzoek te laten doen naar de herkenning door het NFI;
+
+vrijspraak
+
+- verklaart niet bewezen dat verdachte het ten laste gelegde onder 1 van parketnummer 08.263459.22 heeft begaan en spreekt hem daarvan vrij;
+
+bewezenverklaring
+
+- verklaart bewezen dat verdachte het primair ten laste gelegde onder parketnummer 08.301710.22 en het ten laste gelegde onder 2 van parketnummer 08.263459.22 heeft begaan, zoals hierboven omschreven;
+
+- verklaart niet bewezen wat aan verdachte meer of anders is ten laste gelegd en spreekt hem daarvan vrij;
+
+strafbaarheid feiten
+
+- verklaart het bewezen verklaarde strafbaar;
+
+- verklaart dat het bewezen verklaarde de volgende strafbare feiten oplevert:
+
+parketnummer 08.301710.22
+
+primair
+
+het misdrijf: diefstal door twee of meer verenigde personen, waarbij de schuldige zich de toegang tot de plaats van het misdrijf heeft verschaft door middel van braak, meermalen gepleegd;
+
+parketnummer 08.263459.22
+
+feit 2
+
+het misdrijf: diefstal, waarbij de schuldige zich de toegang tot de plaats van het misdrijf heeft verschaft door middel van braak;
+
+strafbaarheid verdachte
+
+- verklaart verdachte strafbaar voor het primair onder parketnummer 08.301710.22 en het onder 2 van parketnummer 08.263459.22 bewezen verklaarde;
+
+straf
+
+- veroordeelt verdachte tot een gevangenisstraf voor de duur van 21 (eenentwintig) maanden;
+
+- bepaalt dat de tijd die verdachte voor de tenuitvoerlegging van deze uitspraak in verzekering en voorlopige hechtenis heeft doorgebracht, bij de uitvoering van de gevangenisstraf geheel in mindering zal worden gebracht;
+
+de in beslag genomen voorwerpen
+
+- verklaart verbeurd het in beslag genomen voorwerp, te weten het contante geld á € 95,00 (PL0600-2022538877-G2865684);
+
+- gelast de teruggave van de personenauto (PL0600-222538877-2488840) aan de rechthebbende;
+
+tenuitvoerlegging voorwaardelijke straf met parketnummer 01.265119.19
+
+- beveelt de tenuitvoerlegging van de bij vonnis van rechtbank Oost-Brabant van
+
+21 juli 2020 voorwaardelijk opgelegde gevangenisstraf voor de duur van 55 dagen;
+
+tenuitvoerlegging voorwaardelijke straf met parketnummer 01.300091.21
+
+- beveelt de tenuitvoerlegging van de bij vonnis van rechtbank Oost-Brabant van
+
+4 februari 2022 voorwaardelijk opgelegde gevangenisstraf voor de duur van 4 maanden.
+
+Dit vonnis is gewezen door mr. C.C.S. Bordenga-Koppes, voorzitter, mr. A.M. Rikken en mr. C.E. Vording, rechters, in tegenwoordigheid van mr. R. van der Hulst, griffier, en is in het openbaar uitgesproken op 16 juni 2023.
+
+Buiten staat
+
+Mr. A.M. Rikken is niet in de gelegenheid dit vonnis mede te ondertekenen.
+
+De griffier is niet in de gelegenheid dit vonnis mede te ondertekenen.
+
+Bijlage bewijsmiddelen
+
+Leeswijzer
+
+Deze bijlage maakt deel uit van het vonnis en bevat de bewijsmiddelen.
+
+Parketnummer 08.301710.22
+
+Wanneer hierna wordt verwezen naar dossierpagina’s, zijn dit pagina’s uit het dossier van politie eenheid Oost-Nederland, Districtsrecherche Twente, met nummer
+
+PL0600-2022538877. Tenzij hieronder anders wordt vermeld, wordt steeds verwezen naar pagina’s van een in de wettelijke vorm, door daartoe bevoegde personen, opgemaakt proces-verbaal.
+
+1. Het proces-verbaal van aangifte van [aangever 1] van 18 november 2022 (pagina’s 96 en 97) in onderling verband en samenhang bezien met het proces-verbaal van aanvullend verhoor aangever [aangever 1] van 30 november 2022 (pagina’s 108 en 109), voor zover inhoudende, zakelijk weergegeven, als verklaring van aangever:
+
+(…) [adres 2] (…) Hengelo (…) Tussen 18 november 2022 om 16:20 uur (…) en (…) 18:30 uur (…)Toen ik de deur binnen ging dacht ik gelijk dat er ingebroken was. Er waren namelijk lades van een kastje (…) open en er lagen spullen op de grond die normaliter in het kastje liggen. (...) In de woonkamer en keuken waren de lades ook open en spullen eruit. De inbreker(s) zijn vermoedelijk via een raam op de eerste verdieping binnengekomen. Het raam was ontzet en er zitten afdrukken van gereedschap in het kozijn. (...) Ook stonden schoenafdrukken op de vloerbedekking onder dat raam. De gehele woning is doorzocht. Ik mis (…) contant geld, ongeveer 250 euro. Dit hebben ze uit de keukenlade, het dressoir in de woonkamer en uit een etui van de reserveautosleutel gehaald. (…) Ook hebben ze flessen wijn en sterke drank gestolen. (...) U kwam erachter dat de schuifpui niet op slot was. Ik heb deze op slot achter gelaten. (…)
+
+U toont mij nu een paar foto's van aangetroffen goederen. (…) De Armband met 4 steentjes, waarvan 1 los, zoals getoond op foto 1, is mijn armband. Op foto 2 herken ik de ketting met roze steen als mijn eigendom. (…) De oorsteker met rode steen, zoals getoond op foto 3, is ook van mij. De broche goudkleurig met donker rode stenen, zoals getoond op foto 4, herken ik als mijn sieraad. De gouden ketting met hanger bloem, zoals getoond op foto 5, kan mogelijk bij mij zijn weggenomen. Het knopje zirkonia goudkleurig, zoals getoond op foto 6, zou ook van mij kunnen zijn. De gouden ring met inscriptie ‘ [inscriptie] ’, zoals getoond op foto 7, moet uit mijn woning zijn weggenomen. De ‘gouden ring hier en daar afgesleten’ is van mij. (…) Ik wil nog even doorgeven dat er geld bij mij was weggenomen. (…) dit moet 500 euro zijn. Er zijn zeker ook 2 euro muntstukken ter waarde van 50 euro meegenomen (…) ook zijn er bij mij zilveren munten (…) weggenomen. (…) U toont mij nu een 3tal foto's met daarop munten. Ik kan u zeggen dat ik de munten herken. (…);
+
+2. Het proces-verbaal bevindingen buurtonderzoek van 18 november 2022 (pagina 106), voor zover inhoudende, zakelijk weergegeven, als relaas van de verbalisant:
+
+(…) locatie [adres 2] (…) [adres 8] zag om 17.15 uur een lamp aangaan die een bewegingssensor heeft die deels gericht is op de tuin van plaats delict [adres 2] .
+
+[adres 9] heeft omstreeks 18.05 uur 3 jongens zien lopen bij [adres 7]
+
+komend vanaf genoemd perceel Hengelo inwaarts. Vreemd gevoel bij, niet hard te maken. Drie buitenlandse jongens, mogelijk 1 negroïde persoon, donker gekleed. (…);
+
+3. Het proces-verbaal van aangifte van [aangever 2] van 18 november 2022 (pagina’s 126 en 127) in onderling verband en samenhang bezien met het proces-verbaal van aanvullend verhoor aangever [aangever 2] van 30 november 2022 (pagina 129), voor zover inhoudende, zakelijk weergegeven, als verklaring van aangever:
+
+(…) Ik ben woonachtig aan [adres 3] in Hengelo. (…) Op (…) 17 november 2022 omstreeks 07:15 uur heb ik mijn woning verlaten. Ik heb alle ramen dicht gedaan en de woning slotvast afgesloten. (…) Op (…) 18 november 2022 omstreeks 22:45 uur kwam ik weer thuis. (…) Ik zag vervolgens dat één van de ramen van dit kantoortje open stond en schade had bij het kozijn. (…) Ik (…) zag toen in het kantoortje dat de hendel van het raam op de grond lag. (…) Ik zag dat in één slaapkamer één van de lades van de grote secretaire weg was en dat de klep openstond. (….) Ik zag dat in de andere slaapkamer de lade en het deurtje van een van de nachtkastjes openstond. Ik zag dat van het andere nachtkastje het deurtje openstond en de lade op de grond lag. Ik zag ook hier enkele spullen op het bed uitgestald waren, waaronder één lade van de secretaire. Ik mis (…) enkele zilveren herdenkingsmunten en zo rond de 200 munten van 50 cent (…) U zegt me dat u 199 stuks in beslag heeft genomen. Zoals ik het nu zie moeten dat de munten zijn die bij mij weggenomen zijn. (gezien het aantal) (…);
+
+4. Het proces-verbaal van bevindingen van 25 november 2022 (pagina’s 133 en 134), voor zover inhoudende, zakelijk weergegeven, als relaas van de verbalisant:
+
+(…) camerabeelden naar aanleiding van een woninginbraak aan [adres 3] (…) Om 18:39 uur zie ik (…) dat er 3 personen links in beeld komen lopen, richting de woning [adres 3] . (…) Ik zie vervolgens dat de 3 personen het erf van [adres 3] betreden en richting de voordeur lopen, ik zie dat het licht bij de voordeur aanspringt. Mij is bekend dat naast de voordeur zich het kantoortje bevindt, hier is men ook binnengekomen door een uitzetraam te verbreken. Ik zie dat de 3 personen bewegingen verrichten bij de voordeur/het kantoortje (…) Om 18:40 uur zie ik dat één van de ramen van het kantoortje heel licht beweegt, alsof hij iets naar voren komt. Ik zie nog steeds dat de personen bij de voordeur/het kantoortje staan en ergens mee bezig lijken te zijn. Om 18:41 zie ik dat datzelfde raam weer beweegt, alsof hij wordt opengeklapt (…) Om 18:42 uur zie ik (…) dat het raam van het kantoortje weer beweegt alsof hij opengeklapt wordt. Ik zie vervolgens dat er een wit silhouet in dit raam verdwijnt. Ik zie dat een persoon zich iets bukt bij het raam, ik zie vervolgens dat het raam weer beweegt, alsof het dichtgeklapt wordt. (…) Ik zie vervolgens dat enkele tellen later de verlichting op de bovenverdieping van de woning aan gaat, deze was uit. Ik zie dat er nog één persoon buiten bij de voordeur/het kantoortje staat. (…) Ik zie vervolgens dat er een wit silhouet uit het raam van het kantoortje lijkt te
+
+komen, het lijkt alsof de silhouet/persoon ergens vanaf springt, mogelijk de vensterbank van het raam. Ik zie dat direct hierna het raam van het kantoortje weer beweegt alsof hij wordt dichtgeklapt. Ik zie vervolgens dat de 3 personen in versnelde pas weglopen (…);
+
+5. Het proces-verbaal van bevindingen van 19 november 2022 (pagina’s 17 tot en met 24), voor zover inhoudende, zakelijk weergegeven, als relaas van de verbalisant:
+
+(…) Op (…) 18 november 2022, omstreeks 22.00 uur (…) Wij zagen ter hoogte van Apeldoorn een ANPR hit verschijnen op onderstaand voertuig: (…) Kenteken : [kenteken] (…)
+
+Wij zagen in de hittekst staan dat het voertuig zou worden gebruikt door woninginbrekers.
+
+Hierop besloten wij het voertuig op te doen en te controleren om te achterhalen wie er van het voertuig gebruik maakt. (…) Het leek alsof de bijrijder rechtsvoor spullen bij zijn geslachtsdeel aan het wegstoppen was. (…)
+
+Bestuurder
+
+[verdachte]
+
+Geboren te: [geboortedatum 1] 1996 te [geboorteplaats 1]
+
+Burgerservicenummer: [nummer 1] (…)
+
+De Bijrijder rechtsvoor (…) en bleek te zijn:
+
+[medeverdachte 1]
+
+Geboren te: [geboortedatum 2] 2002 te [geboorteplaats 2]
+
+Burgerservicenummer: [nummer 2] (…)
+
+IDENTIEITSFOUILLERING BIJRIJDERS LINKSACHTER (…) Uit de jaszak kwam nog een stapel eurobiljetten. (10 x 50 eurobiljet, 3 x 10 eurobiljet, 3 x 20 eurobiljet, 6x 5 eurobiljet) In totaal bleek dit 620 euro te zijn.
+
+De bijrijder linksachter (…) gaf ons mondeling op te zijn:
+
+[medeverdachte 2]
+
+Geboren te: [geboortedatum 3] 1988 te [geboorteplaats 3] (Somalie)
+
+(…) Ik (…) fouilleerde [verdachte] . Ik trof bij hem van in zijn jaszak een paar handschoenen aan.
+
+(…) Ik (…) voelde bij [medeverdachte 1] in zijn liesstreek aangezien daar een grote bobbel zichtbaar was. (…) Ik voelde een aantal grote platte ronde voorwerpen aan de onderzijde van de bobbel zitten. (…) Hierop heb ik (…) [medeverdachte 1] gecontroleerd naar de grond gebracht (…) Ik duwde een hard rond plat de bovenzijde van zijn broek. Ik zag dat dit een zilveren 10 gulden munt betrof. Aangezien het voertuig in het systeem naar voren kwam met betrekking tot het feit dat de inzittenden zich mogelijk bezig hielden met woninginbraken, het ons bekend is dat dit soort munten van waarde zijn en de inzittenden direct begonnen te rennen bij aantreffen,
+
+besloten wij de inzittenden aan te houden voor heling. (…) Ik (…) duwde alle goederen op de locatie van de bobbel bij [medeverdachte 1] naar boven uit zijn broek om deze veilig te stellen. Hieruit kwamen de volgende goederen naar voren:
+
+- Zwarte Kleenguard handschoenen met een paarse rand. (…)
+
+- Goudkleurige armband met 4 oranje rode steentjes. (…)
+
+- 2x een zwarte bivakmuts (…)
+
+- Goudkleurige ketting met roze steen. (…)
+
+- Goudkleurige ketting met bloemetjes hanger (…)
+
+- Goudkleurige ring (…)
+
+- 1 goudkleurige oorbel met zwart steentje (…)
+
+- 1 gouden broche met zwart steentje (…)
+
+- 6 zilveren tien euro munten, met daarop koningin Beatrix. (…)
+
+- Goudkleurige ring met ingegraveerde gegevens: " [inscriptie] " (…)
+
+- In linkerzak van vest van [medeverdachte 1] werd geld aangetroffen. Dit bleek te zijn: 2x 50 eurobiljet, lx 20 eurobiljet, 2x 5 eurobiljet totaal 130 euro. (…)
+
+Ik (…) trof bij [verdachte] de volgende goederen aan:
+
+- Rechterjaszak 2x zilveren tientjes euromunten, met koningin Beatrix erop. (…)
+
+- Geld aangetroffen in jaszak. lx 50 euro, 2x 20 eurobiljet en lx 5 eurobiljet.
+
+Totaal 95 euro.
+
+Door ons (…) werden in het voertuig de volgende goederen aangetroffen en inbeslaggenomen: (…)
+
+- Onder de pet lagen in de zak achter de bestuurdersstoel 2 zilveren 10 euro munten
+
+uit 2005 met daarop koningin Beatrix. (…)
+
+- Op de bijrijdersstoel rechtsvoor lag een klein diamantje. (…)
+
+- In het middenconsole lag een grote hoeveelheid muntgeld. 199x 50 eurocent, 2x 20
+
+eurocent, 35x 2 euro, 13x 1 euro. 182,90 euro. (…);
+
+6. Het proces-verbaal van bevindingen van 19 november 2022 (pagina 49), voor zover inhoudende, zakelijk weergegeven, als relaas van de verbalisant:
+
+(…) het kenteken van het voertuig [kenteken] in de ANPR (…) Het voertuig is richting het oosten gereden en is voorbij Azelo naar het oosten gereden om 16:53 uur. Hierna komt het voertuig weer terug om 21:23 uur. (…) Hierop zag ik dat er een woninginbraak had plaatsgevonden tussen 16:20 en 18:30 uur aan [adres 2] in Hengelo (…) Dit betrof binnen de tijd dat het voertuig (…) in het oosten is geweest. Hierop hoorde ik dat er om 20:53 uur een melding binnen was gekomen van een inbraak aan [adres 3] in Hengelo (…) Gezien de geschiedenis in de ANPR en de tijd dat dit voertuig in het oosten is geweest zou dit goed met elkaar overeen komen. (…);
+
+7. Het proces-verbaal van de terechtzitting van 26 mei 2023, voor zover inhoudende de bekennende verklaring van [verdachte] , zakelijk weergegeven:
+
+(…) Het klopt dat ik bij de woning aan [adres 2] binnen ben geweest. Ik heb daar wat geld, sieraden en munten weggenomen. Het geldbedrag wat ik heb weggenomen was briefgeld rond de € 150,00. (…) Ik was ook betrokken bij de inbraak aan [adres 3] . Ik ben in de woning geweest, maar ik heb daar niets weggenomen. Ik wist wel dat [medeverdachte 2] munten heeft weggenomen (…) De voorzitter houdt mij voor dat ik één inbraak met [medeverdachte 1] en één inbraak met [medeverdachte 2] heb gepleegd en dat klopt (…);
+
+8. Het proces-verbaal van de in het openbaar gehouden terechtzitting in de zaak tegen medeverdachte [medeverdachte 1] op 28 februari 2023 (welk proces-verbaal in het dossier van verdachte is gevoegd), voor zover inhoudende, zakelijk weergegeven, als verklaring van die medeverdachte:
+
+(…) De verdachte verklaart, zakelijk weergegeven, dat hij op 18 november 2022 betrokken is geweest bij de woninginbraak aan [adres 2] in Hengelo. Hij heeft sieraden uit de woning weggenomen en die sieraden had hij op moment dat hij werd aangehouden bij zich. Bij de andere twee woningen aan [adres 3] en [adres 4] is hij niet binnen geweest. (…) Bij één woninginbraak (…) heeft hij op de uitkijk gestaan. (…);
+
+9. Het proces-verbaal van bevindingen van 12 januari 2022 (pagina 93), voor zover inhoudende, zakelijk weergegeven, als relaas van de verbalisant:
+
+(…) Op 16 november 2022 werd het voertuig ook al gecontroleerd en toen zaten in de auto [verdachte] , [medeverdachte 1] en [medeverdachte 2] . (…).
+
+Parketnummer 08.263459.22, ten aanzien van feit 2
+
+Wanneer hierna wordt verwezen naar dossierpagina’s, zijn dit pagina’s uit het dossier van politie eenheid Oost-Nederland, District Twente, Basisteam Twente-Midden, met nummer
+
+PL0600-2022469987. Tenzij hieronder anders wordt vermeld, wordt steeds verwezen naar pagina’s van een in de wettelijke vorm, door daartoe bevoegde personen, opgemaakt proces-verbaal.
+
+1. Het proces-verbaal van aangifte van [aangever 5] van 9 maart 2022 (pagina’s 17 tot en met 19), in onderling verband en samenhang bezien met bijlage goederen van 10 maart 2022 (pagina 20), voor zover inhoudende, zakelijk weergegeven, als verklaring van aangever:
+
+(…) Tussen (…) 8 maart 2022 om 19:30 uur en (…) 20:20 uur (…) woninginbraak (…) aan [adres 6] te Hengelo. (…) Toen ik de slaapkamer in liep zag ik allemaal doosjes en kistjes op het bed liggen. Ze hebben alle kasten op de slaapkamer doorzocht. Deze stonden open en spullen omgegooid of eruit gehaald. Ik zag dat de slaapkamer deur naar het balkon open gebroken was. Deze stond op een kier en de antibraak tochtpin waren boven en beneden afgebroken. (…) Het lijkt dat er een album mist uit één van deze lades. (…) In de hobbykamer zit een raam met haken met drukslot. Deze zaten daarvoor dicht en toen ik ging kijken stonden ze open. (…) Wij hebben een ring deurbel. Daar staat iemand op die aan het rondkijken is bij onze woning. (…)
+
+Voor nu mis ik een gouden ketting, een doosje uit mijn kast, een ketting met een hartje en (…) een album. (…) Horloge Merk/type : Emporio Armani (…);
+
+2. Het proces-verbaal van bevindingen van 12 april 2022 (pagina’s 52 en 53), voor zover inhoudende, zakelijk weergegeven, als relaas van de verbalisant:
+
+(…) 8 maart 2022 werd een inbraak in een woning gepleegd aan [adres 6] te Hengelo. (…) Op de camerabeelden die zijn gemaakt bij de voordeur zie ik om 20.11.23 uur van rechts een jongen / man de oprit op lopen in de richting van de ramen rechts naast de voordeur. Ik zie dat deze persoon niet normaal loopt, maar min of meer sluipt. (…) 20.11.47 uur: Ik hoor geluid waarvan, als je weet dat er ingebroken is, je het geluid kunt identificeren met breken. (…);
+
+3. Het proces-verbaal van bevindingen van 11 maart 2022 (pagina’s 54 en 55), voor zover inhoudende, zakelijk weergegeven, als relaas van de verbalisant:
+
+(…)verbalisant (…) [verbalisant 2] (…) Nadat het beeld liep zag ik (…) een manspersoon in beeld komen geslopen. De persoon liep wat voorovergebogen en sloop richting de ramen naast de deur. (…) Bij het zien van de man op de beelden herkende ik de man meteen. Ik herkende de man meteen aan zijn gehele postuur en houding, zijn haardracht, zijn voorhoofd, neusgedeelte (een haviksneus) en ogen. De persoon herkende ik meteen als:
+
+Achternaam : [verdachte]
+
+Voornaam : [verdachte] (…)
+
+Ik ken de bovengenoemde persoon ambtshalve. (…)
+
+Tevens is er een onderzoek geweest in 2019 waarbij op camerabeelden te zien was dat [verdachte] een gebukte houding heeft en naar de camera schuift om te kijken. De houding die hij daar heeft komt gedeeltelijk overeen met de houding die hij vertoond op de hierboven genoemde beelden. Toen ik de Ring camerabeelden zag, moest ik meteen aan [verdachte] denken in combinatie met de camerabeelden van het onderzoek in 2019. (…);
+
+4. Het proces-verbaal van bevindingen van 11 maart 2022 (pagina’s 58 en 59), voor zover inhoudende, zakelijk weergegeven, als relaas van de verbalisant:
+
+(…) verbalisant [verbalisant 1] (…) herkende deze persoon op de beelden direct aan:
+
+- de langwerpige vorm van zijn gezicht, met hierin zijn diepliggende ogen;
+
+- zijn licht getinte huidskleur en zijn zwarte haar, aan de zijkanten opgeschoren;
+
+- zijn volle onderkin;
+
+- zijn lichaamsbouw (normaal) en lengte;
+
+- zijn volledige gelaat en houding.
+
+De voor mij ambtshalve bekende man zijnde:
+
+Naam: [verdachte] (…)
+
+Ik herken [verdachte] goed omdat ik hem tijdens het werk op straat in mijn werkgebied (Gemeente Ede) geregeld tegenkom tijdens de surveillances. Tevens heb ik hem op 14 december 2021 aangehouden en diezelfde dag bij hem verhoor afgenomen op het politiebureau (…). Tijdens deze aanhouding en afhandeling heb ik [verdachte] langere tijd goed kunnen bekijken. Tijdens deze (meerdere) bovengenoemde contactmomenten heb ik [verdachte] goed kunnen bekijken waardoor ik hem voor 100 procent zeker herken. (…).
