@@ -10,6 +10,7 @@ procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBOVE:2023:2304"
 published_in: ["Rechtspraak.nl", "AB 2024/143 met annotatie van A.E. Schilder, J.G. Brouwer"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:RVS:2025:5082, Bekrachtiging/bevestiging"]]
 ---
 
 # ECLI:NL:RBOVE:2023:2304 Rechtbank Overijssel , 21-06-2023 / ak_22_527
