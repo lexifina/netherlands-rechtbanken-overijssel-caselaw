@@ -16,7 +16,7 @@ published_in: ["Rechtspraak.nl"]
 
 ## Inhoudsindicatie
 
-Koopovereenkomst aandelen makelaarskantoor; beroep op vernietiging koopovereenkomst op grond van bedrog (art. 3:44 lid 3 BW) althans dwaling (artikel 6:228 BW); bewijsopdracht
+Koopovereenkomst aandelen makelaarskantoor; beroep op vernietiging koopovereenkomst op grond van bedrog (art. 3:44 lid 3 BW) althans dwaling (art. 6:228 BW); bewijsopdracht
 
 ## Uitspraak
 
