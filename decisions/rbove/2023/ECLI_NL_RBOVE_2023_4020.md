@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBOVE:2023:4020"
-published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2023-0206"]
+published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2023-0206", "PR-Updates.nl 2023-0206"]
 ---
 
 # ECLI:NL:RBOVE:2023:4020 Rechtbank Overijssel , 10-10-2023 / 10479334 CV EXPL 23-1694
