@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBOVE:2023:4168"
-published_in: ["Rechtspraak.nl", "Burgerlijk procesrecht.nl BPR-2023-0103", "Prg. 2023/325"]
+published_in: ["Rechtspraak.nl", "Burgerlijk procesrecht.nl BPR-2023-0103", "Prg. 2023/325", "BPR-Updates.nl 2023-0103"]
 ---
 
 # ECLI:NL:RBOVE:2023:4168 Rechtbank Overijssel , 24-10-2023 / C/08/300640 / KG ZA 23-163
