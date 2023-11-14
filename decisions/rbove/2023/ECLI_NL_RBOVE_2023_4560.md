@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBOVE:2023:4560"
-published_in: ["Rechtspraak.nl", "AR-Updates.nl 2023-1407", "PR-Updates.nl PR-2023-0221", "VAAN-AR-Updates.nl 2023-1407"]
+published_in: ["Rechtspraak.nl", "AR-Updates.nl 2023-1407", "PR-Updates.nl PR-2023-0221", "VAAN-AR-Updates.nl 2023-1407", "PR-Updates.nl 2023-0221"]
 ---
 
 # ECLI:NL:RBOVE:2023:4560 Rechtbank Overijssel , 14-11-2023 / 10655916 \ CV EXPL  23-1791
