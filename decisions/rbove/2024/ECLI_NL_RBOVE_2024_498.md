@@ -10,6 +10,7 @@ procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht; Omgevingsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBOVE:2024:498"
 published_in: ["Rechtspraak.nl"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:RVS:2026:4423, Meerdere afhandelingswijzen"]]
 ---
 
 # ECLI:NL:RBOVE:2024:498 Rechtbank Overijssel , 29-01-2024 / ak_22_2148
