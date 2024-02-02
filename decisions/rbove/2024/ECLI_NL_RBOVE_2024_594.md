@@ -10,6 +10,7 @@ procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBOVE:2024:594"
 published_in: ["Rechtspraak.nl", "Sdu Nieuws Privacyrecht 2024/105", "Sdu Nieuws Privacyrecht 2024/20", "JBP 2024/43 met annotatie van mr. T. Mulder"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:RVS:2026:4403, Bekrachtiging/bevestiging"]]
 ---
 
 # ECLI:NL:RBOVE:2024:594 Rechtbank Overijssel , 02-02-2024 / ZWO 22/775
