@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBOVE:2024:1992"
-published_in: ["Rechtspraak.nl", "Notamail 2024/87", "V-N Vandaag 2024/873", "INS-Updates.nl 2024-0115", "NJF 2024/231", "V-N 2024/34.28 met annotatie van Redactie"]
+published_in: ["Rechtspraak.nl", "Notamail 2024/87", "V-N Vandaag 2024/873", "INS-Updates.nl 2024-0115", "NJF 2024/231", "V-N 2024/34.28"]
 ---
 
 # ECLI:NL:RBOVE:2024:1992 Rechtbank Overijssel , 10-04-2024 / C/08/291135 / HA ZA 23-35
