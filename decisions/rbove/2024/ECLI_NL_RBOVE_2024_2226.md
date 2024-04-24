@@ -10,6 +10,7 @@ procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht; Omgevingsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBOVE:2024:2226"
 published_in: ["Rechtspraak.nl", "Omgevingsvergunning in de praktijk 2024/9087"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:RVS:2026:1408, Bekrachtiging/bevestiging"]]
 ---
 
 # ECLI:NL:RBOVE:2024:2226 Rechtbank Overijssel , 24-04-2024 / ak_23_1882
