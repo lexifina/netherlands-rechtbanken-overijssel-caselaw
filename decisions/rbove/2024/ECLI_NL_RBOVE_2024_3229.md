@@ -1,0 +1,1693 @@
+---
+ecli: "ECLI:NL:RBOVE:2024:3229"
+court: "Rechtbank Overijssel"
+court_code: "RBOVE"
+docket: "08.040665.22 (P)"
+decided: "2024-06-20"
+published: "2024-06-20"
+type: "uitspraak"
+procedure: "Eerste aanleg - meervoudig"
+subject: "Strafrecht"
+source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBOVE:2024:3229"
+published_in: ["Rechtspraak.nl"]
+---
+
+# ECLI:NL:RBOVE:2024:3229 Rechtbank Overijssel , 20-06-2024 / 08.040665.22 (P)
+
+## Inhoudsindicatie
+
+De rechtbank veroordeelt een 61-jarige man tot een gevangenisstraf van 4 jaren. De verdachte heeft zich schuldig gemaakt aan het medeplegen van het produceren van harddrugs, handel in harddrugs en handelingen met drugsafval met (mogelijk) nadelige gevolgen voor het milieu.
+
+## Uitspraak
+
+RECHTBANK OVERIJSSEL
+Team Strafrecht
+
+Meervoudige kamer
+
+Zittingsplaats Almelo
+
+Parketnummer: 08.040665.22 (P)
+
+Datum vonnis: 20 juni 2024
+
+Vonnis op tegenspraak in de zaak van de officier van justitie tegen:
+
+[verdachte]
+,
+
+geboren op [geboortedatum] 1963 in [geboorteplaats] ,
+
+wonende aan de [adres 1]
+
+.
+
+1
+Het onderzoek op de terechtzitting
+
+Dit vonnis is gewezen naar aanleiding van het onderzoek op de openbare terechtzittingen van 14 mei 2024, 16 mei 2024 en 12 juni 2024.
+
+De rechtbank heeft kennis genomen van de vordering van de officier van justitie en van wat door verdachte en zijn raadsman mr. J. Michels, advocaat in Oldenzaal, naar voren is gebracht.
+
+2
+De tenlastelegging
+
+De verdenking komt er na wijziging van de tenlastelegging als bedoeld in artikel 314a van het Wetboek van Strafvordering (Sv) van 10 november 2022, kort en zakelijk weergegeven, op neer dat verdachte:
+
+feit 1: al dan niet samen met anderen, methamfetamine en/of MDMA heeft geproduceerd, dan wel dat hij daaraan medeplichtig is geweest;
+
+feit 2: al dan niet samen met anderen, de productie van methamfetamine en/of MDMA heeft voorbereid;
+
+feit 3:
+
+al dan niet samen met anderen, drugsafval heeft opgeslagen, verwerkt, overgeslagen en/of vervoerd, met (mogelijk) nadelige gevolgen voor het milieu.
+
+Voluit luidt de tenlastelegging aan verdachte, dat:
+
+1.
+
+hij in of omstreeks de periode van 1 juni 2020 tot en met 1 februari 2022 te Ambt-
+
+Delden, gemeente Hof van Twente,
+
+in een of meer pand(en) gelegen aan of bij de [adres 2] , aldaar,
+
+meermalen, althans eenmaal,
+
+tezamen en in vereniging met een of meer anderen, althans alleen,
+
+(telkens) opzettelijk heeft bereid en/of bewerkt en/of verwerkt en/of verkocht en/of
+
+afgeleverd en/of verstrekt en/of vervoerd en/of vervaardigd, (telkens) (grote)
+
+hoeveelhe(i)d(en) van een materiaal bevattende methamfetamine (crystal meth)
+
+en/of MDMA en/of een of meer ander(e) stoffen vermeld op de bij de Opiumwet
+
+behorende lijst I, zijnde methamfetamine (crystal meth) en/of MDMA en/of een of
+
+meer ander(e) stoffen vermeld op de bij de Opiumwet behorende lijst I (telkens) (elk)
+
+een middel als bedoeld in de bij de Opiumwet behorende lijst I, dan wel aangewezen
+
+krachtens het vijfde lid van artikel 3a van die wet;
+
+subsidiair althans, indien het vorenstaande niet tot een veroordeling mocht of zou
+
+kunnen leiden:
+
+onbekend gebleven verdachten, althans een ander of anderen dan verdachte, in of
+
+omstreeks de periode van 1 juni 2020 tot en met 1 februari 2022 te Ambt-Delden,
+
+gemeente Hof van Twente,
+
+in een of meer pand(en) gelegen aan of bij de [adres 2] , aldaar,
+
+meermalen, althans eenmaal,
+
+tezamen en in vereniging met een of meer anderen, althans alleen,
+
+opzettelijk heeft/hebben bereid en/of bewerkt en/of verwerkt en/of verkocht en/of
+
+afgeleverd en/of verstrekt en/of vervoerd en/of vervaardigd, (telkens) (grote)
+
+hoeveelhe(i)d(en) van een materiaal bevattende methamfetamine (crystal meth)
+
+en/of MDMA en/of een of meer ander(e) stoffen vermeld op de bij de Opiumwet
+
+behorende lijst I, zijnde methamfetamine (crystal meth) en/of MDMA en/of een of
+
+meer ander(e) stoffen vermeld op de bij de Opiumwet behorende lijst 1 (telkens) (elk)
+
+een middel als bedoeld in de bij de Opiumwet behorende lijst I, dan wel aangewezen
+
+krachtens het vijfde lid van artikel 3a van die wet
+
+bij en/of tot voornoemd misdrijf hij, verdachte, toen en aldaar opzettelijk behulpzaam is geweest en/of opzettelijk gelegenheid en/of middelen heeft verschaft
+
+door toen en daar
+
+- een mestkelder, althans een ruimte, op het perceel [adres 2] leeg te (laten)
+
+maken en/of schoon te (laten) maken en/of het zagen van gaten/loszagen in de/van
+
+mestroosters en/of
+
+- de beschikking te hebben over alle sleutels van het perceel [adres 2] en/of als
+
+aanspreekpunt te fungeren voor derden en/of
+
+- het (laten) betalen van rekeningen die verband houden met het
+
+schoonmaken/leegmaken van een mestkelder, althans een ruimte, op het perceel
+
+[adres 2] en/of
+
+- het (laten) betalen van rekeningen die verband houden met de energieleverantie op
+
+het perceel [adres 2] en/of
+
+- geld te (laten) storten op (de) rekening(en) van [medeverdachte 1] voor de betaling van
+
+diverse rekeningen en/of het nakomen van betalingsverplichtingen en/of daarbij de
+
+beschikking te hebben over een bankpas van [medeverdachte 1] en/of
+
+- facturen van het bedrijf [bedrijf 1] op naam te laten zetten van (medeverdachte) [medeverdachte 1]
+
+en/of een contant bedrag van 4500 euro af te (laten) leveren bij het bedrijf
+
+[bedrijf 1] in verband met gemaakte kosten voor het leegpompen van de mestkelder
+
+en/of
+
+- veelvuldig contact te hebben met andere personen die betrokken zijn bij het
+
+kiezen/organiseren van een locatie, de inrichting van een locatie, de aanvoer van
+
+goederen en materialen die gebruikt worden voor de vervaardiging van de drugs, de
+
+daadwerkelijke vervaardiging van de drugs, het transport van de vervaardigde drugs
+
+en de afvoer van het ontstane afval;
+
+2.
+
+hij in of omstreeks de periode van 1 juni 2020 tot en met 1 februari 2022 te Ambt-
+
+Delden, gemeente Hof van Twente,
+
+tezamen en in vereniging met een ander of anderen, althans alleen, om een feit,
+
+bedoeld in het vierde of vijfde lid van artikel 10 van de Opiumwet, te weten het
+
+opzettelijk bereiden, bewerken, verwerken, verkopen, afleveren, verstrekken,
+
+vervoeren van methamfetamine en/of MDMA, in elk geval een hoeveelheid van een
+
+materiaal bevattende methamfetamine en/of MDMA, zijnde methamfetamine en/of
+
+zijnde MDMA, telkens een middel vermeld op de bij de Opiumwet behorende lijst I
+
+voor te bereiden en/of te bevorderen
+
+en daartoe gelegenheid, middelen of inlichtingen heeft verschaft en/of daartoe
+
+voorwerpen, vervoermiddelen, stoffen, gelden of andere betaalmiddelen voorhanden
+
+heeft gehad door
+
+- een mestkelder, althans een ruimte, op het perceel [adres 2] leeg te (laten)
+
+maken en/of schoon te (laten) maken en/of het zagen van gaten/loszagen in de / van
+
+mestroosters en/of
+
+- de beschikking te hebben over alle sleutels van het perceel [adres 2] en/of als
+
+aanspreekpunt te fungeren voor derden die zakelijk te maken hebben en/of
+
+- het (laten) betalen van rekeningen die verband houden met het
+
+schoonmaken/leegmaken van een mestkelder, althans een ruimte, op het perceel
+
+[adres 2] en/of
+
+- het (laten) betalen van rekeningen die verband houden met de energieleverantie op
+
+het perceel [adres 2] en/of
+
+- geld te (laten) storten op (de) rekening(en) van [medeverdachte 1] voor de betaling van
+
+diverse rekeningen en/of het nakomen van betalingsverplichtingen en/of daarbij de
+
+beschikking te hebben over een bankpas van [medeverdachte 1] en/of
+
+- facturen van het bedrijf [bedrijf 1] op naam te laten zetten van (medeverdachte) [medeverdachte 1]
+
+en/of een contant bedrag van 4500 euro af te laten leveren bij het [bedrijf 1] in verband met gemaakte kosten voor het leegpompen van de mestkelder
+
+en/of
+
+- veelvuldig contact te hebben met andere personen die betrokken zijn bij het
+
+kiezen/organiseren van een locatie, de inrichting van een locatie, de aanvoer van
+
+goederen en materialen die gebruikt worden voor de vervaardiging van de drugs, de
+
+daadwerkelijke vervaardiging van de drugs, het transport van de vervaardigde drugs
+
+en de afvoer van het ontstane afval
+
+waarvan hij weet of ernstige reden heeft om te vermoeden dat zij bestemd zijn tot het
+
+plegen van dat feit/die feit(en);
+
+3.
+
+hij op één of meer tijdstip(pen) in of omstreeks de periode 22 oktober 2021 tot en
+
+met 11 maart 2022 te Ambt Delden, gemeente Hof van Twente, althans in Nederland,
+
+tezamen en in vereniging met (een) ander(en) dan wel alleen,
+
+al dan niet opzettelijk,
+
+(een) handeling(en) met afvalstoffen heeft verricht waarvan hij, verdachte, en/of zijn
+
+mededader(s) redelijkerwijs had(den) kunnen weten dat daardoor nadelige gevolgen
+
+voor het milieu ontstonden en/of konden ontstaan, terwijl hij, verdachte en/of zijn
+
+mededader(s) niet aan zijn/hun verplichting heeft/hebben voldaan alle maatregelen
+
+te nemen die redelijkerwijs van hem en/of zijn mededader(s) konden worden
+
+gevergd, teneinde die gevolgen zoveel mogelijk te voorkomen en/of te beperken,
+
+immers heeft hij, verdachte en/of zijn mededader(s):
+
+Op 22 oktober 2021 één of meer vaten afval afkomstig van drugslaboratoria, althans
+
+vaten met chemische vloeistoffen, in ieder geval zijn (verpakte) gevaarlijke stoffen, te
+
+weten bijtende stoffen(zuur en/of basisch) ADR-klasse 8 en/of leeg en ongereinigde
+
+verpakkingen en/of
+
+op 6 december 2021 in opstal 3 één of meer vaten afval, afkomstig van
+
+drugslaboratoria, althans vaten met chemische vloeistoffen, in ieder geval zijn
+
+(verpakte) gevaarlijke stoffen, te weten bijtende stoffen(zuur en/of basisch) ADR-
+
+klasse 8 en/of leeg en ongereinigde verpakkingen, en/of
+
+op 28 december 2021 in opstal 3 één of meer vaten afval afkomstig van
+
+drugslaboratoria, althans vaten met chemische vloeistoffen, in ieder geval zijn
+
+(verpakte) gevaarlijke stoffen, te weten bijtende stoffen(zuur en/of basisch) ADR-
+
+klasse 8 en/of leeg en ongereinigde verpakkingen, en/of
+
+op 22 januari 2022 in opstal 4 één of meer vaten afval afkomstig van drugslaboratoria,
+
+althans vaten met chemische vloeistoffen, in ieder geval zijn (verpakte) gevaarlijke
+
+stoffen, te weten bijtende stoffen (zuur en/of basisch) ADR-klasse 8 en/of leeg en
+
+ongereinigde verpakkingen, en/of
+
+op 1 februari 2022 in de kelder onder opstal 3, één of meer vaten afval afkomstig van
+
+drugslaboratoria, althans jerrycans en/of vaten met chemische vloeistoffen, in ieder
+
+geval zijn (verpakte) gevaarlijke stoffen, te weten bijtende stoffen(zuur en/of basisch)
+
+ADR-klasse 8 en/of leeg en ongereinigde verpakkingen, en/of
+
+op 11 maart 2022 in de gierkelder tussen opstal 2 en 5, één of meer kub(s) afval
+
+afkomstig van drugslaboratoria, althans chemische vloeistoffen, in ieder geval zijnde
+
+gevaarlijke stoffen, te weten bijtende stoffenfzuur en/of basisch) ADR-klasse 8,
+
+althans afval afkomstig van de vervaardiging van synthetische drugs
+
+opgeslagen/ verwerkt en/of overgeslagen en/of gestort.
+
+3
+De voorvragen
+
+3.1
+
+Geldigheid dagvaarding
+
+De rechtbank heeft vastgesteld dat de dagvaarding geldig is.
+
+3.2
+
+Ontvankelijkheid officier van justitie
+
+Het standpunt van de verdediging
+
+De verdediging heeft gesteld dat de officier van justitie niet-ontvankelijk moeten worden verklaard in de vervolging voor feit 3 omdat sprake is van schending van het gelijkheidsbeginsel nu enkel verdachte voor het ten laste gelegde feit wordt vervolgd en zijn medeverdachten niet.
+
+Het standpunt van de officier van justitie
+
+De officier van justitie heeft gesteld dat het verweer moet worden verworpen.
+
+De overwegingen van de rechtbank
+
+Met betrekking tot de vraag of het Openbaar Ministerie ontvankelijk is in de strafvervolging stelt de rechtbank voorop dat in artikel 167, eerste lid, van het Wetboek van Strafvordering (Sv), aan het Openbaar Ministerie de bevoegdheid is toegekend zelfstandig te beslissen of naar aanleiding van een ingesteld opsporingsonderzoek vervolging moet plaatsvinden. De beslissing van het Openbaar Ministerie om tot vervolging over te gaan leent zich slechts in zeer beperkte mate voor een inhoudelijke rechterlijke toetsing, in die zin dat slechts in uitzonderlijke gevallen plaats is voor een niet-ontvankelijkverklaring van het Openbaar Ministerie in de vervolging op de grond dat het instellen of voortzetten van die vervolging onverenigbaar is met de beginselen van een goede procesorde.
+
+De rechtbank is van oordeel dat daarvan in deze zaak geen sprake is, nu – kijkend naar de zaak tegen de medeverdachte van verdachte – niet alleen geen sprake is van gelijke gevallen, maar dat de stelling dat enkel verdachte vervolgd wordt voor de verdenking van het plegen van een milieufeit feitelijk onjuist is. Ook aan medeverdachte [medeverdachte 1] heeft de officier van justitie milieufeiten ten laste gelegd.
+
+De rechtbank verwerpt het verweer en acht het Openbaar Ministerie ontvankelijk in de vervolging.
+
+3.3
+
+Overige voorvragen
+
+De rechtbank heeft vastgesteld dat zij bevoegd is tot kennisneming van deze zaak en dat er geen redenen zijn voor schorsing van de vervolging.
+
+4
+De bewijsoverwegingen
+
+4.1
+
+Het standpunt van de officier van justitie
+
+De officier van justitie heeft zich op het standpunt gesteld dat de ten laste gelegde feiten – waarbij het onder 1 ten laste gelegde in de subsidiaire variant – wettig en overtuigend bewezen kunnen worden verklaard.
+
+4.2
+
+Het standpunt van de verdediging
+
+De verdediging heeft gesteld dat verdachte van het onder 1 primair ten laste gelegde moet worden vrijgesproken, omdat het handelen van verdachte niet als ‘medeplegen’ gekwalificeerd kan worden. Tot een bewezenverklaring kan worden gekomen van het onder 1 subsidiair tenlastegelegde in de periode juni 2021 tot en met 6 januari 2022 en van het onder 2 tenlastegelegde in de periode juni 2020 tot januari 2021. Van de overige in beide feiten ten laste gelegde periode moet verdachte worden vrijgesproken.
+
+Met betrekking tot feit 3 heeft de verdediging eveneens gesteld dat verdachte van het ten laste gelegde moet worden vrijgesproken. De raadsman heeft betoogd dat verdachte stelt niet te hebben geweten dat er drugsafval werd geproduceerd en ook niet wat er mee werd gedaan en bij gebrek aan die wetenschap had verdachte geen zorgplicht.
+
+De verdediging heeft eveneens een beroep gedaan op een schulduitsluitingsgrond.
+
+4.3
+
+De overwegingen van de rechtbank
+
+4.3.1
+
+Inleiding
+
+Hierna stelt de rechtbank op grond van de inhoud van het dossier en het onderzoek ter terechtzitting de feiten en omstandigheden vast. Deze feiten en omstandigheden kunnen op grond van de inhoud van de bewijsmiddelen als vaststaand worden aangemerkt.
+
+De rechtbank overweegt verder, al dan niet in reactie op gevoerde verweren, waarom zij op basis van die feiten en omstandigheden tot conclusies en beantwoording van de bewijsvraag komt. De voor de bewezenverklaring redengevende bewijsmiddelen zijn opgenomen in de bijlage bij dit vonnis
+
+4.3.2
+
+Achtergrond onderzoek
+
+Verdachte (verder ook [verdachte] ) en zijn medeverdachten [medeverdachte 1] (verder [medeverdachte 1] ), [medeverdachte 2] (verder [medeverdachte 2] ) en [medeverdachte 3] (verder [medeverdachte 3] ) zijn allen verdachten in het opsporingsonderzoek ‘Electra22’. Dit betreft het opsporingsonderzoek rondom de ontdekking van een deels ontmanteld drugslaboratorium in een mestkelder op het perceel [adres 2] op 1 februari 2022. In de kelder werd een groot aantal vaten met in totaal meer dan 12.000 liter vervuilde drugsgerelateerde vloeistof aangetroffen.
+
+4.3.3.
+
+Aantreffen drugslab
+
+[bedrijf 2] is eigenaar van het perceel met opstallen aan de [adres 2] . In de periode van 2 september 2015 tot 6 januari 2022 heeft [bedrijf 2] het perceel in erfpacht uitgegeven aan [medeverdachte 1] . [medeverdachte 1] was daarmee in genoemde periode pachter van het perceel en had daarmee de beschikkingsmacht over het perceel en de opstallen. De opstallen bestaan uit een overdekte rijbak met paardenstallen (pand 1), een boerderijwoning die is opgedeeld in meerdere appartementen en een kantoor (pand 2), een voormalige koeienstal met mestkelder die is omgebouwd tot een paardenstal met twintig paardenboxen (pand 3), een kapschuur (pand 4), een Twickelschuur met zolder (pand 5) en een deels overdekte tredmolen (pand 6).
+
+[bedrijf 2] heeft per 1 november 2021 de erfpachtovereenkomst opgezegd wegens het uitblijven van betaling van de erfpachtcanon. Op 6 januari 2022 is de beschikkingsmacht over het perceel en de opstallen weer overgegaan naar [bedrijf 2] .
+
+Op 1 februari 2022 heeft de rentmeester van [bedrijf 2] bij de politie melding gemaakt van een ondergronds drugslaboratorium op het perceel [adres 2] .
+
+De politie heeft die dag in pand 3 onder een paardenstal de restanten van een voormalig synthetisch drugslaboratorium aangetroffen.
+
+Onder de paardenstal bevond zich een gierkelder met een lengte van circa 31,33 meter, een breedte van circa 11,34 meter en een hoogte van circa 2,16 meter. De gierkelder bestond oorspronkelijk uit vier afzonderlijke gangen met verschillende breedtes.
+
+In een paardenbox was een betonvloerplaat met lamellen verwijderd. Onder de ontstane opening was op de vloer van de gierkelder een schaarlift geplaatst. Van de schaarlift bevond zich de laadvloer op het vloerniveau van de paardenstal. Hierdoor was een mangat aanwezig waardoor de gierkelder vanuit de paardenbox bereikbaar was.
+
+Door het verwijderen van delen van enkele muren stonden de afzonderlijke gangen van de gierkelder met elkaar in verbinding. Door het plaatsen van watervaste gipsplaten was een gang en een doorgang afgesloten. In enkele gangen waren door raggelwerk met watervaste gipsplaten en binnendeuren compartimenten gerealiseerd. Ook waren in de gierkelder een elektrische installatie (groepenkast, wandcontactdozen, verlichting), een luchtbehandeling systeem (afzuigsysteem, gaswassers) en watervoorzieningen (waterleiding, kranen) gerealiseerd.
+
+De aangetroffen compartimenten zijn onderverdeeld in vijf ruimtes A. tot en met E.
+
+In ruimte A stonden diverse gebruikte/vervuilde goederen opgeslagen, waaronder regentonnen, waterstofzuigers, slakkenhuizen, ijsemmers en elektrische straalkachels. Ook stonden er jerrycans en  dop- en klemdekselvaten die allen gevuld waren met gerelateerd (synthetisch)drugs afval.
+
+In ruimte B was door het verwijderen van een vloerplaat in de bovengelegen paardenbox een opening ontstaan naar de ondergelegen gierkelder. Door een geplaatste schaarlift konden goederen, personen en/of benodigdheden de gierkelder in/uit worden gebracht. In de ruimte stonden twee IBC’s (Intermediate Bulk Containers) die als gaswasser gemodificeerd waren en in gebruik waren.
+
+In ruimte C stonden negentien waterstofgascilinders van 50 liter, vier propaan gascilinders, vijfendertig lege jerrycans en twee lege klemdekselvaten.
+
+Ruimte D had gezien de inrichting vermoedelijk dienst gedaan als productieruimte. Gezien
+
+vanuit ruimte C was aan de wand een werkblad/tafel gemonteerd waarop enkele kunststofbakken en overig klein materiaal stonden. Ook stonden er tien jerrycans met zoutzuur, kunststofbakken en overige goederen.
+
+In ruimte E was direct naast de scheidingswand met ruimte D een werkblad/tafel aan de wand gemonteerd. Ter hoogte van de weggebroken tussenwand was ook een werkblad/tafel aan de wand gemonteerd met aan de muur een groepenkast. In de ruimte stonden jerrycans, dop- en klemdekselvaten, drie stoelen en een waterstofgascilinder met daaraan een reduceerventiel met een stuk gasslang. Verder stond er op omgekeerde speciekuipen een werktafel met daarop enkele jerrycans met tapkraan. In een jerrycan werd een restant donkere olie aangetroffen dat als MDMA werd geïdentificeerd.
+
+In de kelder werden twintig waterstofgascilinders en de restanten van MDMA en methamfetamine aangetroffen. In de aangetroffen ijsemmers werden restanten methamfetamine olie en kristallen aangetroffen; in de klemdekselvaten werden restanten MDMA kristallen aangetroffen. Hierdoor werd waarschijnlijk de geproduceerde MDMA- en methamfetamine olie(base) ter plaatse gekristalliseerd.
+
+Het Nederlands Forensisch Instituut (NFI) heeft vastgesteld dat in het onderzochte materiaal MDMA en methamfetamine is aangetoond. Ook zijn methamfetamine HCI en MDMA HCI aangetroffen en dit zijn zouten van methamfetamine en MDMA. Het NFI heeft verder PMK (piperonylmethylketon), methylamine, BMK (benzylmethylketon), aceton, methanol en tolueen aangetroffen.
+
+In relatie tot drugs is PMK een grondstof voor de vervaardiging van MDMA. Methylamine is een grondstof voor de vervaardiging van MDMA en methamfetamine. BMK is een grondstof voor de vervaardiging van amfetamine en methamfetamine. Aceton, methanol en tolueen worden in de chemische industrie veelvuldig toegepast en in relatie tot drugs kunnen deze stoffen worden gebruikt bij de vervaardiging en/of bewerking van diverse drugs.
+
+Eerder op het perceel aangetroffen vaten met chemische inhoud
+
+Al voor de ontdekking van het drugslaboratorium heeft de politie in december 2021 twintig blauwe en zwarte vaten aangetroffen waarin voornamelijk chemische vloeistof zat, dan wel had gezeten, en die door de politie zijn herkend als stoffen die veelvuldig worden aangetroffen bij de productie van synthetische drugs.
+
+Bij een nacontrole heeft de politie geconstateerd dat een drietal vaten niet meer aanwezig waren en dat sommige vaten waren gecamoufleerd met paardendekens.
+
+In een van de vaten waren gaten geboord en daaruit kwamen gassen in de vorm van witte rook. In het vat was derhalve een chemische reactie gaande. Ook roken de verbalisanten een synthetische geur.
+
+4.3.4
+
+Tussenconclusie van de rechtbank
+
+Op grond van bovenstaande feiten en omstandigheden stelt de rechtbank vast dat in de mestkelder van pand 3 een weliswaar deels ontmantelde, maar niettemin professionele productieopstelling voor de grootschalige vervaardiging van methamfetamine en MDMA is aangetroffen en dat de voor de synthese van methamfetamine en MDMA benodigde chemicaliën en laboratoriumbenodigdheden aanwezig waren. Op het perceel is ruim 12.000 liter drugsgerelateerde vervuilde vloeistof aangetroffen en het grootste deel hiervan betreft aceton met lage concentraties MDMA en PMK (precursor voor MDMA).
+
+Naar het oordeel van de rechtbank waren die stoffen en voorwerpen ook met dat doel op de genoemde locatie aanwezig. De aangetroffen restanten van MDMA en methamfetamine én de restanten methamfetamine olie en -kristallen en de in de klemdekselvaten aangetroffen restanten MDMA-kristallen sterkt de rechtbank in die conclusie. Daar komt bij dat noch gesteld noch gebleken is dat de aangetroffen stoffen en voorwerpen een andere bestemming zouden hebben gehad.
+
+Evenmin is gebleken dat op andere plaatsen op het terrein drugs is geproduceerd.
+
+4.3.5
+
+Werkzaamheden ten behoeve van het drugslab
+
+De mestkelder
+
+Voor de productie van de synthetische drugs methamfetamine en MDMA is de mestkelder gereed gemaakt.
+
+Op 17 september 2020 heeft het bedrijf [bedrijf 6] werkzaamheden uitgevoerd in pand 3. Het kreeg de opdracht één mestrooster te verwijderen door deze er tussenuit te zagen. Op
+
+28 oktober 2020 is de mestkelder in opdracht van [verdachte] leeggepompt. In de laatste week van november 2020 heeft [bedrijf 5] de mestkelder schoongemaakt. Het bedrijf [bedrijf 3] heeft daarvoor een trekker en een tank met water geleverd. Omdat de werkzaamheden enkele dagen duurden heeft [verdachte] voor de werknemers van [bedrijf 5] hotelovernachtingen bij het [bedrijf 4] geboekt en betaald.
+
+Het stroomverbruik
+
+Uit de bevindingen met betrekking tot het stroomverbruik op de [adres 2] volgt dat vanaf december 2020 een sterk stijgende lijn is te zien in het elektriciteitsverbruik ten opzichte van het jaar daarvoor. In december 2020 en januari en februari 2021 zijn de hoogste pieken gemeten, maar ook in maart en april 2021 is het verbruik aanzienlijk hoger. Dat geldt ook voor het verbruik in de maanden oktober en november 2021.
+
+Voor de betaling van de factuur van Essent heeft [verdachte] op 28 september 2021 zijn bankrekeningnummer laten veranderen in het ING-bankrekeningnummer van [medeverdachte 1] . Ook hebben [verdachte] en [medeverdachte 1] veelvuldig overleg over de betaling van de jaarafrekening van Essent van € 14.370,99.
+
+Zowel [verdachte] als [medeverdachte 2] maken zich zorgen over het uitblijven van de betaling van de energierekening en [medeverdachte 2] regelt geld bij de jongens om de rekening betaald te krijgen. [verdachte] heeft contact met ene “ [alias 1] ” over de betaling van een bedrag van minimaal
+
+€ 10.000,-- omdat anders de stroom er af gaat. Op 5 oktober 2021 zegt [medeverdachte 1] tegen [verdachte] dat ze nerveus wordt als het met Essent niet lukt.
+
+4.3.6
+
+De verdachten
+
+[verdachte]
+
+hielp [medeverdachte 1] met alle voorkomende werkzaamheden op het terrein en hij had de beschikking over alle sleutels van alle panden. Hij heeft [medeverdachte 2] in contact gebracht met [medeverdachte 1] . Hij kende [medeverdachte 2] al vijftien jaren en zolang hij hem kent, regelt [medeverdachte 2] locaties voor drugsgerelateerde zaken. Hij zoekt boerenlocaties en vraagt [verdachte] wekelijks of hij locaties weet omdat [verdachte] op veel boerenbedrijven komt.
+
+[medeverdachte 2] heeft [medeverdachte 1] gevraagd of het niet interessant was om wat handel te doen. Volgens [verdachte] is het allemaal drugsgerelateerd. [medeverdachte 2] noemde als handel het maken van olie en had het over A-olie.
+
+[verdachte] heeft, samen met [medeverdachte 2] , metingen verricht in de mestkelder om te kijken hoe diep de kelder was. Hen werd duidelijk dat de ruimte groot genoeg was om een laboratorium in te bouwen en [medeverdachte 2] heeft hem gevraagd of [verdachte] iemand wist die de mestkelder kon schoonmaken.
+
+Het schoonmaken van de mestkelder is besproken met [medeverdachte 1] en in november 2020 is de mestkelder schoongemaakt. In opdracht van [medeverdachte 1] en [medeverdachte 2] heeft [verdachte] loonwerker [bedrijf 3] , [bedrijf 5] en het [bedrijf 4] voor het verblijf van de werknemers van [bedrijf 5] , geregeld. De rekening van het [bedrijf 4] heeft hij betaald met geld dat hij ontving van [medeverdachte 2] . De rekening van [bedrijf 5] en [bedrijf 3] zijn door [medeverdachte 1] en [medeverdachte 2] betaald.
+
+[verdachte] heeft verder verklaard dat hij gedurende zes maanden maandelijks € 2200,-- ontving. Het bedrag hield hij op bij [medeverdachte 2] en kreeg hij contant.
+
+Toen hij in faillissementsgijzeling verbleef gingen de betalingen door omdat dat de afspraak was. Zijn partner ging dan naar [medeverdachte 2] om het geld op te halen. Het geld was tipgeld.
+
+Ook ging hij met [medeverdachte 1] mee om geld bij [medeverdachte 2] op te halen. Soms waren daar andere mensen bij. Ook [medeverdachte 1] werd contant betaald; de ene keer ging het om € 7.500,--, de andere keer om € 15.000,--.
+
+Vanaf juni 2021 is [verdachte] de administratie voor [medeverdachte 1] gaan verzorgen en had hij de beschikking over de bankpas behorende bij de ING-bankrekening met nummer [rekeningnummer 1] van [medeverdachte 1] . In de maanden oktober en november 2021 heeft [verdachte] voor in totaal € 20.450,-- aan contant geld op de bankrekening van [medeverdachte 1] gestort. Ook heeft [verdachte] verklaard dat tussen mei/juni 2021 en oktober/november 2021 een tweede groep gebruik heeft gemaakt van het drugslaboratorium.
+
+[medeverdachte 1]
+
+heeft verklaard dat korte tijd nadat haar toenmalige partner [medeverdachte 3] in november 2020 terugkwam aan de [adres 2] , de kelder werd leeggepompt. Zij wist dat er drugs werd gemaakt in de mestkelder. Er kwamen in januari 2021 mensen bij haar op het erf wonen die niet overdag maar 's nachts in de mestkelder werkten. Zij denkt dat de jongens er drie à vier maanden hebben gewoond en in april 2020 weer zijn weggegaan.
+
+[medeverdachte 1] heeft ook verklaard dat [verdachte] heeft geregeld dat de jongens daar gingen wonen.
+
+Van [verdachte] , of van [medeverdachte 2] , ontving zij geld. Zij is vijf keer bij [medeverdachte 2] geweest en het geld zat altijd in een envelop of in een tasje.
+
+[medeverdachte 1] wist ook dat het een motorclub was die zich bezig hield met het drugslaboratorium. Ze kwamen uit [plaats 1] . Het gebeuren in de mestkelder ging door tot oktober of november.
+
+[medeverdachte 2]
+
+kende al een aantal jaren twee mannen uit [plaats 2] . Zij zeiden tegen hem dat ze een ruimte nodig hadden om te draaien. Hoewel zij niet aangaven wat ze daarmee bedoelenden, weet [medeverdachte 2] dat het om drugslabs ging. [medeverdachte 2] kreeg de opdracht boeren te zoeken die het water aan de lippen stond en die geld nodig hadden en dat een schuur van 140 tot 150 vierkante meter perfect was.
+
+Volgens [medeverdachte 2] werd hij gebeld door [verdachte] om langs te komen, omdat [verdachte] wist dat [medeverdachte 2] locaties zocht voor drugslabs. Volgens [verdachte] had de kelder onder de paardenstal geschikte afmetingen en [verdachte] heeft [medeverdachte 2] de stal laten zien. [medeverdachte 2] heeft [verdachte] gezegd dat als hij het wilde verhuren, eerst de mest eruit moest.
+
+[medeverdachte 2] heeft daarop de twee mannen laten weten dat hij een geschikt adres had voor een drugslaboratorium. Zij spraken af dat elke keer als ze gedraaid hadden, [medeverdachte 2] een paar duizend euro kreeg. [medeverdachte 2] heeft verklaard dat hij tien tot twaalf keer geld heeft gekregen en er dus tien tot twaalf weken is geproduceerd. Hij kreeg € 2.000,-- per keer.
+
+Volgens [medeverdachte 2] werd er eerst crystal meth geproduceerd. Later werd MDMA geproduceerd.
+
+Ook heeft [medeverdachte 2] verklaard dat hij met [verdachte] een oplossing is gaan zoeken voor de betaling van de energierekening voor de [adres 2] omdat daar anders de stroom zou worden afgesloten.
+
+4.3.7
+
+Tussenconclusie met betrekking tot de periode van het drugslaboratorium
+
+Op grond van het voorgaande komt de rechtbank tot het oordeel dat vanaf januari 2021 het drugslaboratorium aanwezig was, dat dit drugslaboratorium werd gebruikt in twee verschillende periodes door twee verschillende groepen, dat [medeverdachte 2] , [medeverdachte 1] en [verdachte] daar wetenschap van hadden en dat zij wisten dat er methamfetamine en MDMA werd geproduceerd.
+
+4.3.8
+
+De specifieke betrokkenheid van [verdachte]
+
+Feit 1
+
+Medeplegen of medeplichtigheid.
+
+Volgens de officier van justitie moet [verdachte] van het primair ten laste gelegde medeplegen worden vrijgesproken en moet het handelen van [verdachte] gekwalificeerd worden als medeplichtigheid.
+
+Bij het antwoord op de vraag of het handelen van verdachte als ‘medeplegen’ of ‘medeplichtigheid’ gekwalificeerd moet worden, stelt de rechtbank het volgende voorop.
+
+Voor medeplegen is vereist dat sprake is van nauwe en bewuste samenwerking. Die kwalificatie is slechts gerechtvaardigd als de bewezenverklaarde - intellectuele en/of materiële - bijdrage van de verdachte aan het delict van voldoende gewicht is. Een en ander brengt mee dat indien het ten laste gelegde medeplegen in de kern niet bestaat uit een gezamenlijke uitvoering, maar uit gedragingen die met medeplichtigheid in verband plegen te worden gebracht (zoals het verstrekken van inlichtingen, op de uitkijk staan, helpen bij de vlucht), op de rechter de taak rust om in het geval dat hij toch tot een bewezenverklaring van het medeplegen komt, in de bewijsvoering dat medeplegen nauwkeurig te motiveren.
+
+Bij de vorming van het oordeel dat sprake is van de voor medeplegen vereiste nauwe en bewuste samenwerking, kan de rechter rekening houden met onder meer de intensiteit van de samenwerking, de onderlinge taakverdeling, de rol in de voorbereiding, de uitvoering of de afhandeling van het delict en het belang van de rol van de verdachte, diens aanwezigheid op belangrijke momenten en het zich niet terugtrekken op een daartoe geëigend tijdstip.
+
+Bij medeplichtigheid daarentegen betreft het kernverwijt het bevorderen en/of vergemakkelijken van een door een ander begaan misdrijf.
+
+Hoewel op grond van de bewijsmiddelen is komen vast te staan dat [verdachte] , [medeverdachte 2] en [medeverdachte 1] zelf geen bemoeienis hebben gehad met de daadwerkelijke productie van methamfetamine en MDMA, dient aan de hand van het voorgaande beoordeeld te worden of de handelingen die zij wel hebben verricht, gekwalificeerd kunnen worden als medeplegen.
+
+De rechtbank is van oordeel dat het medeplegen bewezen kan worden verklaard. De rechtbank motiveert dit als volgt.
+
+Vast staat dat in een van opstallen (pand 3) waarvan [medeverdachte 1] eigenaar (pachter) was, zich een professioneel ingericht en producerend drugslaboratorium heeft bevonden, en dat op het perceel een grote hoeveelheid synthetisch drugsafval ten behoeve van de productie van methamfetamine en MDMA is aangetroffen.
+
+De rechtbank is van oordeel dat ten behoeve van het drugslab de verdachten in ieder geval met elkaar, en wellicht ook met (een) ander(en), een samenwerkingsverband met ieder een eigen rol vormden. [verdachte] , [medeverdachte 2] en [medeverdachte 1] hebben daarvoor onderling nauw en bewust samengewerkt. Hun opzet was daarbij gericht op het realiseren van een ruimte voor een drugslaboratorium waar harddrugs geproduceerd kon worden én werd door anderen.
+
+Uit de bewijsmiddelen volgt dat het initiatief voor het drugslaboratorium volledig bij verdachten lag.
+
+[verdachte] was de beheerder van de manage van [medeverdachte 1] aan de [adres 2] en verbleef daar veelvuldig. [verdachte] had contacten met [medeverdachte 2] die hij al jaren kende en waarvan hij wist dat die locaties voor drugsgerelateerde zaken regelde. Hij heeft [medeverdachte 2] benaderd en hem gewezen op de liggen van het perceel aan de [adres 2] . Bij het totstandbrengen van het contact tussen [medeverdachte 1] en [medeverdachte 2] was [verdachte] aanwezig en ook hij werd geïnformeerd over de productie van A-olie. [verdachte] wist dat in het drugslaboratorium methamfetamine en (later) MDMA werd geproduceerd.
+
+Samen met [medeverdachte 2] heeft [verdachte] de mestkelder geïnspecteerd en gezamenlijk hebben zij geregeld en er voor gezorgd dat de mestkelder werd schoongemaakt en aangepast tot een drugslaboratorium. [verdachte] gaf de opdracht tot het verwijderen van een rooster uit de paardenstal zodat er een hydraulische lift geïnstalleerd kon worden. Ook was [verdachte] in het bezit van een overzicht van de paardenstal waar de luchtafvoergaten geïnstalleerd moesten worden.
+
+[verdachte] had verder de sleutels van de panden op het perceel in bezit, deed de administratie voor [medeverdachte 1] , had de beschikking over haar bankpas, betaalde facturen al dan niet door het geven van opdracht daartoe, en zorgde zelfs met hulp van [medeverdachte 2] voor de betaling van de energierekening toen de stroom zou worden afgesloten en daardoor het drugslaboratorium niet meer zou kunnen werken.
+
+[verdachte] heeft samen met [medeverdachte 1] de maandelijkse vergoeding voor het drugslaboratorium afgesproken. Samen met haar reed hij naar de woning van [medeverdachte 2] in [plaats 3] om het geld op te halen. In de periode dat [verdachte] in faillissementsgijzeling verbleef stuurde hij zijn partner naar [medeverdachte 2] om het geld op te halen.
+
+De rechtbank is dan ook van oordeel dat verdachten in samenwerking met elkaar essentiële werkzaamheden hebben verricht ten behoeve van de voorbereiding en het functioneren van het laboratorium om methamfetamine en MDMA te produceren. Zij vormden elk een onmisbare schakel in de keten. Uit hun handelen en hun samenwerking volgt naar het oordeel van de rechtbank dat allen opzet had op het verweten gronddelict, alsmede op het medeplegen daarvan.
+
+In de overwegingen betrekt de rechtbank ook dat [verdachte] , anders dan hij de rechtbank heeft willen doen geloven, allesbehalve naïef was. Hij realiseerde de plannen voor het drugslaboratorium en zorgde voor de daadwerkelijk uitvoering. Ook was hij – behoudens de maanden dat hij faillissementsgijzeling verbleef – steeds op het perceel aanwezig en heeft hij zich op geen enkele wijze gedistantieerd van het drugslaboratorium aan de [adres 2] .
+
+Gelet hierop acht de rechtbank de gehele ten laste gelegde periode bewezen. Ook in de maanden dat [verdachte] in faillissementsgijzeling verbleef, ging zijn handelen door nu hij in die periode zijn partner opdracht gaf naar [medeverdachte 2] te reizen en bij hem het geld op te halen.
+
+Gelet op de wijze waarop [verdachte] deel uitmaakte van de organisatie van dit drugslaboratorium is de rechtbank van oordeel dat zijn handelen zonder meer leidt tot het bewijs dat hij zich als medepleger heeft bezig gehouden met (voorbereidingshandelingen voor) de productie van methamfetamine en MDMA.
+
+Conclusie
+
+De rechtbank is van oordeel dat in onderling verband en samenhang bezien wettig en overtuigend bewezen kan worden dat [verdachte] zich samen met anderen schuldig heeft gemaakt aan het medeplegen van het produceren van methamfetamine en MDMA.
+
+De rechtbank acht daarmee het onder 1 primair ten laste gelegde medeplegen wettig en overtuigend bewezen.
+
+Feit 2
+
+Op grond van voornoemde bewijsmiddelen en overwegingen acht de rechtbank eveneens bewezen dat [verdachte] samen met anderen voorbereidingshandelingen voor de productie van methamfetamine en MDMA heeft verricht. De rechtbank acht daarmee ook het onder 2 ten laste gelegde medeplegen wettig en overtuigend bewezen.
+
+Partiële vrijspraak
+
+De rechtbank is van oordeel dat op grond van de inhoud van het dossier niet wettig en overtuigend bewezen kan worden dat in de ten laste gelegde periode daadwerkelijk het verkopen, het afleveren, het verstrekken en het vervoeren van methamfetamine en MDMA heeft plaatsgevonden, zodat de rechtbank [verdachte] van dit onderdeel van de tenlastelegging zal vrijspreken.
+
+Feit 3
+
+Feiten en omstandigheden
+
+Naast de onder feiten 1 en 2 genoemde feiten en omstandigheden, stelt de rechtbank voor feit 3 de volgende feiten en omstandigheden vast.
+
+Op 6 december 2021 zijn bij een bedrijfscontrole aan de [adres 2] in pand 3 tien 200-liter vaten aangetroffen in een paardenbox en die stonden in het stro.
+
+Op één van de aangetroffen zwarte vaten zat een sticker die voorzien was van de tekst "isobutyl-alcohol". Op de overige vaten zaten geen stickers met opschriften. Die vaten waren afgesloten en gevuld met vloeistof. De vloer waarop de vaten stonden was een niet-vloeistofdichte vloer.
+
+Op 28 december 2021 zijn bij de hercontrole op het perceel in plaats van tien nog maar zeven vaten aangetroffen die waren afgedekt met paardendekens.
+
+Er stonden drie 200-liter vaten en twee 60-liter vaten. In een van de 60-liter vaten waren gaten geboord waaruit een witte damp opsteeg.
+
+In de loopgang stond een paardentrailer met op de vloer vier aftekeningen van ronde kringen; mogelijk ontstaan door vaten die vloeistof lekken.
+
+Op 22 januari 2022 heeft de nieuwe beheerder onder een kapschuur twintig jerrycans aangetroffen. In een deel hiervan zat amfetamine afval.
+
+Op 11 maart 2022 is - na de melding dat een chemische geur wordt geroken bij een kelder tussen pand 2 en pand 5 - in de kelder weer drugsafval aangetroffen. Deze kelder was (nog) niet ontdekt en was afgedekt met een betonverharding. Na het openen van een putdeksel bleek de kelder tot boven toe afgevuld met een zeer chemisch ruikende vloeistof, passend bij XTC-afval. In de onderzochte vloeistof is methamfetamine en MDMA aangetroffen.
+
+De aangetroffen vloeistoffen zijn voor het overgrote deel aan te merken als gevaarlijke afvalstoffen.
+
+Op de laptop van [verdachte] zijn videobestanden van 23 oktober 2021 aangetroffen met beelden van een paardenbox met daarin dertien jerrycans die allemaal gevuld zijn met een vloeistof en deels verscholen onder stro. Op drie jerrycans is een rode vierkante stikker met een witte vlam met daaronder een witte streep, te zien.
+
+Verdachte heeft ter zitting van 12 juni 2024 verklaard dat hij wel eens blauwe vaten op het terrein heeft zien staan. Hij was er bij toen verbalisanten aan [naam 10] hebben gevraagd de vaten te verwijderen en hij heeft samen met [naam 10] de vaten in de paardentrailer gezet. De inhoud van de vaten stonk.
+
+Overwegingen van de rechtbank
+
+De rechtbank is van oordeel dat op grond van bewijsmiddelen wettig en overtuigend bewezen is dat [verdachte] in de periode van 22 oktober 2021 tot en met 11 maart 2022 drugsafval heeft opgeslagen, verwerkt, overgeslagen en/of gestort waarvan hij redelijkerwijs had kunnen weten dat daardoor nadelige gevolgen voor het milieu ontstonden en/of konden ontstaan en hij ook niet aan de verplichting heeft voldaan alle maatregelen te nemen die redelijkerwijs konden worden gevergd om die gevolgen zoveel mogelijk te voorkomen en/of te beperken.
+
+De rechtbank overweegt daarbij dat het een feit van algemene bekendheid is dat de productie van drugs drugsafval met zich brengt en dat dit afval gevaarlijke chemische afvalstoffen zijn.
+
+Chemisch afval dient op daartoe voorgeschreven wijze te worden opgeslagen en ver- of afgevoerd. Het enkele feit dat de op de [adres 2] aangetroffen chemische stoffen waren opgeslagen in paardenstallen en mest- en gierkelders is naar het oordeel van de rechtbank reeds voldoende om te kunnen vaststellen dat daarmee onvoldoende maatregelen voor opslag zijn getroffen.
+
+Voor de bescherming van het milieu is daarbij van belang dat de vloeistoffen worden opgeslagen in daarvoor bestemde opslagvoorzieningen. Evident is dat paardenstallen en mest- en gierkelders niet zijn aan te merken als daarvoor bestemde opslagvoorzieningen. Ook moet voorkomen worden dat in geval van lekkage van vloeistoffen deze op de bodem of in het oppervlaktewater terechtkomen. De stoffen moeten worden opgeslagen op een vloeistofdichte vloer en op ruime lekbakken waarin de eventuele lekkage kan worden opgevangen. Ook deze voorzieningen zijn noch in de paardenstallen noch in de mest- gierkelders aangetroffen. Daarnaast is van belang dat de verschillende soorten gevaarlijke afvalstoffen gescheiden van elkaar worden opgeslagen omdat mogelijke onderling  chemische reacties kunnen ontstaan, met alle gevolgen van dien. Ook van gescheiden opslag was geen sprake in de opstallen en de kelders.
+
+Door deze wijze van opslag van de gevaarlijke afvalstoffen heeft [verdachte] handelingen verricht zonder in redelijkheid alle maatregelen te treffen om de (mogelijke) nadelige gevolgen daarvan te voorkomen of te beperken.
+
+Nu de rechtbank de feiten 1 primair en 2 bewezen acht, is daarmee naar het oordeel van de rechtbank de wetenschap dat het gevaarlijke afvalstoffen betroffen en dat door de opslag van deze gevaarlijke afvalstoffen mogelijk nadelige gevolgen voor het milieu konden ontstaan, een gegeven.
+
+De rechtbank acht gelet op de bewezenverklaring van de feiten 1 primair en 2 eveneens bewezen dat [verdachte] het feit opzettelijk heeft begaan.
+
+4.4
+
+De bewezenverklaring
+
+De rechtbank acht op grond van de in de bijlage opgenomen bewijsmiddelen waarin zijn vervat de redengevende feiten en omstandigheden waarop de bewezenverklaring steunt wettig en overtuigend bewezen dat verdachte de onder 1 primair, 2 en 3 ten laste gelegde feiten heeft begaan, met dien verstande dat:
+
+1. primair.
+
+hij in de periode van 1 juni 2020 tot en met 1 februari 2022 te Ambt-Delden, gemeente Hof van Twente, in een pand gelegen aan de [adres 2] aldaar, meermalen tezamen en in vereniging met anderen, telkens opzettelijk heeft bereid en/of bewerkt en/of verwerkt en/of vervaardigd, telkens grote hoeveelheden van een materiaal bevattende methamfetamine (crystal meth) en/of MDMA, zijnde methamfetamine (crystal meth) en MDMA telkens een middel als bedoeld in de bij de Opiumwet behorende lijst I;
+
+2.
+
+hij in de periode van 1 juni 2020 tot en met 1 februari 2022 te Ambt-Delden, gemeente Hof van Twente, tezamen en in vereniging met anderen, om een feit, bedoeld in het vierde of vijfde lid van artikel 10 van de Opiumwet, te weten het opzettelijk bereiden, bewerken, verwerken van methamfetamine en/of MDMA, zijnde methamfetamine en MDMA telkens een middel vermeld op de bij de Opiumwet behorende lijst I, voor te bereiden en/of te bevorderen en daartoe gelegenheid, middelen of inlichtingen heeft verschaft en/of daartoe voorwerpen, vervoermiddelen, stoffen, gelden of andere betaalmiddelen voorhanden heeft gehad door
+
+- een mestkelder op het perceel [adres 2] leeg te laten maken en schoon te laten maken en het laten loszagen van mestroosters en
+
+- de beschikking te hebben over alle sleutels van het perceel [adres 2] en als
+
+aanspreekpunt te fungeren voor derden en
+
+- het (laten) betalen van rekeningen die verband houden met het schoonmaken/leegmaken van een mestkelder op het perceel [adres 2] en
+
+- het (laten) betalen van rekeningen die verband houden met de energieleverantie op
+
+het perceel [adres 2] en
+
+- geld te storten op de rekening van [medeverdachte 1] voor de betaling van diverse rekeningen en/of het nakomen van betalingsverplichtingen en daarbij de beschikking te hebben over een bankpas van [medeverdachte 1] en
+
+- facturen van het bedrijf [bedrijf 1] op naam te laten zetten van medeverdachte
+
+[medeverdachte 1] en een contant bedrag van 4.500 euro af te laten leveren bij het bedrijf [bedrijf 1] in verband met gemaakte kosten voor het leegpompen van de mestkelder en
+
+- veelvuldig contact te hebben met andere personen die betrokken zijn bij het
+
+kiezen/organiseren van een locatie, de inrichting van een locatie, de aanvoer van
+
+goederen en materialen die gebruikt worden voor de vervaardiging van de drugs, de
+
+daadwerkelijke vervaardiging van de drugs, het transport van de vervaardigde drugs
+
+en de afvoer van het ontstane afval, waarvan hij weet dat zij bestemd zijn tot het
+
+plegen van die feiten;
+
+3.
+
+hij in de periode van 22 oktober 2021 tot en met 11 maart 2022 te Ambt Delden, gemeente Hof van Twente, tezamen en in vereniging met (een) ander(en) , opzettelijk,
+
+handelingen met afvalstoffen heeft verricht waarvan hij, verdachte, en/of zijn
+
+mededader(s) redelijkerwijs had(den) kunnen weten dat daardoor nadelige gevolgen
+
+voor het milieu ontstonden en/of konden ontstaan, terwijl hij, verdachte en/of zijn
+
+mededader(s) niet aan zijn/hun verplichting heeft/hebben voldaan alle maatregelen
+
+te nemen die redelijkerwijs van hem en/of zijn mededader(s) konden worden
+
+gevergd, teneinde die gevolgen zoveel mogelijk te voorkomen en/of te beperken,
+
+immers heeft hij, verdachte en/of zijn mededader(s):
+
+op 22 oktober 2021 één of meer vaten afval afkomstig van een drugslaboratorium, en
+
+op 6 december 2021 in opstal 3 één of meer vaten afval afkomstig van een drugslaboratorium, en
+
+op 28 december 2021 in opstal 3 één of meer vaten afval afkomstig van een drugslaboratorium, en
+
+op 22 januari 2022 in opstal 4 één of meer vaten afval afkomstig van een drugslaboratorium, en
+
+op 1 februari 2022 in de kelder onder opstal 3 één of meer vaten afval afkomstig van een drugslaboratorium, en
+
+op 11 maart 2022 in de gierkelder tussen opstal 2 en 5, één of meer kub afval afkomstig van een drugslaboratorium,
+
+opgeslagen/verwerkt en/of overgeslagen en/of gestort.
+
+De rechtbank acht niet bewezen wat aan verdachte onder 1 primair, 2 en 3 meer of anders is ten laste gelegd, zodat zij hem daarvan zal vrijspreken.
+
+Taal- en/of schrijffouten in de tenlastelegging, zijn verbeterd in de bewezenverklaring.
+
+Verdachte is daardoor niet geschaad in de verdediging.
+
+5
+De strafbaarheid van het bewezenverklaarde
+
+Het onder 1 primair en 2 bewezenverklaarde is strafbaar gesteld in de artikelen 2, 10 en 10a van de Opiumwet.
+
+Het onder 3 bewezenverklaarde is strafbaar gesteld in artikel 10.1 van de Wet Milieubeheer jo de artikelen 1a, 2 en 6 van de Wet op de economische delicten.
+
+Er zijn geen feiten of omstandigheden aannemelijk geworden die de strafbaarheid van de feiten uitsluiten. Het bewezenverklaarde levert op:
+
+De eendaadse samenloop van
+
+feit 1 primair
+
+het misdrijf: medeplegen van het opzettelijk handelen in strijd met het in artikel 2, onder B en D, van de Opiumwet gegeven verbod, meermalen gepleegd
+
+en
+
+feit 2
+
+het misdrijf: medeplegen van een feit, bedoeld in het vierde lid van artikel 10 van de Opiumwet, voor te bereiden of te bevorderen, door daartoe gelegenheid, middelen of inlichtingen te verschaffen, waarvan zij weet of ernstige reden heeft om te vermoeden dat zij bestemd zijn tot het plegen van dat feit, meermalen gepleegd;
+
+feit 3
+
+het misdrijf: medeplegen van overtreding van een voorschrift gesteld bij of krachtens artikel 10.1, eerste lid, van de Wet milieubeheer, opzettelijk begaan, meermalen gepleegd.
+
+6
+De strafbaarheid van verdachte
+
+6.1
+
+Feiten 1 en 2
+
+Met betrekking tot de feiten 1 primair en 2 zijn geen feiten of omstandigheden aannemelijk geworden die de strafbaarheid van verdachte uitsluiten.
+
+6.2
+
+Feit 3
+
+Afwezigheid van alle schuld
+
+Standpunt van de verdediging
+
+De verdediging heeft gesteld dat [verdachte] een beroep op dwaling (AVAS) toekomt en dat [verdachte] om die reden moet worden ontslagen van alle rechtsvervolging. Daartoe heeft zij aangevoerd dat nu door getrainde waarnemers als verbalisanten, specialistische diensten en erkende afvalverwerkingsbedrijven bij waarneming van de vaten geen invulling is gegeven aan de zorgplicht, daarvan nu aan [verdachte] dit verwijt niet kan worden gemaakt.
+
+Standpunt officier van justitie
+
+De officier van justitie heeft gesteld dat het verweer moet worden verworpen. [verdachte] is medeverantwoordelijk voor het drugslaboratorium. Van een drugslaboratorium is algemeen bekend dat de productie van drugs gevaarlijk chemisch afval oplevert, en [verdachte] dan ook medeverantwoordelijk voor de opslag van dat afval.
+
+Overwegingen van de rechtbank
+
+Voor het slagen van een beroep op afwezigheid van alle schuld is van belang dat verdachte in strafrechtelijke zin in het geheel geen schuld heeft gehad, doordat hij dwaalde in de veronderstelling dat er met de vaten niets mis was en dat die dwaling voorts verschoonbaar is. De rechtbank is van oordeel dat het verweer niet kan slagen.
+
+Zoals reeds onder 4.3.8 is overwogen ten aanzien van feit 3 komt de rechtbank tot een bewezenverklaring van de feiten 1 primair en 2 én volgt hieruit dat [verdachte] wetenschap had van het drugsafval op het perceel [adres 2] . Daarmee kan geen sprake zijn van de afwezigheid van alle schuld. Het verweer wordt daarom verworpen.
+
+Er zijn met betrekking tot feit 3 dan ook geen feiten of omstandigheden aannemelijk geworden die de strafbaarheid van verdachte uitsluiten.
+
+De rechtbank oordeelt daarom dat verdachte strafbaar is voor alle drie bewezenverklaarde feiten.
+
+7
+De op te leggen straf of maatregel
+
+7.1
+
+De vordering van de officier van justitie
+
+De officier van justitie heeft gevorderd verdachte te veroordelen tot een gevangenisstraf voor de duur van 30 maanden, met aftrek van de tijd die verdachte in verzekering en voorlopige hechtenis doorgebracht.
+
+7.2
+
+Het standpunt van de verdediging
+
+De verdediging heeft verzocht aan verdachte een gevangenisstraf voor de duur van achttien maanden waarvan twaalf maanden voorwaardelijk op te leggen, met aftrek van de tijd die verdachte in verzekering en voorlopige hechtenis heeft doorgebracht.
+
+Met inachtneming van het bepaalde in artikel 9, vierde lid, van het Wetboek van Strafrecht (Sr), kan daarnaast per feit een maximale taakstraf van 240 uur worden opgelegd.
+
+Het onvoorwaardelijke gevangenisstraf langer dan de tijd die van al in voorlopige hechtenis heeft doorgebracht, zal verdachte zwaar wegen en gevolgen hebben voor zijn baan.
+
+7.3
+
+De gronden voor een straf of maatregel
+
+Bij de strafoplegging houdt de rechtbank rekening met de aard en de ernst van de gepleegde feiten, de omstandigheden waaronder deze zijn begaan en de persoon van verdachte zoals die uit het dossier en tijdens de behandeling ter terechtzitting naar voren zijn gekomen. De rechtbank acht daarbij in het bijzonder het volgende van belang.
+
+De feiten
+
+Verdachte heeft zich samen met zijn mededaders schuldig gemaakt aan de productie van methamfetamine en MDMA en aan het plegen van voorbereidingshandelingen voor de productie van methamfetamine en MDMA. Ook heeft verdachte drugsafval niet op de juiste wijze verwerkt, opgeslagen en gestort.
+
+Op 1 februari 2022 heeft de politie op een perceel met opstallen in het buitengebied van [adres 2] in een schoongemaakte en verbouwde mestkelder onder een paardenstal een deels ontmanteld drugslaboratorium aangetroffen. Ook werden stoffen aangetroffen die in verband konden worden gebracht met de productie van synthetische drugs en er werd bijna 13.000 kilo aan drugsafval op het perceel aangetroffen. Het drugslaboratorium was dus geschikt en bedoeld voor een productie op grote schaal. Zowel bij het opbouwen van dit groot en professioneel drugslaboratorium als bij de productie van de drugs heeft verdachte een essentiële rol gespeeld.
+
+Verdachte heeft zijn mededader, die hij al vele jaren kende en van wie hij wist dat hij locaties regelde voor drugsgerelateerde zaken, in contact gebracht met de pachter van het perceel aan de [adres 2] . Om het drugslaboratorium te realiseren, heeft verdachte samen met zijn mededaders de opdracht tot verbouwingen en aanpassingen en schoonmaken van de mestkelder gegeven. Hij was verantwoordelijk voor aansturen en regelen van voorbereidende werkzaamheden om de locatie gereed te krijgen en te houden. Verdachte stuurde de manage aan om de bedrijvigheid op het terrein te houden en hij heeft zich er voor ingespannen om lopende kosten zoals de energienota betaald te krijgen omdat anders de stroom zou worden afgesloten en het drugslaboratorium niet langer meer zou werken.
+
+Het is de rechtbank ambtshalve bekend dat het productieproces van methamfetamine en MDMA een ingewikkeld en gevaarlijk chemisch proces betreft. Brand- en ontploffingsgevaar is aanwezig en het productieproces vergt specifieke kennis en vaardigheden om op een veilige manier tot een hoogwaardig eindproduct te komen.
+
+Methamfetamine - ook wel crystal meth genoemd - is voor de volksgezondheid een van de meest gevaarlijke drug. Het werkt bijzonder verslavend en deze drug heeft op de mens een verwoestende uitwerking. Door een drugslaboratorium te laten bouwen en zich hiermee in te laten heeft ook verdachte de volksgezondheid in gevaar gebracht. Ook ontstaat vaak milieuschade door de vele illegale lozingen van afvalstoffen, en bij tijdige ontdekking brengt het zeer hoge kosten voor de samenleving met zich omdat de afvalstoffen zorgvuldig moeten worden verwijderd en alsnog voor een verantwoorde verwerking van deze afvalstoffen moet worden gezorgd. De vervaardiging van synthetische drugs dient dan ook krachtig te worden bestreden.
+
+Voor zijn activiteiten kreeg verdachte een financiële vergoeding en verdachte heeft daarmee bij het plegen van de feiten gehandeld uit puur winstbejag. Voor zijn eigen handelen heeft hij geen enkele verantwoordelijkheid genomen; evenmin heeft hij zich iets aangetrokken van de verwoestende gevolgen die de productie van deze middelen uiteindelijk met zich brengt. Dit staat dan ook in schril contrast met hetgeen verdachte herhaaldelijk op de zitting heeft gesteld, namelijk dat hij “tegen drugs” is. Daar komt bij dat verdachte stelt dat hij naïef is, hetgeen gelet op de bewezenverklaring, de omstandigheden en zijn strafblad ongeloofwaardig is. De rechtbank houdt de verdachte dan ook ten volle verantwoordelijk voor zijn bemoeienissen met het op 1 februari 2022 aangetroffen drugslaboratorium.
+
+De persoon van verdachte
+
+Uit de justitiële documentatie van verdachte van 31 mei 2024 volgt dat verdachte naast  andere veroordelingen al in 2009 is veroordeeld voor overtreding van de Opiumwet tot een gevangenisstraf van tweeëneenhalf jaar. De rechtbank heeft ook acht geslagen op het reclasseringsadvies van 9 maart 2023 waaruit de persoonlijke omstandigheden van verdachte blijken.
+
+De op te leggen straf
+
+Nu de rechtbank tot een bewezenverklaring komt van het onder 1 primair ten laste gelegde (het medeplegen van de productie van synthetische drugs) gaat de rechtbank voorbij aan de eis van de officier van justitie en zal een zwaardere straf opleggen dan gevorderd.
+
+Bij haar beslissing over de strafsoort en de hoogte van de straf heeft de rechtbank onder meer aansluiting gezocht bij de binnen de rechtspraak ontwikkelde oriëntatiepunten en rekening gehouden met de straffen die in soortgelijke gevallen doorgaans worden opgelegd.
+
+Voor deelname aan een dergelijk professioneel amfetaminelaboratorium in georganiseerd verband worden in de regel langdurige gevangenisstraffen opgelegd. De straffen moeten immers voldoende afschrikkende werking hebben ten opzichte van het lucratieve karakter van de productie van synthetische drugs. Mede gelet op de ernst van de feiten, de aantoonbare essentiële rol die verdachte heeft gehad en de schade die het gebruik van methamfetamine en MDMA veroorzaken in de maatschappij acht de rechtbank ook hier het opleggen van een onvoorwaardelijke gevangenisstraf passend en geboden.
+
+Alles afwegende komt de rechtbank tot de slotsom dat een gevangenisstraf voor de duur van vier jaren, met aftrek van het voorarrest, passend en geboden is.
+
+Tenuitvoerlegging van de op te leggen gevangenisstraf zal volledig plaatsvinden binnen de penitentiaire inrichting, tot het moment dat aan de verdachte voorwaardelijke invrijheidstelling wordt verleend als bedoeld in artikel 6:2:10 Sv.
+
+De voorlopige hechtenis
+
+Op de terechtzitting van 11 november 2022 is de voorlopige hechtenis van verdachte onder voorwaarden voor onbepaalde tijd geschorst. Gezien het bewezenverklaarde feit, de duur van de aan verdachte opgelegde vrijheidsbenemende straf en het feit dat de gronden voor de voorlopige hechtenis naar het oordeel van de rechtbank nog steeds aanwezig zijn, zal de rechtbank de schorsing van de voorlopige hechtenis opheffen. De rechtbank acht het maatschappelijk niet aanvaardbaar als verdachte, van wie thans de betrokkenheid bij een drugslaboratorium is vastgesteld en die in het verleden voor een soortgelijke feit is veroordeeld, een (eventueel) hoger beroep in vrijheid zou mogen afwachten.
+
+In de op de terechtzitting aangevoerde persoonlijke omstandigheden van verdachte, ziet de rechtbank vanwege de ernst van de gepleegde feiten, geen aanleiding om anders te beslissen.
+
+8
+De toegepaste wettelijke voorschriften
+
+De hierna te nemen beslissing berust op de hiervoor genoemde wetsartikelen. Daarnaast berust deze beslissing op de artikelen 47, 55 en 57 Sr.
+
+9
+De beslissing
+
+De rechtbank:
+
+ontvankelijkheid van het Openbaar Ministerie
+
+- verklaart het Openbaar Ministerie ontvankelijk in de vervolging;
+
+bewezenverklaring
+
+- verklaart bewezen dat verdachte het onder 1 primair, 2 en 3 ten laste gelegde heeft begaan, zoals hierboven omschreven;
+
+- verklaart niet bewezen wat aan verdachte meer of anders is ten laste gelegd en spreekt hem daarvan vrij;
+
+strafbaarheid feiten
+
+- verklaart het bewezen verklaarde strafbaar;
+
+- verklaart dat het bewezen verklaarde de volgende strafbare feiten oplevert:
+
+de eendaadse samenloop van
+
+feit 1 primair
+
+het misdrijf: medeplegen van het opzettelijk handelen in strijd met het in artikel 2, onder B en D, van de Opiumwet gegeven verbod, meermalen gepleegd
+
+en
+
+feit 2
+
+het misdrijf: medeplegen van een feit, bedoeld in het vierde lid van artikel 10 van de Opiumwet, voor te bereiden of te bevorderen, door daartoe gelegenheid, middelen of inlichtingen te verschaffen, waarvan zij weet of ernstige reden heeft om te vermoeden dat zij bestemd zijn tot het plegen van dat feit, meermalen gepleegd;
+
+feit 3, het misdrijf: medeplegen van overtreding van een voorschrift gesteld bij of krachtens artikel 10.1, eerste lid, van de Wet milieubeheer, opzettelijk begaan, meermalen gepleegd;
+
+strafbaarheid verdachte
+
+- verklaart verdachte strafbaar voor het onder 1 primair, 2 en 3 bewezen verklaarde;
+
+straf
+
+- veroordeelt verdachte tot een gevangenisstraf voor de duur van 4 (vier) jaren;
+
+- bepaalt dat de tijd die de verdachte voor de tenuitvoerlegging van deze uitspraak in verzekering en voorlopige hechtenis heeft doorgebracht, bij de uitvoering van de gevangenisstraf geheel in mindering zal worden gebracht;
+
+voorlopige hechtenis
+
+- heft op de schorsing van de voorlopige hechtenis. Deze beslissing is afzonderlijk opgemaakt.
+
+Dit vonnis is gewezen door mr. B.T.C. Jordaans, voorzitter, mr. M.A.H. Heijink en
+
+mr. R.G.J. Gehring, rechters, in tegenwoordigheid van mr. W.J. van der Leest, griffier, en is in het openbaar uitgesproken op 20 juni 2024.
+
+Mr. Gehring is niet in de gelegenheid dit vonnis mede te ondertekenen.
+
+Bijlage bewijsmiddelen
+
+Leeswijzer
+
+Deze bijlage maakt deel uit van het vonnis en bevat de bewijsmiddelen.
+
+Wanneer hierna wordt verwezen naar dossierpagina’s zijn dit pagina’s uit het dossier van de politie eenheid Oost-Nederland met nummer ON2R022005/Electra22 van
+
+29 september 2022. Tenzij anders wordt vermeld, wordt steeds verwezen naar bladzijden van een in de wettelijke vorm, door daartoe bevoegde personen, opgemaakt proces-verbaal.
+
+1.
+
+Het ongedateerde proces-verbaal van bevindingen van verbalisanten [verbalisant 1] ,
+
+[verbalisant 2] en [verbalisant 3] , allen werkzaam als LFO-expert, (pag. 617), onder meer inhoudende, zakelijk weergegeven:
+
+Op 1 februari 2022 hebben wij een onderzoek ingesteld op het perceel [adres 2] . Op het perceel bevonden zich diverse opstallen bestaande uit een woonhuis, enkele paardenstallen, een stampmolen, een paardenbak en overige opstallen.
+
+Een paardenstal betrof een voormalige koeienstal waarin paardenboxen waren gerealiseerd. Onder de paardenstal bevond zich een gierkelder met een lengte van circa 31,33 meter, een breedte van circa 11,34 meter en een hoogte van circa 2,16 meter. De gierkelder bestond oorspronkelijk uit 4 afzonderlijke gangen met verschillende breedten, te weten, circa 2,82 meter, 2,93 meter, 2,44 meter en 2,84 meter.
+
+In een paardenbox was een betonvloerplaat met lamellen verwijderd. Onder de ontstane opening was op de vloer van de gierkelder een schaarlift geplaatst. Van de schaarlift bevond zich de laadvloer op het vloerniveau van de paardenstal, hierdoor was er nog een mangat aanwezig waardoor de gierkelder vanuit de paardenbox bereikbaar was. Via het mangat werd de gierkelder bereikt.
+
+Uit onderzoek bleek dat door het verwijderen van delen van enkele muren de afzonderlijke gangen van de gierkelder met elkaar in verbinding stonden. Door middel van het plaatsen van enkele delen watervaste gipsplaten was een gang en een doorgang afgesloten. Uit het ingestelde oriëntatie onderzoek bleek dat in enkele gangen door middel van raggelwerk met watervaste gipsplaten en binnendeuren compartimenten gerealiseerd waren. Tevens waren in de gierkelder voorzieningen zoals een elektrische installatie (groepenkast, wandcontactdozen, verlichting), een luchtbehandeling systeem (afzuigsysteem, gaswassers) en watervoorzieningen (waterleiding, kranen) gerealiseerd.
+
+De compartimenten waarin zich aan de vervaardiging en of bewerking van (synthetische) drugs gerelateerde stoffen en goederen werden aangetroffen werden door ons gecodeerd.
+
+Deze codering betrof:
+
+Ruimte A (opslag van afval en goederen)
+
+Ruimte B (ruimte van schaarlift en gaswassers)
+
+Ruimte C (opslag van chemicaliën en gascilinders)
+
+Ruimte D (voormalige productieruimte)
+
+Ruimte E (scheidingsruimte)
+
+[afbeelding]
+
+Ruimte A
+
+In ruimte A stonden diverse gebruikte/vervuilde goederen opgeslagen, waaronder
+
+regentonnen, drie waterstofzuigers, twee slakkenhuizen, ijsemmers, vier elektrische straalkachels en overige goederen. Tevens stond er een hoeveelheid aan jerrycans, dop- en klemdekselvaten, die allen gevuld waren met gerelateerd (synthetisch)drugs afval.
+
+Ruimte B
+
+In ruimte B was door middel van het verwijderen van een vloerplaat in de boven gelegen paardenbox een opening ontstaan naar de ondergelegen gierkelder. Door middel van een geplaatste schaarlift kon goederen/personen en/of benodigdheden de gierkelder in/uit gebracht worden. In ruimte B stonden twee IBC’s (Intermediate Bulk Containers) die als gaswasser gemodificeerd en in gebruik waren.
+
+Ruimte C
+
+Ruimte C had zeer waarschijnlijk dienst gedaan als opslagruimte. In ruimte C stonden 19 waterstofgascilinders van 50 liter, 4 propaan gascilinders, 35 lege jerrycans en twee lege klemdekselvaten.
+
+Ruimte D
+
+Ruimte D had gezien zijn inrichting vermoedelijk dienst gedaan als productieruimte. Gezien vanuit de richting van ruimte C was aan de wand een werkblad/tafel gemonteerd. Op het werkblad/tafel stonden enkele kunststofbakken en overig klein materiaal. Naast en deels voor het werkblad/tafel stonden 10 jerrycans met zoutzuur. Onder het werkblad/tafel stonden op de vloer kunststofbakken een emmer en overige goederen.
+
+Ruimte E
+
+Ruimte E had, omdat er een deel van een scheidingsmuur was weggebroken, een L-vorm.
+
+Direct naast de scheidingswand van ruimte D met ruimte E was aan de wand een
+
+werkblad/tafel gemonteerd. Een soortgelijke werkblad/tafel was aan deze wand gemonteerd ter hoogte de weggebroken tussenwand die de L-vorm creëerde. Naast deze werkblad/tafel hing aan de muur een groepenkast. Verspreidt in de ruimte stonden jerrycans, dop- en klemdekselvaten en drie stoelen. Gezien vanuit de richting van ruimte D stond rechts voor de wand een waterstofgascilinder met daaraan een reduceerventiel met een stuk gasslang. Ter hoogte van het weggebroken stuk scheidingswand stond direct in de andere ruimte voor de wand op omgekeerde speciekuipen een werktafel met daarop enkele jerrycans met tapkraan.
+
+In een jerrycan werd een restant donkere olie aangetroffen dat als MDMA werd
+
+geïdentificeerd.
+
+Inventarislijst
+
+[afbeelding]
+
+[afbeelding]
+
+[afbeelding]
+
+[afbeelding]
+
+[afbeelding]
+
+[afbeelding]
+
+[afbeelding]
+
+In de gierkelder is vermoedelijk op een eerder moment met een reactieketel door middel van de hoge drukmethode methamfetamine- en MDMA olie(base) geproduceerd. Dit wordt ondersteund door het aantreffen van 20 waterstofgascilinders en de restanten van MDMA en methamfetamine. Ook werd in ruimte E een waterstofgascilinder met reduceerventiel aangetroffen. Vanaf ruimte E waren in de richting van de schaarlift in ruimte B delen van de gecreëerde tussenwanden (raggelwerk met watervast gipsplaat) verwijderd. Dit is waarschijnlijk gedaan, omdat bijvoorbeeld een reactie- en/of destillatie ketel breder was dan de eerder gecreëerde doorgangen in de tussenwanden.
+
+Ook werd waarschijnlijk de geproduceerde MDMA- en methamfetamine olie(base) ter plaatse gekristalliseerd. Dit wordt ondersteund door de aangetroffen ijsemmers met restanten methamfetamine olie en kristallen en de klemdekselvaten met restanten MDMA kristallen. Gezien de inrichting en de hoeveelheid aangetroffen gerelateerde (synthetisch)drugs afval heeft in de gierkelder een grote productie van methamfetamine en MDMA plaats gevonden.
+
+2.
+
+Het deskundigenverslag van het NFI, opgemaakt door ing. [verbalisant 4] van 8 april 2022 (pag. 646), voor zover inhoudende, zakelijk weergegeven:
+
+[afbeelding]
+
+2)  Methamfetamine HCI is het zoutzure zout van methamfetamine, MDMA HCI is het zoutzure zout van MDMA
+
+[afbeelding]
+
+6
+Conclusie
+
+Vraagstelling 1
+
+In het onderzoeksmateriaal zijn MDMA en methamfethamine aangetoond. MDMA en methamfethamine zijn vermeld op lijst I van de Opiumwet.
+
+In artikel 1 lid 2 van de Opiumwet worden - voor toepassing van de Opiumwet en de
+
+daarop berustende bepalingen - zouten van methamfetamine en MDMA gelijkgesteld
+
+aan methamfetamine en MDMA zelf. Daarmee valt methamfetamine HCI als zout van
+
+methamfetamine en MDMA HCI als zout van MDMA onder lijst I van de Opiumwet.
+
+Vraagstelling 2
+
+In relatie tot drugs is PMK (piperonylmethylketon) een grondstof voor de
+
+vervaardiging van MDMA. Methylamine is een grondstof voor de vervaardiging van
+
+o.a. MDMA en methamfetamine. BMK (benzylmethylketon) is een grondstof voor de vervaardiging van amfetamine en methamfetamine.
+
+Aceton, methanol en tolueen worden in de chemische industrie veelvuldig toegepast.
+
+In relatie tot drugs kunnen deze stoffen worden gebruikt bij de vervaardiging en/of
+
+bewerking van diverse drugs.
+
+3.
+
+Het proces-verbaal van verhoor getuige [getuige 1] van 10 februari 2022 (pag. 1168), onder meer inhoudende, zakelijk weergegeven:
+
+Op 1 september 2015 heeft [bedrijf 2] de [adres 2] in erfpacht uitgegeven aan mevrouw [medeverdachte 1] , dochter van de heer [naam 1] die tevens hypotheekhouder is.
+
+4.
+
+Het proces-verbaal van verhoor getuige [getuige 1] van 10 februari 2022 (pag. 1165), onder meer inhoudende, zakelijk weergegeven:
+
+V: Sinds wanneer weet [medeverdachte 1] mogelijk dat de stallen verkocht worden?
+
+A: Vanaf de zomer 2021. Juridisch konden we het vanaf toen ontbinden. Vanaf december 2021 is het verkopen concreet geworden. Het zou kunnen dat de mensen zijn verrast dat we eerder gingen overdragen dan 7-7. Dat werd 6 januari 2022.
+
+5.
+
+Het proces-verbaal van verbalisanten [verbalisant 5] van 29 september 2022 (pag. 25), onder meer inhoudende, zakelijk weergegeven:
+
+Op 1 februari 2022 deed de heer [getuige 1] een melding van het aantreffen van mogelijk een
+
+ondergronds drugslaboratorium op het adres [adres 2] . De heer [getuige 1] is de rentmeester van [bedrijf 2] . [bedrijf 2] is vanaf 6 januari 2022 de nieuwe eigenaar van het voornoemde adres.
+
+De politie trof diezelfde dag op voornoemde locatie in een mestkelder onder een paardenstal
+
+(voormalige koeienstal) de restanten aan van een voormalig synthetisch drugslaboratorium.
+
+Uit een combinatie van de LFO-rapportage en de rapportage van het NFI kan worden opgemaakt dat in totaal minimaal grofweg 13.000 liter drugsgerelateerde vervuilde vloeistof is aangetroffen. Dit is minimaal omdat niet van alle aangetroffen jerrycans de inhoud door het LFO is gemeten. Het grootste gedeelte hiervan betreft aceton met lage concentraties MDMA en PMK (precursor voor MDMA).
+
+6.
+
+Het proces-verbaal van bevindingen van verbalisant [verbalisant 6] van 31 maart 2022 (pag. 509), onder meer inhoudende, zakelijk weergegeven:
+
+[bedrijf 6] B.V. is een bedrijf dat gespecialiseerd is in betonboringen en zagen.
+
+Op 30 maart 2022 hoorde ik [naam 2] zeggen dat iemand aan de [adres 2] is geweest namens [bedrijf 6] . Daar zijn op 16 of 17 september 2020 werkzaamheden verricht die contant zijn afgerekend.
+
+7.
+
+Het proces-verbaal van verhoor ge [getuige 2] van 26 april 2022 (pag. 1248), onder meer inhoudende, zakelijk weergegeven:
+
+V: Welke werkzaamheden heb je verricht?
+
+A: Zaagwerk. Een deel van die mestroosters moest weg. Dat zijn platen en er moest er één
+
+tussenweg gezaagd worden. Eén rooster moest er tussenweg.
+
+8.
+
+Het proces-verbaal van bevindingen van verbalisant [verbalisant 7] van 3 april 2022 (pag. 512) onder meer inhoudende, zakelijk weergegeven:
+
+Op 24 maart was ik bij het bedrijf [bedrijf 5] te [vestigingsplaats 1] .
+
+De eigenaar [naam 3] verklaarde: In augustus 2020 werd ik gebeld door [verdachte] . [verdachte] vroeg ons een offerte te maken voor het schoonmaken van een mestkelder aan de [adres 2] .
+
+Op 20 augustus 2020 heb ik de offerte voor het schoonmaken van de mestkelder verstuurd naar [verdachte] , buiten de kosten van het uurloon vroegen wij ook een slaapplaats en eten en drinken voor onze medewerkers te verzorgen. Ook diende er een tractor met een tank water, twee tractoren om het mest af te voeren en genoeg water voorraad aanwezig te zijn. Ook moesten de roosters uit de mestkelder verwijderd zijn zodat wij gemakkelijk in en uit de mestkelder konden. In overleg met [verdachte] hebben wij duidelijk gemaakt waar de roosters verwijderd moesten worden.
+
+Eind november hebben wij de afgesproken werkzaamheden uitgevoerd aan de [adres 2] .
+
+We verbleven tijdens onze werkzaamheden in een hotel vlakbij genaamd [bedrijf 4] .
+
+We hebben ter plaatse alleen gesproken en zaken gedaan met [verdachte] . Er was ook een vrouw aanwezig, zij had een sportief uiterlijk, droeg paardrijkleding, had donkerblond haar en hield zich vooral bezig met het verzorgen en rijden van de paarden.
+
+Wij hebben de rekening van ongeveer 19.400 euro na het afronden van onze werkzaamheden naar de [adres 2] gestuurd.
+
+Op een gegeven moment werden wij gebeld door een man waar wij niet eerder contact mee hadden gehad. Hij gaf aan dat we de rekening naar de vader van de eigenaresse konden sturen. Deze vader zou in [buitenland 1] wonen.
+
+Wij zijn uiteindelijk naar de woning gereden van deze man, een plaatsje tussen [locatie] en [plaats 3] in. Wij kregen bij deze woning 15000 euro cash betaald.
+
+9.
+
+Het proces-verbaal van bevindingen van verbalisant [verbalisant 8] van 11 april 2022 (pag. 556) onder meer inhoudende, zakelijk weergegeven:
+
+Telefonisch contact [medeverdachte 2] – [bedrijf 5]
+
+Uit het onderzoek Tetra is gebleken dat in de periode van 24 februari 2021 tot en met 3 juni 2021 tussen het telefoonnummer [telefoonnummer 1] van [medeverdachte 2] en de telefoonnummers
+
+[telefoonnummer 2] / [telefoonnummer 3] van [bedrijf 5] meerdere keren contact is geweest. Tijdens het eerste gesprek werd met het telefoonnummer van [medeverdachte 2] naar [bedrijf 5] gebeld. Hierna vonden meerdere telefoongesprekken plaats.
+
+[naam 3] verklaarde (…) wij zijn uiteindelijk naar de woning gereden van deze man, een plaatsje tussen [locatie] en [plaats 3] in. Wij kregen bij deze woning 15000 euro cash betaald.
+
+Mbt [medeverdachte 2]
+
+woont in [plaats 4] .
+
+10.
+
+Het proces-verbaal van bevindingen van verbalisant [verbalisant 8] van 13 april 2022 (pag. 567) onder meer inhoudende, zakelijk weergegeven:
+
+In de periode van 28 februari 2022 tot en met 11 maart 2022 heeft de politie de telefoonnummers [telefoonnummer 4] en [telefoonnummer 1] afgeluisterd. Deze twee telefoonnummers zijn in gebruik bij [medeverdachte 2] , wonende te [plaats 4] .
+
+07 maart 2022 te 16:30:32 uur
+
+[telefoonnummer 5] [naam 4] belt naar [telefoonnummer 4] [medeverdachte 2] .
+
+[medeverdachte 2] vraagt aan [naam 4] hoe hij erachter kan komen van wie een leegstaand pand is.
+
+[naam 4] zegt via het kadaster, dan weet je op wiens naam het staat. [naam 4] kent wel iemand die dat kan.
+
+[medeverdachte 2] : Ja. Maar… is die betrouwbaar?
+
+08 maart 2022 te 14:51:26 uur
+
+[telefoonnummer 5] [naam 4] belt naar [telefoonnummer 4] [medeverdachte 2] .
+
+[naam 4] : Eigendom is van (…) [bedrijf 7] uit [vestigingsplaats 2] .
+
+[medeverdachte 2] gaat het telefoonnummer daarvan opvragen.
+
+09 maart 2022 te 13:51:50 uur
+
+[telefoonnummer 1] [medeverdachte 2] belt naar [telefoonnummer 6] [naam 5] .
+
+[letter 1] : Hey, ik was nou weer op zoek naar iets. Heb je iets?
+
+[letter 1] : (…) een mooi pand zocht ik, een goed pand.
+
+[letter 1] : Nee? En je weet ook niks? Je kunt echt veel geld verdienen.
+
+10 maart 2022 te 10:55:35 uur
+
+[telefoonnummer 4] [medeverdachte 2] belt naar [nummer]
+
+[medeverdachte 2] wil het nummer van [bedrijf 7] van het [vestigingsplaats 2] . [medeverdachte 2] zegt d‘t '’ij' eigenaar is van een stichting.
+
+Hierop wordt [medeverdachte 2] doorverbonden met het genoemde nummer.
+
+[letter 1] : Ik weet niet wie de eigenaar is. Ik bel of iemand iets weet van die boerderij in [plaats 5] .
+
+[letter 2] : In [plaats 6] . Ja dat ben ik.
+
+[letter 1] : (…) wat gaat er mee gebeuren? Of is die te huur of is die te koop (…).
+
+[letter 2] : Die boerderij daar woont momenteel 1 oude man in.
+
+(…)
+
+[letter 1] : Ja. En die schuren. Zijn die van binnen uitgebroken dat die open zijn
+
+(…)
+
+[letter 1] : Je ziet geen buren je ziet geen verkeer je ziet helemaal niks.
+
+[letter 1] : Het is wel super eigenlijk
+
+10 maart 2022 te 15:20:13 uur
+
+[telefoonnummer 1] [medeverdachte 2] belt naar [telefoonnummer 7] [naam 6] .
+
+[naam 6] : Een maat belde mij op, van die olie, heb je die nog?
+
+[medeverdachte 2] : Ja? Eh... A?
+
+[naam 6] : Ja,’da's voor die snelle dat moest ie hebben geloof ik ja.
+
+Opmerking verbalisant [verbalisant 8] :
+
+A-olie wordt algemeen gebruikt voor afgedraaide olie, dit is olie (BMK/amfetamine/MDMA) die uit de productieprocessen/syntheses ontstaat. Afhankelijk van de gevoerde synthese kan dit in het algemeen zijn A-olie van amfetamine, A-olie van BMK; A-olie van MDMA.
+
+Snelle is een straatnaam voor amfetamine.
+
+[medeverdachte 2] vraagt of [naam 6] geen grote ruimte te huur weet.
+
+[medeverdachte 2] bedoelt bij een boer ofzo. [naam 6] zegt dat hij daar voorzichtig mee moet zijn, bij de boeren.
+
+[medeverdachte 2] belooft [naam 6] een rooitje in de week als hij er voor zorgt. [naam 6] krijg duizend in de
+
+week en hoeft er niets voor te doen.
+
+(…)
+
+Als de eigenaar erbij woont en ervan weet dat hebben we het liefst, zegt [medeverdachte 2] .
+
+11 maart 2022 te 14:52:32 uur
+
+[telefoonnummer 4] [medeverdachte 2] belt naar [telefoonnummer 5] [naam 4] .
+
+[medeverdachte 2] is er heen geweest, er werd open gedaan door een man van 93.
+
+[medeverdachte 2] zei tegen hem dat hij goed geld wilde geven waarop die oude man geantwoord had dat
+
+hij dan vast iets doet wat niet mag. [medeverdachte 2] heeft geantwoord dat dat eigenlijk wel zo is.
+
+11.
+
+Het proces-verbaal van verhoor verdachte [medeverdachte 2] van 31 mei 2022, onder meer inhoudende op pag. 1652, zakelijk weergegeven:
+
+O: Wij willen u graag een tapgesprek voorleggen waarin u op 3 mei 2022 een telefoongesprek heeft met [naam 7] (…). U belt op deze dag naar [naam 7] . Bron: [omschrijving 1]
+
+[medeverdachte 2] : Daar gaat het niet om. Ik bedoel, de sloten worden veranderd, op papier is er niks behalve opslag daar. Als je het dan bij wijze van spreken 10 weken verhuurd hebt, dan heb je 72 ruggen (…).
+
+[naam 7] : Ja alles is geld, maar ik heb geen zin om in de bajes te zitten.
+
+(…)
+
+[medeverdachte 2] : (…) En als er dan ooit iets gebeurd, dan ben ik degene die opgelaaien wordt. Maar daar heb ik schijt aan want daar ben ik toch na 2 dagen weg. Ik weet toch hoe dit werkt, ik doe dit werk al 20 jaar.
+
+12.
+
+Het proces-verbaal van bevindingen van verbalisant [verbalisant 5] van 20 april 2022 (pag. 604) onder meer inhoudende, zakelijk weergegeven:
+
+De door Engie en Essent aangeleverde gegevens over het elektriciteits- en gasverbruik van de [adres 2] zijn voor de periode november 2019 en november 2021 in onderstaande tabel vermeld:
+
+[afbeelding]
+
+[afbeelding]
+
+Wat bij het elektriciteitsverbruik opvalt, is dat na het reinigen van de mestkelder het elektriciteitsverbruik (gereed eind november 2020) gedurende drie maanden fors hoger (tot bijna het dubbele verbruik) lag dan daarvoor. Ook in oktober en november 2021 was het elektriciteitsverbruik verhoogd.
+
+13.
+
+De bijlage bij het proces-verbaal van verdenking van verbalisant [verbalisant 6] van 19 augustus 2021 (onderzoek Tetra) (pagina 381), te weten een tapgesprek op 21 september 2021 om 15:11:34 uur tussen [medeverdachte 2] ( [telefoonnummer 4] ) en [alias 2] ( [telefoonnummer 8] ) (TA004) inhoudende:
+
+[medeverdachte 2] zegt dat hij ook P eh M eh hoe heten die.. pegeltjes in de aanbieding heeft
+
+[alias 2] : Okay, morgen kom ik naar jou!
+
+14.
+
+Het proces-verbaal van verhoor verdachte [verdachte] van 10 mei 2022 (pag. 1336) onder meer inhoudende, zakelijk weergegeven:
+
+A. [medeverdachte 1] helpen met de werkzaamheden op stal. Ik heb allerhande werkzaamheden verricht. Ik ben vanaf juni 2021 de administratie gaan doen voor [medeverdachte 1] . Dan heb ik het over de inkomende post ordenen, kasboek financiën bijhouden, ik opende dus alle post vanaf die datum en deed ook alle post van het bedrijf van [medeverdachte 1] “ [bedrijf 8] ” in ordners. [medeverdachte 1] betaalde de rekeningen. Als er rekeningen zo betaalt moest worden dan kreeg ik cash geld van [medeverdachte 1] .
+
+Ik kon wel beschikken over alle sleutels van alle panden.
+
+V. Wanneer bent u voor het laatst bij [medeverdachte 2] op bezoek geweest?
+
+A. Ik denk voor 3 maand geleden. [medeverdachte 1] kent [medeverdachte 2] ook. Ik ben ook wel eens met [medeverdachte 1] bij [medeverdachte 2] op bezoek geweest. [medeverdachte 2] is ook wel eens in [adres 2] aan de [adres 2] geweest.
+
+V: Had u de beschikking over een bankpas van [medeverdachte 1] ?
+
+A. Dit was een ING rekening.
+
+A: Ik kreeg deze bankpas van [medeverdachte 1] toen zij naar [buitenland 2] verhuisde. Dat was ergens in augustus/september 2021 tot heden. Ik heb deze bankpas nog.
+
+V: Waarom had u deze bankpas?
+
+A: Ik kon dan van [medeverdachte 1] de pintransacties blijven doen voor haar.
+
+V: Wie heeft de bankrekening die bij deze bankpas hoorde geopend?
+
+A: [medeverdachte 1] .
+
+15.
+
+Het proces-verbaal van verhoor verdachte [verdachte] van 11 mei 2022 (pag. 1357) onder meer inhoudende, zakelijk weergegeven:
+
+V: Volgens ons gaat het hier om een bankrekening die was geopend op de naam [bedrijf 8] en had deze het bankrekeningnummer: [rekeningnummer 1] . Herkent u dit bankrekeningnummer?
+
+A: Ja, dat klopt.
+
+O: U heeft op 28 september 2021 bij Essent uw eigen gekoppelde bankrekeningnummer [rekeningnummer 2] laten veranderen naar [rekeningnummer 1] .
+
+V: Waarom heeft u deze aanpassing gedaan?
+
+A: Wij hadden toen Essent en er moest een zakelijk bankrekeningnummer aan gekoppeld worden. [medeverdachte 1] had alleen een Duitse rekening en die kon niet gekoppeld worden. Ik heb daar mijn bankrekeningnummer voor gebruikt.
+
+A: (…) [medeverdachte 1] heeft mij een keer gevraagd geld te storten op de rekening. Ik heb toen in Hengelo een contante storting gedaan van 1600,- euro ofzo. [medeverdachte 1] heeft mij dat geld contant gegeven om dit op die rekening van Stal [bedrijf 8] (ING eindigend op [rekeningnummer 1] ) te storten. Volgens mij was dit geld bedoeld om de energierekening te betalen.
+
+O: Uit het onderzoek van de bankgegevens van bankrekening/ bankpas [rekeningnummer 1] ten name van [medeverdachte 1] kan worden opgemaakt dat u op de volgende dagen gebruik heeft gemaakt van deze bankpas en dus bankrekening.
+
+Stortingen op [rekeningnummer 1] ten name van [medeverdachte 1] :
+
+• 10 oktober 2021 wordt 4.000,00 euro gestort bij Geldmaat aan de [adres 3]
+
+• 17 oktober 2021 wordt 2.000,00 euro gestort bij Geldmaat aan de [adres 3]
+
+• 28 oktober 2021 wordt 8.450,00 euro gestort bij de Geldmaat aan de [adres 4]
+
+• 4 november 2021 wordt 2.000,00 euro gestort bij Geldmaat aan de [adres 3]
+
+• 9 november 2021 wordt 2.000,00 euro gestort bij de Geldmaat aan de [adres 5]
+
+• 13 november 2021 wordt 2.000,00 euro gestort bij Geldmaat aan de [adres 3]
+
+In deze periode is in totaal 20.450 Euro op de bankrekening [rekeningnummer 1]
+
+ten name van [medeverdachte 1] gestort.
+
+V: Ik wist niet dat het zoveel geld was. Ik had niet verwacht dat ik zoveel geld heb gestort. [medeverdachte 1] heeft mij al dat geld gegeven en ik heb dat voor haar gestort.
+
+Ik heb ook weleens voor [medeverdachte 1] bij [medeverdachte 2] geld moeten halen.
+
+Ik zal u vertellen hoe het zit. [medeverdachte 2] heeft mij gevraagd of ik een locatie wist. Ik gaf aan dat de [adres 2] mogelijk een optie was. Ik heb [medeverdachte 2] in contact gebracht met [medeverdachte 1] . Hiervoor heb ik 2200,- euro per maand gekregen.
+
+Ik heb van [medeverdachte 2] ook geld gekregen voor [medeverdachte 1] . Ik heb dat geld ook op die rekening gestort.
+
+Ik ken [medeverdachte 2] al zo'n 15 jaar. Zolang ik hem ken, regelt hij locaties voor drugs-gerelateerde zaken. Hij zoekt boeren locaties. Hij vraagt mij wekelijks of ik locaties weet. Ik kom op heel veel boerenbedrijven. [medeverdachte 2] is via mij in contact gekomen met [medeverdachte 1] . Toen [medeverdachte 2] aan de [adres 2] verscheen, kwam [medeverdachte 1] er bij zitten.
+
+[medeverdachte 2] vroeg op enig moment aan [medeverdachte 1] of het voor haar niet interessant was om wat handel te doen. [medeverdachte 1] wilde weten wat ze daarmee kon verdienen.
+
+Dit is allemaal drugs-gerelateerd. [medeverdachte 2] noemde toen als 'handel' het maken van olie. [medeverdachte 2] had het hierbij over A-olie. [medeverdachte 1] hoefde er helemaal niet over na te denken. Er is toen sprake van geweest dat [medeverdachte 2] de grote schuur, stal 3, zou huren. Toen stal 3 verhuurd werd, hebben er geen paarden meer gestaan.
+
+Ik ben druk geweest om te zorgen dat de kelder van stal 3 gereinigd werd. [medeverdachte 2] had bedacht dat het lab in de mestkelder zou moeten komen. [medeverdachte 2] zei dat de kelder dan schoongemaakt moest worden. Uit elke stal moest een rooster gehaald worden. In elke stal lagen drie roosters. Ik heb uit elke stal het middelste rooster gehaald. Dat heb ik met een kraantje gedaan. Ik heb twee kraantjes gehuurd bij de [plaats 7] . Ik heb een opgehaald en [medeverdachte 1] heeft de ander opgehaald met een aanhanger. Deze factuur is betaald per bank. Volgens mij is er een van de Duitse rekening van [medeverdachte 1] betaald en volgens mij is de ander van mijn rekening betaald. [medeverdachte 2] heeft mij het geld contant terugbetaald.
+
+Nadat de Indische jongen weg was gegaan met die groep jongens, is daar nog een groep geweest die gebruik hebben gemaakt van het drugslab aan de [adres 2] . Dat zou van mei/juni 2021 tot oktober/november 2021 zijn geweest. Maar zij verbleven niet in de appartementen. Er kwam dan ‘s nachts een auto op het terrein rijden.
+
+Ik vermoed dat er toen alleen ‘s nachts werkzaamheden in het lab zijn verricht.
+
+16.
+
+Het proces-verbaal van verhoor van getuige [getuige 3] van 25 februari 2022 (pag. 1200) onder meer inhoudende, zakelijk weergegeven:
+
+In oktober 2020 werd ons bedrijf gebeld door [verdachte] met de vraag of wij de mestkelder leeg en schoon wilden maken aan de [adres 2] .
+
+Wij hebben de mestkelder leeggepompt op 28 oktober 2020.
+
+De rekening van het leegpompen van de mestkelder stond in eerste instantie op naam van [verdachte] omdat hij de aanvraag had gedaan. Echter toen er een verzoek werd gedaan voor andere werkzaamheden op dit adres en de factuur niet was voldaan hebben wij [verdachte] gezegd dat dit eerst moest gebeuren. [verdachte] gaf aan dat alle rekeningen op naam van [medeverdachte 1] mochten.
+
+Augustus 2021 belde [medeverdachte 1] met ons bedrijf met de vraag of wij de mestzakken leeg wilden rijden op het land. Ik heb haar toen uitgelegd dat eerdere facturen niet waren voldaan en dat dit eerst moest gebeuren. Hierop is [medeverdachte 1] naar ons bedrijf gekomen en heeft mij een envelop overhandigd met 4500 euro.
+
+17.
+
+Het proces-verbaal van bevindingen van verbalisant [verbalisant 5] van 1 augustus 2022 (pag. 1130), onder meer inhoudende, zakelijk weergegeven:
+
+Op 10 september 2021 om 07:22 uur stuurt [verdachte] het volgende bericht naar [medeverdachte 1] :
+
+Heb gezegd dat we vandaag een deel nodig hebben voor stroom en belasting.
+
+Op 27 september 2021 stuurt [medeverdachte 1] naar [verdachte] fotoberichten van Essent waar het
+
+elektriciteit- en gasverbruik van het adres [adres 2] in de maanden september 2020 tot en met augustus 2021 op staat vermeld.
+
+Om 10:49 uur vraagt [verdachte] aan [medeverdachte 1] : Wat is jouw klantnummer bij Essent
+
+Op 1 oktober 2021 om 11:43 uur stuurt [verdachte] drie schermafbeeldingen met een chat tussen
+
+waarschijnlijk [verdachte] en ene [alias 1] . [verdachte] vraagt [medeverdachte 1] hem te bellen.
+
+In de chat van 29 september met [alias 1] vraagt [verdachte] aan [alias 1] om af te spreken.
+
+[verdachte] zegt dat er vandaag 10.000 moet komen anders gaat de stroom er vanmiddag of maandagmorgen af. [alias 1] zegt dat hij zit te wachten op de wisselaar en vraagt of [verdachte] ook tevreden is met ponden.
+
+[alias 1] zegt vervolgens: als er geld is zijn jullie als eerste aan de beurt.
+
+Op 5 oktober 2021 zegt [medeverdachte 1] tegen [verdachte] : lch werde nervös das es mit Essent nicht klappt.
+
+18.
+
+Het proces-verbaal van verhoor verdachte [medeverdachte 1] van 19 mei 2022 (pag. 1573) onder meer inhoudende, zakelijk weergegeven:
+
+A: in november kwam [naam 8] weer terug.
+
+Korte tijd daarna begon men de kelder leeg te pompen.
+
+A: Ik weet dat er drugs werd gemaakt in de mestkelder.
+
+Er kwamen mensen wonen bij mij op het erf en die gingen wonen in het appartement in de boerderij. Ze werkten niet overdag, maar 's nachts in de mestkelder.
+
+[verdachte] zei mij dat ik de hond niet in de nacht moest loslaten, en dat die jongens ’s nachts aan het werk waren.
+
+Ik ben ook niet dom, ik wist er wel ongeveer wat ze daar deden.
+
+V: Wanneer zijn ze daadwerkelijk begonnen met produceren en daar werken?
+
+A: Ik denk dat dit in januari 2021 was. Omdat toen die jongens er kwamen wonen.
+
+V: Hoelang lang hebben die jongens daar gewoond?
+
+A: Ik denk drie maanden. In die periode hebben daar meerdere mannen gewoond.
+
+A: [verdachte] heeft gezegd dat ze daar kwamen wonen. Hij had toch alle sleutels. Hij deed het gewoon. [verdachte] heeft geregeld dat die jongens daar gingen wonen.
+
+V: Wanneer zijn ze dan weggegaan?
+
+A: Ik denk ongeveer april, omdat ze er ongeveer 3 a 4 maanden zijn geweest.
+
+A: Er is altijd geld ontvangen of van [medeverdachte 2] of van [verdachte] . Ik ben daar misschien 5 keer geweest.
+
+Het zat altijd in een envelop of in een tasje.
+
+A: Ik weet dat het een motorclub of zo was die zich bezig heeft gehouden met het drugslab. Ik weet dat die lui uit [plaats 1] komen. [verdachte] praatte altijd over die [alias 3] .
+
+A: Tuurlijk wist ik dat daar dingen gebeurden, maar dat ging tot oktober of november.
+
+19.
+
+Het proces-verbaal van verhoor verdachte [verdachte] van 12 mei 2022 (pag. 1363) onder meer inhoudende, zakelijk weergegeven:
+
+V: Hoe vaak heeft u 2200,- euro per maand ontvangen?
+
+A: Ik denk een keer of zes.
+
+V: Hoe kreeg u dit geld? Moest u dit ophalen bij [medeverdachte 2] thuis?
+
+A: Ik kreeg dit contant. Ik moest dit ophalen bij [medeverdachte 2] thuis. Ik reed regelmatig naar [plaats 3] . Dan reed ik langs [medeverdachte 2] .
+
+[medeverdachte 1] vroeg mij ook altijd met haar mee te gaan naar [medeverdachte 2] .
+
+V: Gingen deze betalingen ook door toen u gegijzeld was en dus vast zat?
+
+A: Ja.
+
+V: Hoe kreeg u toen dat geld dan?
+
+A: Dan belde hij [naam 9] op. [naam 9] moest dan naar [plaats 4] om bij [medeverdachte 2] dit geld op te halen.
+
+V: Waarom heeft [medeverdachte 2] u doorbetaald terwijl u in gijzeling zat?
+
+A: Dat was de afspraak. Ik kreeg dit geld als tipgeld.
+
+V: Toen u op 8 juli 2021 bij [medeverdachte 2] in de woning was samen met [medeverdachte 1] . Wij heeft [medeverdachte 1] daar gedaan?
+
+A: Zij heeft met twee jongens gesproken.
+
+V: Wanneer heeft [medeverdachte 1] daar geld ontvangen?
+
+A: Ik ben nadat de afspraak is gemaakt dat hal 3 verhuurd zou worden, ongeveer 5 keer mee geweest met [medeverdachte 1] naar [medeverdachte 2] in [plaats 4] om geld op te halen. Er waren soms andere mensen bij. Dit waren dezelfde personen als die er op 8 juni 2021 waren. Ik ben altijd bij deze ontmoetingen geweest. [medeverdachte 1] werd altijd cash betaald. Het geld was soms vacuüm verpakt. Het bedrag dat [medeverdachte 1] ontving werd altijd benoemd. De ene keer hoorde ik dat het om 7500,- euro ging en de andere keer hoorde ik dat het om 15.000,- euro ging.
+
+A: Het klopt dat de kelder in november 2020 schoongemaakt is.
+
+V: Is het schoonmaken van de kelder besproken met [medeverdachte 1] ?
+
+A: Ja. Ik heb in opdracht van [medeverdachte 2] en [medeverdachte 1] , [bedrijf 5] , loonwerker [bedrijf 3] en het [bedrijf 4] geregeld. Ik heb de rekening van het [bedrijf 4] betaald met geld dat ik van [medeverdachte 2] heb ontvangen. De rekeningen van [bedrijf 5] en [bedrijf 3] hebben [medeverdachte 1] en [medeverdachte 2] betaald.
+
+20.
+
+Het proces-verbaal van verhoor verdachte [verdachte] van 19 mei 2022 (pag. 1373) onder meer inhoudende, zakelijk weergegeven:
+
+O: U heeft verklaard dat u [medeverdachte 2] in contact heeft gebracht met [medeverdachte 1] .
+
+A:  Wij hebben samen metingen verricht met een stok. We hebben een stok door het rooster gestoken en zo kunnen meten. Uit die meting werd duidelijk dat de ruimte groot genoeg was om een laboratorium in te bouwen. [medeverdachte 2] heeft mij gevraagd of ik iemand wist die de mestkelder kon schoonmaken.
+
+21.
+
+Het proces-verbaal van verhoor verdachte [medeverdachte 2] van 18 mei 2022 (pag. 1631), onder meer inhoudende, zakelijk weergegeven:
+
+Samenvatting tapgesprek
+
+[verdachte] belt u over de hoge energierekening, een naheffing die [medeverdachte 1] van Essent heeft
+
+gekregen. [verdachte] zegt dat hij de rekening voor zich heeft liggen en dat hij bezig is met Essent om dit te regelen. [verdachte] noemt het bedrag van de naheffing van 13.947,00 euro waar nog een nieuw maandbedrag bij komt en dan komt het op een bedrag van 14.300 uit.
+
+Uit dit gesprek maken wij op dat u met [verdachte] verantwoordelijk bent of dat jullie zich verantwoordelijk voelen voor het betalen van deze rekening.
+
+[verdachte] vraagt aan u of uw financiële man die avond nog komt en u moet van [verdachte] 'die jongens bellen. Daarbij zegt [verdachte] " we moeten wel even geld geven nou". U zegt dat de mannen later die avond, rond 7 uur bij u zouden komen. [verdachte] zegt hierop dat hij dan ook wel bij u zal komen. U zegt dat u ze dadelijk gaat bellen. [verdachte] zegt dat hij dat wel zeker moet weten, want daarop gaat het helemaal mis hiero.
+
+V: Waarom bent u samen met [verdachte] een oplossing gaan zoeken voor de betaling van de
+
+energierekening van die locatie?
+
+A: Anders zou de [adres 2] van de stroom worden afgesloten.
+
+V: Waarom belt [verdachte] u over deze energierekening?
+
+A: Die jongens, dat zijn gasten uit [plaats 2] . Ik heb deze jongens in contact gebracht met de [adres 2] . Ik heb de mensen uit [plaats 2] het adres van de [adres 2] gegeven en daar kreeg ik geld voor. Je moet boeren zoeken die het water aan de lippen staat en die geld nodig hebben. Een schuur van 140 tot 150 vierkante meter is perfect.
+
+V: Met wie heeft u de mensen uit [plaats 2] in contact gebracht:
+
+A: Ik heb ze in contact gebracht met [verdachte] en [medeverdachte 1] .
+
+V: Hoe bent u in contact gekomen met deze mensen uit [plaats 2] ?
+
+A: Ik ken een van deze mannen al een aantal jaren. Hij heeft mij gezegd dat hij een ruimte nodig heeft om te draaien.
+
+V: Wat bedoelde hij met draaien?
+
+A: Dat heeft hij niet gezegd maar ik wist wel wat hij bedoelde. Ik weet dat dat soort jongens drugslaboratoria hebben.
+
+A: Ik word veel gevraagd omdat ik overal kom en in de paardenwereld zit. Er zijn ook veel maneges die in financiële problemen zitten en die dan in aanmerking komen voor een drugslab.
+
+V: Hoe ging het aan de [adres 2] ?
+
+A: Ik werd een keer gebeld door [verdachte] die aan mij vroeg of ik langs kwam.
+
+[verdachte] wist dat ik locaties zocht voor drugslabs. [verdachte] zei tegen mij dat hij iets wist. [verdachte] vertelde dat de kelder onder de paardenstal aan de [adres 2] de geschikte afmetingen had. [verdachte] heeft mij de stal laten zien en tilde daarbij een rooster uit een stal op zodat ik in de gierkelder kon kijken. Die zat vol mest. Ik heb [verdachte] gezegd dat als hij het wilde verhuren, hij eerst moest zorgen dat die mest eruit zou gaan.
+
+Ik heb de volgende dag de twee mannen laten weten dat ik een geschikt adres had voor een drugslab.
+
+Ik kreeg elke keer als ze gedraaid hadden een paar duizend euro. Ik heb regelmatig een paar rooitjes gebeurd. Ik heb wel een keer of 10 tot 12 geld gekregen dus hebben ze een week of 10 tot 12 goed gedraaid. Ik kreeg 2000,- euro per keer dat ze draaiden. Op enig moment is er Cristal Meth geproduceerd. Daar waren toen Mexicanen bij betrokken en dit is op de [adres 2] geproduceerd.
+
+V: Wat werd er nu precies geproduceerd aan de [adres 2] ?
+
+A: Ik heb van die twee mannen eerst gehoord dat er Crystal Meth werd geproduceerd en later werd er MDMA geproduceerd.
+
+A: [medeverdachte 1] heeft echt van de hoed en de rand geweten. Ze kon zien wat er op haar erf gebeurde en ze heeft meerdere malen geld gehaald bij mij voor het ter beschikking stellen van de mestkelder voor het lab.
+
+22.
+
+Het proces-verbaal van bevindingen van [verbalisant 9] en [verbalisant 10] van 10 maart 2022 (pag. 204) onder meer inhoudende, zakelijk weergegeven:
+
+Op 6 december 2021 gingen wij naar de [adres 2] , gemeente Hof van Twente.
+
+Ter plaatse op het terrein van de manege kwam een meneer naar ons toe.
+
+Deze meneer was ons ambtshalve bekend als de heer [verdachte] .
+
+Doel was om namens de gemeente Hof van Twente te constateren dan wel vast te stellen welke personen zoal op de manege woonachtig waren of aldaar verbleven. Bij eerdere controles bleken er meerdere personen te verblijven dan wel te wonen, die niet volgens de gemeentelijke basis administratie daar ingeschreven stonden.
+
+Toen wij door de leegstaande paardenboxstal liepen, zagen wij dat in de een na laatste paardenbox tien grote blauwe en zwarte 200 liter vaten stonden.
+
+Wij zagen dat alle vaten waren afgesloten. Wij zagen dat op één zwarte 200 liter vat een etiket zat met opschrift " ISOBUTYL ALCOHOL ".
+
+Op de overige vaten zagen wij geen etiketten.
+
+Ik, [verbalisant 9] , voelde dat alle vaten gevuld waren met vloeistoffen.
+
+Vervolgens zagen wij dat in een deels afgezaagde blauw 200 liter vat een drietal frituurlepels lagen. Wij zagen dat alle vaten in het stro stonden van de paardenbox en dat de vloer niet vloeistof dicht was, waardoor de bodem zou kunnen worden verontreinigd.
+
+23.
+
+Het proces-verbaal van bevindingen van [verbalisant 17] en [verbalisant 18] van 27 januari 2022 (pag. 143) onder meer inhoudende, zakelijk weergegeven:
+
+Op 22 januari 2022 waren wij aan de [adres 2] .
+
+Wij troffen in de hooischuur 20 blauwe jerrycans opgestapeld op een pallet. Het is ons ambtshalve bekend dat op het terrein eerder blauwe vaten met drugsafval zijn
+
+aangetroffen in een aldaar gelegen schuur.
+
+Ik hoorde van de collega van LFO dat hij deze blauwe jerrycans en het etiket met hierop de aanwezige stof herkende als zijnde een stof in combinatie met de blauwe jerrycans die vaak gezien wordt in drugslabs waar synthetische drugs geproduceerd wordt.
+
+24.
+
+Het proces-verbaal van bevindingen van [verbalisant 11] en [verbalisant 9] van 15 maart 2022 (pag. 259) onder meer inhoudende, zakelijk weergegeven:
+
+Op 28 december 2021 bevonden wij ons aan de [adres 2] .
+
+Wij zagen dat de vaten in een paardenbox in een stal aan de linker achterzijde van het terrein stonden. Wij zagen dat de vaten waren gecamoufleerd met paardendekens.
+
+Ik, [adres 2] , zag dat er vaten weg waren. Wij zagen dat er donkere ronde gaten zichtbaar waren in het stro dat op de vloer van de paardenbox lag.
+
+Door ons zijn paardendekens verwijderd zodat de vaten zichtbaar werden. Een van de vaten stond afgezonderd en deed kennelijk dienst als afvalton.
+
+Ik, [verbalisant 11] , zag dat de blauwe vaten die bij elkaar stonden vochtig waren aan de buitenzijde omdat er vloeistof aanzat. Ik, [verbalisant 11] , zag dat er geen stofbeeld op de vaten aanwezig was. Vanwege het ontbreken van een dergelijk stofbeeld had ik de indruk dat de vat er nog niet lang stonden.
+
+Wij voelden en hoorden dat van de zeven vaten die er nu nog stonden, er twee leeg waren. Wij zagen dat dit zwarte vaten waren. Wij hoorden en voelden dat in vijf vaten vloeistof zat.
+
+Ten opzichte van 6 december 2021 ontbraken er dus drie vaten. Na aanleiding van deze constatering hebben wij van de heer [naam 10] inzage in een afvoerbewijs gevorderd.
+
+Wij hoorden de heer [naam 10] zeggen dat [medeverdachte 1] waarschijnlijk de stukken had.
+
+Wij zagen dat vijf vaten blauw van kleur waren. Hiervan waren drie grote vaten met circa 200 liter inhoud en twee blauwe vaten van circa 60 liter inhoud. Wij zagen dat de heer [naam 10] op eigen initiatief een vat opende . Wij zagen dat dit vat voor 1/3 was gevuld met een bruine vloeistof. Wij zagen dat er materiaal in de vloeistof dreef.
+
+Wij zagen dat in een van de vaten met een inhoud van 60 liter gaten waren geboord. Wij zagen dat er een reactie in het vat gaande was omdat er gassen in de vorm van witte rook door de deksel ontsnapten. Wij roken een synthetische geur.
+
+Wij zagen ook twee zwarte vaten. Wij zagen dat er " isobutyl alcohol " op het etiket stond. Wij voelden en hoorden dat deze vaten leeg waren. Wij zagen op het etiket staan dat de vaten afkomstig waren uit [plaats 8] .
+
+Wij zagen dat op de zolder boven de paardenbox ook een dergelijk vat stond onder een gat in het dak. Aan de overzijde zag ik, [verbalisant 11] , een flexibele luchtslang liggen waarvan de isolatie donker verkleurd was.
+
+Wij zagen een blauwe ton die vol afval zat. Wij zagen dat daarin zat:
+
+-l afgesneden robijn fles die als vloeistof schep kon dienen.
+
+-5 bodems van afgesneden chemie jerrycans.
+
+-1 kunststof maatbeker 1000 ml.
+
+-2 jerrycans methanol 5L.
+
+-3 schuimspanen/frituur lepels.
+
+-l matras van 180x200cm.
+
+-l doos met sticker "Aironnect Nuova B rond 315 mmx10 m". (betreft een verpakking van een flexibele luchtslang).
+
+-1 kunststof maatbeker 1000 ml.
+
+-4 gecorrodeerde draadeinden.
+
+-2 jerrycans methanol 5L.
+
+-diverse flessen Bar le Duc en andere lege frisdrank verpakkingen.
+
+-1 korte slang.
+
+Bij het onderzoeken van het afval kwam een synthetische lucht vrij.
+
+Wij zagen dat nabij de paardenbox een paardentrailer stond voorzien van kenteken [kenteken] . Wij zagen de vloer onder de vier banden van de paardentrailer vochtig was.
+
+Vanwege het feit dat er chemische vaten ontbraken werd de achterklep van de paardentrailer geopend. Wij zagen op de vloer van de trailer geen stro of hooi liggen. Wij zagen op de vloer van de vier ronde aftekeningen die waren gezet met vloeistof. De diameter kwam overeen met de bodems van de vaten. Wij zagen dat over de klep van de paardentrailer een spoor van vloeistof was te zien.
+
+25.
+
+Het proces-verbaal van bevindingen van verbalisant [verbalisant 12] van 24 juni 2022 (pag. 772 ) onder meer inhoudende, zakelijk weergegeven:
+
+Tijdens de verhoren heeft verdachte [verdachte] verklaard dat er op nog in zijn bezit zijnde twee laptops mogelijk aanwijzingen staan over de stafbare feiten. Op zijn aanwijzing zijn deze op 12 mei 2022 in zijn woning in beslag genomen.
+
+Video’s
+
+23-10-2021 een MOV/videobestand met daarin beelden van een paardenbox met daarin zeker 13 witte jerrycans die zichtbaar gevuld zijn met een vloeistof en deels met stro zijn afgedekt.
+
+[afbeelding]
+
+Gegevens en herkomst videobestand:
+
+Het videobestand heeft de [bestandsnaam] .
+
+De last modified date/time is 23-10-2021 18.01:22 uur. Dit betreft de date en time dat deze video is gemaakt.
+
+Aan de bovenzijde van het videobeeld zijn paardenboxen waar te nemen die aan de
+
+overzijde van het gangpad zijn gesitueerd. Deze paardenboxen komen qua kleurstelling en het gebruikte soort materialen overeen met de aangetroffen paardenboxen in stal 3 gevestigd aan de [adres 2] .
+
+Stickers op de jerrycans:
+
+Op de video staan 13 witte jerrycans afgebeeld. Op 3 jerrycans is een rode vierkante sticker zichtbaar waarop een witte vlam met daaronder een witte streep te zien is. Dit betreft een ADR 3 sticker met het symbool dat hoort bij brandbare vloeistoffen uit de gevarenklasse 3. Dit betreffen de gevarenklassen en labels die in het Europese wegvervoer gehanteerd worden.  Vloeistoffen met een vlampunt tussen 23 °C en 60 °C en een kookpunt boven 35 °C.
+
+26.
+
+Het proces-verbaal van bevindingen van  [verbalisant 13] van 20 juni 2022 (pag. 800) onder meer inhoudende, zakelijk weergegeven:
+
+Op 30 mei 2022 deed ik onderzoek in de veiliggestelde data van de telefoon Apple iPhone 12 met beslagnummer A.03.01.001 die in gebruik was bij [medeverdachte 1] .
+
+Op 22 oktober 2021 worden via WhatsApp berichten en foto’s verstuurd tussen [verdachte] ( [gebruikersnaam 1] ) en [medeverdachte 1] ( [gebruikersnaam 2] )
+
+22-10-2021
+
+16:26 uur: [verdachte] verstuurd onderstaande foto van een geopende paardentrailer met afval er in.
+
+[afbeelding]
+
+16:27 uur: [verdachte] :	Dit is beneden nu ook boven alles weg
+
+16:27 uur: [medeverdachte 1] : 	Super
+
+27.
+
+Het proces-verbaal van bevindingen van [verbalisant 14] van 11 juli 2022 (pag. 219 milieupv), onder meer inhoudende, zakelijk weergegeven:
+
+Ik bevond mij op 11 maart 2022 aan de [adres 2] .
+
+Tussen gebouw 2 en 5 zag ik een betonplaat liggen waarin twee putdeksels lagen. Deze putdeksels lagen naast de openingen. Ik zag dat de put nagenoeg geheel gevuld was met afvalwater, waarvan ik de geur bestempelde als "kattenpis". Een geur die ik herken bij het ontmantelen van een drugslab.
+
+Door het waterschap werd een monster genomen van het afvalwater.
+
+Door mij werd eveneens een deel van het monster meegenomen en gekoeld bewaard met het doel dat monster eventueel ter analyse aan te bieden bij het Nederlands Forensisch Instituut.
+
+Van het monster dat op 11 maart 2022 in [adres 2] vanuit de kelder was genomen was nog een deel over, dat opnieuw is geanalyseerd.
+
+De uitslag van dat monster werd mij op 7 april 2022 verstrekt door het Gelrelab. De uitslag wees uit dat de volgende stoffen in het afvalwater aanwezig waren geweest:
+
+- MDMA (grote hoeveelheid) en MDA
+
+- Amfetamine
+
+- Ketamine en norketamine
+
+- Benzoylecgonine (BZE)- metaboliet van cocaïne
+
+Het monster werd inbeslaggenomen en ter analyse opgestuurd naar het NFI.
+
+Op 11 mei 2022 is middels een aanvraag via Forensische Opsporing van de politie Oost Nederland het monster dat op 11 maart 2022 uit de kelder in Ambt Delden is genomen ter analyse opgestuurd naar het NFI.
+
+28.
+
+Het deskundigenverslag van het NFI, opgemaakt door dr. [verbalisant 15] van
+
+23 juni 2022 (pag. 233 milieupv.), voor zover inhoudende, zakelijk weergegeven:
+
+Verkregen informatie
+
+In het aanvraagformulier van 11 mei 2022 is het volgende vermeld:
+
+"Betreft een mogelijk drugslab" en "Afval drugslab, 11 maart 2022, [adres 2] in de gemeente Hof van Twente".
+
+Resultaten
+
+Tabel 2 Onderzoeksmateriaal en resultaat
+
+Kenmerk AANX6978NL
+
+omschrijving NFI: monster kleurloze troebele vloeistof
+
+Resultaat: pH-neutrale waterige vloeistof (pH 7) met lage concentraties MDMA en metamfetamine
+
+In het onderzoeksmateriaal zijn tevens aanwijzingen verkregen voor aan (de methylester van) 'PMK-glycidezuur' gerelateerde verbindingen.
+
+Conclusie
+
+In het onderzoeksmateriaal is MDMA en metamfetamine aangetoond.
+
+Aanvullende informatie
+
+In relatie tot drugs wordt de methylester van 'PMK-glycidezuur' (methyl 3-(1,3-benzodioxoi-5-y)-2-methyloxiraan-2-carboxylaat) gebruikt voor het vervaardigen van PMK (piperonylmethylketon), een grondstof voor o.a. MDMA
+
+(3,4-methyleendioxymethamfetamine).
+
+29.
+
+Het proces-verbaal van bevindingen van verbalisant [verbalisant 16] van 29 juli 2022 (pag. 253 -257, PV Milieu).
+
+De rechtbank zal dit verweer bespreken bij onderdeel 6. De strafbaarheid van verdachte.
+
+A-olie wordt in het drugscircuit gebruikt als aanduiding voor amfetamine-olie.
