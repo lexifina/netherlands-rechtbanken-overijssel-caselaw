@@ -10,6 +10,7 @@ procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht; Bestuursprocesrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBOVE:2024:4278"
 published_in: ["Rechtspraak.nl", "Viditax (FutD) 2024082007", "FutD 2024-1826"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:RVS:2025:6148, Niet ontvankelijk"]]
 ---
 
 # ECLI:NL:RBOVE:2024:4278 Rechtbank Overijssel , 12-08-2024 / ak_23_1891
