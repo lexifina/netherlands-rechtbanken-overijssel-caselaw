@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - meervoudig"
 subject: "Strafrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBOVE:2024:5696"
-published_in: ["Rechtspraak.nl", "NLF 2024/2536", "V-N Vandaag 2024/2295", "Viditax (FutD) 2024110505", "FutD 2024-2370", "V-N 2024/55.17 met annotatie van Redactie"]
+published_in: ["Rechtspraak.nl", "NLF 2024/2536", "V-N Vandaag 2024/2295", "Viditax (FutD) 2024110505", "FutD 2024-2370", "V-N 2024/55.17"]
 ---
 
 # ECLI:NL:RBOVE:2024:5696 Rechtbank Overijssel , 04-11-2024 / 84.261899.22 (P)
