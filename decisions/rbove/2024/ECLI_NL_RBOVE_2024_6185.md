@@ -10,6 +10,7 @@ procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBOVE:2024:6185"
 published_in: ["Rechtspraak.nl"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHARL:2026:5456"]]
 ---
 
 # ECLI:NL:RBOVE:2024:6185 Rechtbank Overijssel , 20-11-2024 / C/08/300373 / HA ZA 23-281 (hoofdzaak), C/08/306529 / HA ZA 23-445 (vrijwaring) en C/08/306625 HA ZA 23-448 (vrijwaring)
