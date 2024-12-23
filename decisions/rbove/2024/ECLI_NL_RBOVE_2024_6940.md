@@ -10,6 +10,7 @@ procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht; Bestuursprocesrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBOVE:2024:6940"
 published_in: ["Rechtspraak.nl"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:RVS:2026:2758, Bekrachtiging/bevestiging"]]
 ---
 
 # ECLI:NL:RBOVE:2024:6940 Rechtbank Overijssel , 23-12-2024 / ak_24_1366
