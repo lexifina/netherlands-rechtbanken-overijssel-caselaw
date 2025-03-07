@@ -10,6 +10,7 @@ procedure: "Eerste aanleg - meervoudig"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBOVE:2025:1293"
 published_in: ["Rechtspraak.nl"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:CBB:2026:181, Overig"]]
 ---
 
 # ECLI:NL:RBOVE:2025:1293 Rechtbank Overijssel , 07-03-2025 / ak_23_2526
