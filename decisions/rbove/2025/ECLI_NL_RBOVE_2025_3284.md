@@ -35,29 +35,29 @@ Vonnis van 21 mei 2025
 
 in de zaak van
 
-[partij A],
+[partij A] ,
 
-wonende te [woonplaats 1],
+wonende te [woonplaats 1] ,
 
 eisende partij in conventie,
 
 verwerende partij in reconventie,
 
-hierna te noemen ‘[partij A]’,
+hierna te noemen ‘ [partij A] ’,
 
 advocaat: mr. J. de Ruiter,
 
 tegen
 
-[partij B],
+[partij B] ,
 
-wonende te [woonplaats 2],
+wonende te [woonplaats 2] ,
 
 gedaagde partij in conventie,
 
 eisende partij in reconventie,
 
-hierna te noemen ‘[partij B]’,
+hierna te noemen ‘ [partij B] ’,
 
 advocaat: mr. M.J.J.A. Ooms.
 
@@ -87,7 +87,7 @@ De feiten
 
 2.1.
 
-[partij A] en [partij B] zijn gezamenlijk eigenaar van de woning aan de [adres 1]. De woning is gekocht voor de koopprijs van
+[partij A] en [partij B] zijn gezamenlijk eigenaar van de woning aan de [adres 1] . De woning is gekocht voor de koopprijs van
 
 € 405.000,00. [partij A] en [partij B] hebben ieder een bedrag van (circa) € 143.000,00 op de hypothecaire geldlening afgelost. Op de woning rust nu nog een hypotheek van circa
 
@@ -121,7 +121,7 @@ Het samenlevingscontract is op 18 december 2023 beëindigd. De vennootschap onde
 
 [partij A] heeft [partij B] eerder gedagvaard in kort geding. Bij vonnis van de voorzieningenrechter in deze rechtbank van 31 oktober 2024 zijn de vorderingen van [partij A] en de tegenvorderingen van [partij B] afgewezen. Het vonnis vermeldt voor zover hier van belang:
 
-“[partij A] vordert in dit kort geding ontruiming van de woning. Ontruiming van de woning is in het algemeen niet een voor de hand liggende eerste stap om tot verdeling van het vermogen van de vof te komen. Onder de gegeven omstandigheden is de vordering tot ontruiming van de woning in dit stadium een te vergaande eis. [partij A] heeft niet weersproken dat [partij B] de hypotheekschuld maandelijks voldoet. Dat [partij B] de woning laat verloederen, heeft [partij B] betwist en [partij A] heeft die stelling niet nader onderbouwd. Daarnaast heeft [partij B] gesteld dat zij de woning wil overnemen. [partij B] heeft ter zitting concreet gemaakt dat zij daarover contact heeft met de bank en dat zij verwacht op korte termijn meer duidelijkheid over de financieringsmogelijkheden te krijgen. Zij heeft ter zitting beloofd dat zij er vaart in zal houden (…)”
+“ [partij A] vordert in dit kort geding ontruiming van de woning. Ontruiming van de woning is in het algemeen niet een voor de hand liggende eerste stap om tot verdeling van het vermogen van de vof te komen. Onder de gegeven omstandigheden is de vordering tot ontruiming van de woning in dit stadium een te vergaande eis. [partij A] heeft niet weersproken dat [partij B] de hypotheekschuld maandelijks voldoet. Dat [partij B] de woning laat verloederen, heeft [partij B] betwist en [partij A] heeft die stelling niet nader onderbouwd. Daarnaast heeft [partij B] gesteld dat zij de woning wil overnemen. [partij B] heeft ter zitting concreet gemaakt dat zij daarover contact heeft met de bank en dat zij verwacht op korte termijn meer duidelijkheid over de financieringsmogelijkheden te krijgen. Zij heeft ter zitting beloofd dat zij er vaart in zal houden (…)”
 
 3
 Het geschil
@@ -140,7 +140,7 @@ III. [partij A] machtigt om mede voor rekening van [partij B] alles te doen wat 
 
 IV. [partij A] machtigt tot het te gelde maken van de woning en te bepalen dat het vonnis in de plaats komt van de noodzakelijke toestemming en/of wilsverklaring van [partij B] om de woning te verkopen;
 
-V. bepaalt dat de beslissing van de rechtbank in de plaats komt van de voor eigendomsoverdracht vereiste levering van de onroerende zaak en de aflossing van de hypotheekschuld noodzakelijke toestemming en/of wilsverklaring en/of handtekening van [partij B];
+V. bepaalt dat de beslissing van de rechtbank in de plaats komt van de voor eigendomsoverdracht vereiste levering van de onroerende zaak en de aflossing van de hypotheekschuld noodzakelijke toestemming en/of wilsverklaring en/of handtekening van [partij B] ;
 
 VI. bepaalt dat [partij B] binnen twee weken na het te wijzen vonnis dient te overleggen alle bankafschriften van de VOF en afschriften van alle betaalde facturen;
 
@@ -156,13 +156,13 @@ IX. [partij B] veroordeelt in de kosten van het geding.
 
 [partij B] voert verweer. Tevens vordert [partij B] in reconventie dat de rechtbank bij vonnis, uitvoerbaar bij voorraad:
 
-I. bepaalt dat [partij B] tenminste gedurende zes maanden na de vereffening/liquidatie van de VOF danwel tenminste gedurende zes maanden na het te wijzen vonnis gerechtigd is tot het voortgezet gebruik van de gemeenschappelijke woning, met uitsluiting van [partij A];
+I. bepaalt dat [partij B] tenminste gedurende zes maanden na de vereffening/liquidatie van de VOF danwel tenminste gedurende zes maanden na het te wijzen vonnis gerechtigd is tot het voortgezet gebruik van de gemeenschappelijke woning, met uitsluiting van [partij A] ;
 
 II. bepaalt dat de VOF moet worden vereffend en verdeeld na de definitieve afronding van de jaarstukken 2023 met medeneming van eventuele belastingclaims;
 
 III. bepaalt dat [partij B] een vordering heeft op [partij A] ter hoogte van de helft van alle kosten die na beëindiging van de VOF ten aanzien van de VOF door haar zijn voldaan en [partij A] derhalve de helft van deze kosten nog bij de vereffening/deverdeling van de VOF aan [partij B] dient te voldoen;
 
-IV. bepaalt dat [partij A] een bedrag van € 986,60 aan [partij B] moet voldoen terzake de operatiekosten van [naam 1] en [naam 2].
+IV. bepaalt dat [partij A] een bedrag van € 986,60 aan [partij B] moet voldoen terzake de operatiekosten van [naam 1] en [naam 2] .
 
 3.3.
 
@@ -208,7 +208,7 @@ De ontbinding van de vof heeft tot gevolg dat de verplichting tot inbreng voor b
 
 4.8.
 
-[partij B] heeft aangevoerd dat de vof op dit moment nog niet kan worden vereffend omdat de definitieve eindbelans nog niet is opgemaakt en alle vermogensbestanddelen nog niet op juiste waarde zijn getaxeerd. Er moeten volgens De Roij nog vele boekingen te worden verricht van bedrijfskosten die door [partij B] in privé zijn betaald en nog door de vof moeten worden vergoed. Ook moeten er nog decarlaties van de boekhouder over de jaren 2022, 2023 en 2024 worden voldaan die nog in de boekhouding van de vof moeten worden verwerkt.
+[partij B] heeft aangevoerd dat de vof op dit moment nog niet kan worden vereffend omdat de definitieve eindbelans nog niet is opgemaakt en alle vermogensbestanddelen nog niet op juiste waarde zijn getaxeerd. Er moeten volgens [partij B] nog vele boekingen te worden verricht van bedrijfskosten die door [partij B] in privé zijn betaald en nog door de vof moeten worden vergoed. Ook moeten er nog decarlaties van de boekhouder over de jaren 2022, 2023 en 2024 worden voldaan die nog in de boekhouding van de vof moeten worden verwerkt.
 
 4.9.
 
@@ -224,11 +224,11 @@ De woning
 
 4.11.
 
-Tot de vermogensbestanddelen van de vof behoort in ieder geval de woning aan de [adres 2]. Niet in geschil is dat de woning partijen gezamenlijk in eigendom toebehoort zodat de (over)waarde van de woning bij helfte tussen partijen moet worden verdeeld. Daarbij moet ook rekening worden gehouden met het feit dat beide partijen een bedrag van (circa) € 143.000,00 in de woning hebben ingebracht.
+Tot de vermogensbestanddelen van de vof behoort in ieder geval de woning aan de [adres 2] . Niet in geschil is dat de woning partijen gezamenlijk in eigendom toebehoort zodat de (over)waarde van de woning bij helfte tussen partijen moet worden verdeeld. Daarbij moet ook rekening worden gehouden met het feit dat beide partijen een bedrag van (circa) € 143.000,00 in de woning hebben ingebracht.
 
 4.12.
 
-[partij B] wenst die woning over te nemen en [partij A] vervolgens uit te kopen maar daartoe moet eerst de vereffening van de vof zijn voltooid, aldus [partij B]. Volgens [partij B] is er nu sprake van een huurovereenkomst met [partij A] voor wat betreft het gebruik en het genot van de woning. Die huurovereenkomst (voor onbepaalde tijd) kan niet zomaar beëindigd worden. Over de verdeling van het woning kan niet afzonderlijk worden beslist, het vermogen van de vof dient in zijn geheel te worden afgewikkeld.
+[partij B] wenst die woning over te nemen en [partij A] vervolgens uit te kopen maar daartoe moet eerst de vereffening van de vof zijn voltooid, aldus [partij B] . Volgens [partij B] is er nu sprake van een huurovereenkomst met [partij A] voor wat betreft het gebruik en het genot van de woning. Die huurovereenkomst (voor onbepaalde tijd) kan niet zomaar beëindigd worden. Over de verdeling van het woning kan niet afzonderlijk worden beslist, het vermogen van de vof dient in zijn geheel te worden afgewikkeld.
 
 4.13.
 
@@ -262,7 +262,7 @@ Ontruiming woning door [partij B]
 
 4.20.
 
-De rechtbank zal deze vordering van [partij A] afwijzen. Gesteld noch gebleken is dat [partij B] zonder recht of titel in de woning verblijft. Waar [partij A] haar vordering baseert op de stelling dat [partij B] zich door huiselijk geweld, dreiging met geweld en (andere) intimidatie het exclusieve gebruik van de woning heeft toegeëigend geldt dat dit echter niet is komen vast te staan nu [partij B] dit allemaal heeft weersproken en [partij A] haar stelling niet verder heeft onderbouwd. Verder staat tussen partijen vast dat zij niet de in artikel 10 van hun samenlevingscontract gestipuleerde wijze van handelen (via de kantonrechter) naar de letter hebben gevolgd. De rechtbank legt die bepaling in die zin uit dat daaronder redelijkerwijs ook geacht moet worden te zijn begrepen de situatie waarin partijen hun geschil aan de rechtbank hebben voorgelegd. De rechtbank ziet dan ook aanleiding om de op dit artikel gebaseerde tegenvordering van [partij B] om haar het voortgezet gebruik voor de duur van zes maanden na het vonnis van deze rechtbank toe te kennen, toe te wijzen. Dit past ook bij de situatie waarin [partij B], zoals hiervoor beslist, de kans krijgt om uit te zoeken of zij in staat is om de woning over te nemen.
+De rechtbank zal deze vordering van [partij A] afwijzen. Gesteld noch gebleken is dat [partij B] zonder recht of titel in de woning verblijft. Waar [partij A] haar vordering baseert op de stelling dat [partij B] zich door huiselijk geweld, dreiging met geweld en (andere) intimidatie het exclusieve gebruik van de woning heeft toegeëigend geldt dat dit echter niet is komen vast te staan nu [partij B] dit allemaal heeft weersproken en [partij A] haar stelling niet verder heeft onderbouwd. Verder staat tussen partijen vast dat zij niet de in artikel 10 van hun samenlevingscontract gestipuleerde wijze van handelen (via de kantonrechter) naar de letter hebben gevolgd. De rechtbank legt die bepaling in die zin uit dat daaronder redelijkerwijs ook geacht moet worden te zijn begrepen de situatie waarin partijen hun geschil aan de rechtbank hebben voorgelegd. De rechtbank ziet dan ook aanleiding om de op dit artikel gebaseerde tegenvordering van [partij B] om haar het voortgezet gebruik voor de duur van zes maanden na het vonnis van deze rechtbank toe te kennen, toe te wijzen. Dit past ook bij de situatie waarin [partij B] , zoals hiervoor beslist, de kans krijgt om uit te zoeken of zij in staat is om de woning over te nemen.
 
 De kosten voor de operatie van [naam 1] en [naam 2]
 
@@ -270,7 +270,7 @@ De kosten voor de operatie van [naam 1] en [naam 2]
 
 [partij B] vordert dat de rechtbank zal bepalen dat [partij A] een bedrag van
 
-€ 986,60 aan [partij B] moet voldoen voor de operatiekosten van de honden [naam 1] en [naam 2]. De rechtbank zal deze vordering afwijzen omdat niet blijkt dat de honden gemeenschappelijk eigendom van partijen waren danwel in de vof zijn ingebracht nu dit door [partij A] gemotiveerd is betwist en vervolgens niet nader door [partij B] is onderbouwd. De kosten van de operatie ad € 986,60 zijn evenmin door [partij B] onderbouwd.
+€ 986,60 aan [partij B] moet voldoen voor de operatiekosten van de honden [naam 1] en [naam 2] . De rechtbank zal deze vordering afwijzen omdat niet blijkt dat de honden gemeenschappelijk eigendom van partijen waren danwel in de vof zijn ingebracht nu dit door [partij A] gemotiveerd is betwist en vervolgens niet nader door [partij B] is onderbouwd. De kosten van de operatie ad € 986,60 zijn evenmin door [partij B] onderbouwd.
 
 De grasmaaier en het hekwerk
 
@@ -282,7 +282,7 @@ Verdeling van de overige goederen van de vof
 
 4.23.
 
-Hiervoor is al besproken hoe de woning vereffend moet worden en vervolgens verdeeld. Beide partijen hebben gevorderd dat ook de overige activa (de roerende zaken en de liquide middelen) en passiva van de vof worden vereffend en vervolgens verdeeld. Verschil tussen partijen is dat dit volgens [partij B] pas kan na het definitief afronden van de jaarstukken 2023. Uit het debat tussen partijen is gebleken dat de accountant van de v.o.f. de werkzaamheden aan de jaarstukken over 2023 en de eindbalans van de v.o.f. heeft gestaakt in afwachting van betaling (vooraf) voor de met die werkzaamheden gemoeid zijnde tijd. Het gaat, blijkens productie 6 van [partij B], om circa € 4.000,-. Bij de afronding van die stukken zal de accountant, zo blijkt uit voornoemde productie, ook een standpunt innemen over de vraag welke aanvullende kosten [partij B] terecht op de balans van de v.o.f. kan zetten. De rechtbank ziet in het vorenstaande aanleiding om te bepalen dat de route waarop partijen zullen kunnen komen tot verdeling van de overige goederen van de v.o.f. de volgende is. Partijen dienen ieder voor de helft bij vooruitbetaling aan de accountant het door hem gevraagde voorschot voor het opmaken van de jaarstukken 2023 en de eindbalans te voldoen. Wanneer die stukken definitief worden, dienen partijen de baten en schulden van de v.o.f. ieder voor 50% voor hun rekening te nemen. De rechtbank merkt daarbij op deze werkwijze meebrengt dat de verkoop van de gezamenlijke woning moet worden afgewacht, zoals in rov. 4.18. overwogen. De rechtbank zal de hierop ziende vorderingen in de hiervoor bedoelde zin toewijzen.
+Hiervoor is al besproken hoe de woning vereffend moet worden en vervolgens verdeeld. Beide partijen hebben gevorderd dat ook de overige activa (de roerende zaken en de liquide middelen) en passiva van de vof worden vereffend en vervolgens verdeeld. Verschil tussen partijen is dat dit volgens [partij B] pas kan na het definitief afronden van de jaarstukken 2023. Uit het debat tussen partijen is gebleken dat de accountant van de v.o.f. de werkzaamheden aan de jaarstukken over 2023 en de eindbalans van de v.o.f. heeft gestaakt in afwachting van betaling (vooraf) voor de met die werkzaamheden gemoeid zijnde tijd. Het gaat, blijkens productie 6 van [partij B] , om circa € 4.000,-. Bij de afronding van die stukken zal de accountant, zo blijkt uit voornoemde productie, ook een standpunt innemen over de vraag welke aanvullende kosten [partij B] terecht op de balans van de v.o.f. kan zetten. De rechtbank ziet in het vorenstaande aanleiding om te bepalen dat de route waarop partijen zullen kunnen komen tot verdeling van de overige goederen van de v.o.f. de volgende is. Partijen dienen ieder voor de helft bij vooruitbetaling aan de accountant het door hem gevraagde voorschot voor het opmaken van de jaarstukken 2023 en de eindbalans te voldoen. Wanneer die stukken definitief worden, dienen partijen de baten en schulden van de v.o.f. ieder voor 50% voor hun rekening te nemen. De rechtbank merkt daarbij op deze werkwijze meebrengt dat de verkoop van de gezamenlijke woning moet worden afgewacht, zoals in rov. 4.18. overwogen. De rechtbank zal de hierop ziende vorderingen in de hiervoor bedoelde zin toewijzen.
 
 Vordering overleggen bankafschriften en facturen
 
@@ -292,7 +292,7 @@ Vordering overleggen bankafschriften en facturen
 
 4.25.
 
-De rechtbank is van oordeel dat [partij A], als vennoot van de v.o.f. een vanzelfsprekend belang heeft bij – op zijn minst – inzage in administratieve stukken die op de v.o.f. betrekking hebben. Toch zal de rechtbank deze vordering afwijzen, omdat niet blijkt wat het belang is bij de afzonderlijke veroordeling van [partij B] in verband met deze stukken. Het is immers niet in geschil dat deze stukken aan de accountant zullen worden verstrekt in het kader van de door hem te verrichten werkzaamheden, en dat de accountant naar beide vennoten toe concepten zal verstekken van de door hem op te stellen stukken en, naar mag worden aangenomen, de stukken waarop hij zich in dat kader baseert. Het valt niet in te zien wat het afzonderlijke belang is dat [partij A] bij deze stand van zaken nog heeft bij haar vordering op dit punt.
+De rechtbank is van oordeel dat [partij A] , als vennoot van de v.o.f. een vanzelfsprekend belang heeft bij – op zijn minst – inzage in administratieve stukken die op de v.o.f. betrekking hebben. Toch zal de rechtbank deze vordering afwijzen, omdat niet blijkt wat het belang is bij de afzonderlijke veroordeling van [partij B] in verband met deze stukken. Het is immers niet in geschil dat deze stukken aan de accountant zullen worden verstrekt in het kader van de door hem te verrichten werkzaamheden, en dat de accountant naar beide vennoten toe concepten zal verstekken van de door hem op te stellen stukken en, naar mag worden aangenomen, de stukken waarop hij zich in dat kader baseert. Het valt niet in te zien wat het afzonderlijke belang is dat [partij A] bij deze stand van zaken nog heeft bij haar vordering op dit punt.
 
 Proceskosten
 
@@ -341,7 +341,7 @@ bepaalt dat dit vonnis in de plaats treedt van de noodzakelijke toestemming en/o
 
 5.5.
 
-bepaalt dat dit vonnis in de plaats treedt van de voor eigendomsoverdracht vereiste levering van de woning en de aflossing van de hypotheekschuld noodzakelijke toestemming en/of wilsverklaring en/of handtekening van [partij B];
+bepaalt dat dit vonnis in de plaats treedt van de voor eigendomsoverdracht vereiste levering van de woning en de aflossing van de hypotheekschuld noodzakelijke toestemming en/of wilsverklaring en/of handtekening van [partij B] ;
 
 in alle gevallen
 
