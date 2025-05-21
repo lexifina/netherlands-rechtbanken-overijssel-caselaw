@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBOVE:2025:3252"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "Prg. 2025/191"]
 ---
 
 # ECLI:NL:RBOVE:2025:3252 Rechtbank Overijssel , 21-05-2025 / C/08/319522 / HA ZA 24-326
