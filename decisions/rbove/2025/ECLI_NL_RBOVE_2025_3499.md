@@ -10,6 +10,7 @@ procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht; Omgevingsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBOVE:2025:3499"
 published_in: ["Rechtspraak.nl"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:RVS:2026:3499, Bekrachtiging/bevestiging"]]
 ---
 
 # ECLI:NL:RBOVE:2025:3499 Rechtbank Overijssel , 02-06-2025 / ak_24_3544
