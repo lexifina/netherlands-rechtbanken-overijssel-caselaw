@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - meervoudig"
 subject: "Strafrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBOVE:2025:4506"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "FJR 2026/60.22"]
 ---
 
 # ECLI:NL:RBOVE:2025:4506 Rechtbank Overijssel , 07-07-2025 / 18.117795-23 (P), 18.207196-24 (gevoegd), 18.241956-21 (vnvv) en 18.333678-22 (vnvv)
