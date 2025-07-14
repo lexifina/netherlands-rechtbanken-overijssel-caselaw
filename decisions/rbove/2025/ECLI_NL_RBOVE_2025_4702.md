@@ -35,9 +35,9 @@ Tussenvonnis in de zaak van de officier van justitie tegen:
 
 [verdachte] ,
 
-geboren op [geboortedatum] 1994 in [geboorteplaats],
+geboren op [geboortedatum] 1994 in [geboorteplaats] ,
 
-wonende aan de [woonplaats].
+wonende aan de [woonplaats] .
 
 1
 Het onderzoek ter terechtzitting
@@ -53,7 +53,7 @@ Nader onderzoek
 
 Onderzoek naar het feit
 
-De rechtbank is na de sluiting van het onderzoek ter terechtzitting bij de beraadslaging gebleken dat het onderzoek in de strafzaak tegen verdachte wat betreft de onder 1 en 2 van parketnummer 08-000359-24 ten laste gelegde feiten niet volledig is geweest. De rechtbank acht het, voordat zij eindvonnis kan wijzen, noodzakelijk dat een forensisch medische letselrapportage wordt opgemaakt van het door [benaadeelde 1] op 29 december 2023 opgelopen letsel, waarin de volgende vragen worden beantwoord:
+De rechtbank is na de sluiting van het onderzoek ter terechtzitting bij de beraadslaging gebleken dat het onderzoek in de strafzaak tegen verdachte wat betreft de onder 1 en 2 van parketnummer 08-000359-24 ten laste gelegde feiten niet volledig is geweest. De rechtbank acht het, voordat zij eindvonnis kan wijzen, noodzakelijk dat een forensisch medische letselrapportage wordt opgemaakt van het door [benadeelde 1] op 29 december 2023 opgelopen letsel, waarin de volgende vragen worden beantwoord:
 
 1. Typeer met onderbouwing de beschreven letsels.
 
@@ -129,7 +129,7 @@ stelt de stukken daartoe in handen van de officier van justitie, zodat deze de n
 
 schorsing onderzoek ter terechtzitting voor onbepaalde tijd
 
--	schorst het onderzoek ter terechtzitting voor onbepaalde tijd en beveelt hervatting daarvan tegen een nog nader te bepalen tijdstip en de oproeping van verdachte voor die zitting, met tijdige kennisgeving van de zittingsdatum en het tijdstip aan de raadsman van verdachte, de benadeelde partijen [benaadeelde 1] en [benadeelde 2] en hun advocaat mr. M.W.G.J. IJsseldijk, en aan de benadeelde partij [benadeelde 3].
+-	schorst het onderzoek ter terechtzitting voor onbepaalde tijd en beveelt hervatting daarvan tegen een nog nader te bepalen tijdstip en de oproeping van verdachte voor die zitting, met tijdige kennisgeving van de zittingsdatum en het tijdstip aan de raadsman van verdachte, de benadeelde partijen [benadeelde 1] en [benadeelde 2] en hun advocaat mr. M.W.G.J. IJsseldijk, en aan de benadeelde partij [benadeelde 3].
 
 Dit tussenvonnis is gewezen door mr. M. Vodegel, voorzitter, mr. M. Melaard en mr. M.S. de Waard, rechters, in tegenwoordigheid van mr. C.L. Struik, griffier, en is in het openbaar uitgesproken op 14 juli 2025.
 
