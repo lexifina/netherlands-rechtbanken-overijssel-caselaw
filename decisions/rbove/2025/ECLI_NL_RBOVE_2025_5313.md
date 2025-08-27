@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBOVE:2025:5313"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "S&S 2026/72"]
 ---
 
 # ECLI:NL:RBOVE:2025:5313 Rechtbank Overijssel , 27-08-2025 / C/08/324078 / HA ZA 24-434
