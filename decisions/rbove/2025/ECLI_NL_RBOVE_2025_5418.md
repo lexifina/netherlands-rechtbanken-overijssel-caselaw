@@ -37,31 +37,30 @@ in de zaak van
 [eiser]
 ,
 
-wonende te [woonplaats 1],
+wonende te [woonplaats 1] ,
 
 eisende partij,
 
-hierna te noemen: [eiser],
+hierna te noemen: [eiser] ,
 
 advocaat: mr. M. Samsen,
 
 tegen
 
 1
+[gedaagde 1] ,
 
-[gedaagde 1],
-
-wonende te [woonplaats 2],
+wonende te [woonplaats 2] ,
 
 verschenen in persoon,2. [gedaagde 2],
 
-wonende te [woonplaats 3],
+wonende te [woonplaats 3] ,
 
 niet verschenen,
 
 gedaagde partijen,
 
-hierna te noemen: [gedaagde 1], respectievelijk [gedaagde 2].
+hierna te noemen: [gedaagde 1] , respectievelijk [gedaagde 2] .
 
 1
 De procedure
@@ -72,7 +71,7 @@ Het verloop van de procedure blijkt uit:
 
 - de dagvaarding,
 
-- het toegezonden antwoord van [gedaagde 1],- de mondelinge behandeling van 1 september 2025. [eiser] is verschenen bijgestaan door zijn advocaten mrs. S. Beerlings en J. Kossen, die mr. Samsen hebben vervangen. [gedaagde 1] is in persoon verschenen. [gedaagde 2] is niet verschenen, zodat tegen hem verstek werd verleend,- de stukken die [gedaagde 1] op de zitting heeft overgelegd,
+- het toegezonden antwoord van [gedaagde 1] ,- de mondelinge behandeling van 1 september 2025. [eiser] is verschenen bijgestaan door zijn advocaten mrs. S. Beerlings en J. Kossen, die mr. Samsen hebben vervangen. [gedaagde 1] is in persoon verschenen. [gedaagde 2] is niet verschenen, zodat tegen hem verstek werd verleend,- de stukken die [gedaagde 1] op de zitting heeft overgelegd,
 
 - de aantekeningen van de griffier.
 
@@ -85,11 +84,11 @@ De feiten
 
 2.1.
 
-[eiser], [gedaagde 1] en [gedaagde 2] zijn broers. Tussen hen is een geschil gerezen over de nalatenschap van hun ouders en zij hebben daar reeds meerdere gerechtelijke procedures over gevoerd.
+[eiser] , [gedaagde 1] en [gedaagde 2] zijn broers. Tussen hen is een geschil gerezen over de nalatenschap van hun ouders en zij hebben daar reeds meerdere gerechtelijke procedures over gevoerd.
 
 2.2.
 
-Bij vonnis van deze rechtbank van 11 mei 2022 heeft de rechtbank – samengevat – bepaald dat de woning van de erflater, de vader van partijen, aan de [adres 1], inclusief de muziekstudio, moet worden verkocht waarna de overwaarde moet worden verdeeld onder de erfgenamen. [eiser] woonde destijds in die woning. De rechtbank heeft [gedaagde 1] en [gedaagde 2] gemachtigd om de woning te verkopen en [eiser] veroordeeld om binnen één maand nadat de koopovereenkomst zou zijn getekend de woning te ontruimen.
+Bij vonnis van deze rechtbank van 11 mei 2022 heeft de rechtbank – samengevat – bepaald dat de woning van de erflater, de vader van partijen, aan de [adres 1] , inclusief de muziekstudio, moet worden verkocht waarna de overwaarde moet worden verdeeld onder de erfgenamen. [eiser] woonde destijds in die woning. De rechtbank heeft [gedaagde 1] en [gedaagde 2] gemachtigd om de woning te verkopen en [eiser] veroordeeld om binnen één maand nadat de koopovereenkomst zou zijn getekend de woning te ontruimen.
 
 2.3.
 
@@ -101,7 +100,7 @@ Daarnaast heeft de rechtbank in vorenbedoeld vonnis bepaald dat de saldi van de 
 
 2.5.
 
-Lopende het hoger beroep hebben [gedaagde 1] en [gedaagde 2] de woning verkocht aan de zoon van [gedaagde 1], [naam 1], voor een bedrag van € 200.000,00 k.k.
+Lopende het hoger beroep hebben [gedaagde 1] en [gedaagde 2] de woning verkocht aan de zoon van [gedaagde 1] , [naam 1] , voor een bedrag van € 200.000,00 k.k.
 
 2.6.
 
@@ -129,13 +128,13 @@ Op de comparitie bij het Hof op 10 mei 2023 hebben partijen een schikking getrof
 
 overige erfgenamen bedraagt
 
-- vanaf 11 mei 2022 tot en met mei 2023: € 900 per maand, waarvan € 300 aan [gedaagde 1],
+- vanaf 11 mei 2022 tot en met mei 2023: € 900 per maand, waarvan € 300 aan [gedaagde 1] ,
 
-€ 300 aan [gedaagde 2], € 150 aan [naam 2] en € 150 aan [naam 3],
+€ 300 aan [gedaagde 2] , € 150 aan [naam 2] en € 150 aan [naam 3] ,
 
-- vanaf juni 2023 tot en met de levering van de woning aan de [adres 1]:
+- vanaf juni 2023 tot en met de levering van de woning aan de [adres 1] :
 
-€ 600 per maand, waarvan € 200 aan [gedaagde 1],€ 200 aan [gedaagde 2],€ 100 aan [naam 3] en€ 100 aan [naam 2].
+€ 600 per maand, waarvan € 200 aan [gedaagde 1] ,€ 200 aan [gedaagde 2] ,€ 100 aan [naam 3] en€ 100 aan [naam 2] .
 
 (…)
 
@@ -145,11 +144,11 @@ kwijting met betrekking tot de kwestie waarover zij deze rechtszaken voerden.”
 
 2.11.
 
-Vervolgens hebben [gedaagde 1] en [gedaagde 2] de woning eind mei 2023 voor de tweede maal verkocht aan [naam 1].
+Vervolgens hebben [gedaagde 1] en [gedaagde 2] de woning eind mei 2023 voor de tweede maal verkocht aan [naam 1] .
 
 2.12.
 
-Bij exploot van 4 juli 2023 is de grosse van het proces-verbaal van de hiervoor onder 2.10 bedoelde schikking, alsmede de koopovereenkomst met [naam 1], aan [eiser] betekend. Daarbij is ook het bevel aan [eiser] gedaan om de woning binnen één maand te verlaten en te ontruimen.
+Bij exploot van 4 juli 2023 is de grosse van het proces-verbaal van de hiervoor onder 2.10 bedoelde schikking, alsmede de koopovereenkomst met [naam 1] , aan [eiser] betekend. Daarbij is ook het bevel aan [eiser] gedaan om de woning binnen één maand te verlaten en te ontruimen.
 
 2.13.
 
@@ -188,7 +187,7 @@ De vordering
 
 I. bepaalt dat [eiser] na de ontruiming op 29 augustus 2023 geen gebruiksvergoeding meer aan [gedaagde 1] en [gedaagde 2] verschuldigd is en dat de hoofdsom op grond van de titel/het proces-verbaal van de schikking van 10 mei 2023 € 4.813,80 bedraagt;
 
-II. primair, [gedaagde 1] en [gedaagde 2] verbiedt om op 2 september 2025 vanaf 13:30 uur of op enig ander tijdstip daarna over te gaan tot executoriale verkoop (openbare veiling) van de woning gelegen te [adres 2], zolang de woning van de vader gelegen te [adres 1] niet is verkocht en geleverd en de nalatenschap niet is vereffend en [eiser] via die weg de gelegenheid heeft gehad de vordering van [gedaagde 1] en [gedaagde 2] te voldoen, op straffe van een dwangsom van € 2.500,00 per dag of gedeelte daarvan met een maximum van € 100.000,00;
+II. primair, [gedaagde 1] en [gedaagde 2] verbiedt om op 2 september 2025 vanaf 13:30 uur of op enig ander tijdstip daarna over te gaan tot executoriale verkoop (openbare veiling) van de woning gelegen te [adres 2] , zolang de woning van de vader gelegen te [adres 1] niet is verkocht en geleverd en de nalatenschap niet is vereffend en [eiser] via die weg de gelegenheid heeft gehad de vordering van [gedaagde 1] en [gedaagde 2] te voldoen, op straffe van een dwangsom van € 2.500,00 per dag of gedeelte daarvan met een maximum van € 100.000,00;
 
 III. subsidiair, de executoriale verkoop van de woning op 2 september 2025 vanaf 13:30 uur op te schorten voor een termijn van zes maanden, teneinde [eiser] de gelegenheid te bieden de betalingsachterstand te voldoen, dan wel de woning in der minne of onderhands te verkopen;
 
@@ -251,7 +250,7 @@ Het gaat in deze zaak om een executiegeschil. In een executiegeschil als het ond
 
 4.9.
 
-In onderhavige zaak zal de voorzieningenrechter beoordelen of [gedaagde 1] en [gedaagde 2], mede gelet op de belangen van [eiser], misbruik maken van hun bevoegdheid om tot tenuitvoerlegging over te gaan. Dat zal het geval kunnen zijn indien het te executeren proces-verbaal klaarblijkelijk op een juridische of feitelijke misslag berust, of indien de executie op grond van na het proces-verbaal voorgevallen of aan het licht gekomen feiten aan de zijde van [eiser] een noodtoestand zal ontstaan, waardoor een onverwijlde tenuitvoerlegging niet kan worden aanvaard.
+In onderhavige zaak zal de voorzieningenrechter beoordelen of [gedaagde 1] en [gedaagde 2] , mede gelet op de belangen van [eiser] , misbruik maken van hun bevoegdheid om tot tenuitvoerlegging over te gaan. Dat zal het geval kunnen zijn indien het te executeren proces-verbaal klaarblijkelijk op een juridische of feitelijke misslag berust, of indien de executie op grond van na het proces-verbaal voorgevallen of aan het licht gekomen feiten aan de zijde van [eiser] een noodtoestand zal ontstaan, waardoor een onverwijlde tenuitvoerlegging niet kan worden aanvaard.
 
 4.10.
 
@@ -291,7 +290,7 @@ Gelet hierop, in combinatie bezien met het feit dat [eiser] als gevolg van de ex
 
 4.17.
 
-De conclusie is dan ook dat de vordering van [eiser] wordt toegewezen in die zin dat de executoriale verkoop van 2 september 2025, of op enig ander tijdstip, moet worden verboden en de executie moet worden opgeschort voor een termijn van zes maanden na betekening van dit vonnis aan [gedaagde 1] en [gedaagde 2], één en ander op straffe van de door [eiser] verzochte en gemaximeerde dwangsom. Dit betekent dat de executoriale verkoop binnen die periode geen doorgang mag vinden. De voorzieningenrechter gaat ervan uit dat partijen die tijd benutten om serieus voortgang te maken met de afwikkeling van de nalatenschap, waaronder de levering en tegeldemaking van de woning voor een reëel bedrag, waardoor het door [eiser] uit hoofde van het proces-verbaal van vonnis van 10 mei 2023 verschuldigde aan [gedaagde 1] en [gedaagde 2] naar het zich laat aanzien kan worden voldaan. Daarmee worden tijdrovende en kostbare procedures tussen partijen in de toekomst zoveel mogelijk voorkomen.
+De conclusie is dan ook dat de vordering van [eiser] wordt toegewezen in die zin dat de executoriale verkoop van 2 september 2025, of op enig ander tijdstip, moet worden verboden en de executie moet worden opgeschort voor een termijn van zes maanden na betekening van dit vonnis aan [gedaagde 1] en [gedaagde 2] , één en ander op straffe van de door [eiser] verzochte en gemaximeerde dwangsom. Dit betekent dat de executoriale verkoop binnen die periode geen doorgang mag vinden. De voorzieningenrechter gaat ervan uit dat partijen die tijd benutten om serieus voortgang te maken met de afwikkeling van de nalatenschap, waaronder de levering en tegeldemaking van de woning voor een reëel bedrag, waardoor het door [eiser] uit hoofde van het proces-verbaal van vonnis van 10 mei 2023 verschuldigde aan [gedaagde 1] en [gedaagde 2] naar het zich laat aanzien kan worden voldaan. Daarmee worden tijdrovende en kostbare procedures tussen partijen in de toekomst zoveel mogelijk voorkomen.
 
 4.18.
 
