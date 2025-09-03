@@ -10,6 +10,7 @@ procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBOVE:2025:5435"
 published_in: ["Rechtspraak.nl"]
+relations: [["Formele relatie", "Einduitspraak: ECLI:NL:RBOVE:2026:4342"]]
 ---
 
 # ECLI:NL:RBOVE:2025:5435 Rechtbank Overijssel , 03-09-2025 / C/08/218072 / HA ZA 18-236
