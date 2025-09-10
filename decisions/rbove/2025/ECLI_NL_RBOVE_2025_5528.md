@@ -10,6 +10,7 @@ procedure: "Eerste aanleg - meervoudig"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBOVE:2025:5528"
 published_in: ["Rechtspraak.nl", "PS-Updates.nl 2025-0487"]
+relations: [["Formele relatie", "Einduitspraak: ECLI:NL:RBOVE:2026:2922"]]
 ---
 
 # ECLI:NL:RBOVE:2025:5528 Rechtbank Overijssel , 10-09-2025 / C/08/282805 / HA ZA 22-224
