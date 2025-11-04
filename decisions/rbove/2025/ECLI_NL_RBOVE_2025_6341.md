@@ -10,6 +10,7 @@ procedure: "Eerste aanleg - meervoudig"
 subject: "Strafrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBOVE:2025:6341"
 published_in: ["Rechtspraak.nl"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHARL:2026:7108"]]
 ---
 
 # ECLI:NL:RBOVE:2025:6341 Rechtbank Overijssel , 04-11-2025 / 08.257375.24 (P)
