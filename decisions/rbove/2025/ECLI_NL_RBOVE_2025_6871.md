@@ -16,7 +16,7 @@ published_in: ["Rechtspraak.nl"]
 
 ## Inhoudsindicatie
 
-In verband met de spoedeisendheid van de zaak is bij vonnis van 14 november 2025 op het door [eiser] gevorderde beslist. De feiten en de motivering waarop de in dat vonnis gegeven beslissing steunt, volgen hieronder.
+In verband met de spoedeisendheid van de zaak is bij vonnis van 14 november 2025 op het door eiser gevorderde beslist. De feiten en de motivering waarop de in dat vonnis gegeven beslissing steunt, volgen hieronder.
 
 ## Uitspraak
 
@@ -31,13 +31,13 @@ Vonnis in kort geding van 14 november 2025
 
 in de zaak van
 
-[eiser],
+[eiser] ,
 
-wonende te [woonplaats],
+wonende te [woonplaats] ,
 
 eisende partij,
 
-hierna ook wel te noemen [eiser],
+hierna ook wel te noemen [eiser] ,
 
 advocaat: mr. L. Meijerink,
 
@@ -45,11 +45,11 @@ en
 
 [gedaagde] B.V.,
 
-statutair gevestigd en kantoorhoudend te [vestigingsplaats],
+statutair gevestigd en kantoorhoudend te [vestigingsplaats] ,
 
 gedaagde partij,
 
-hierna te noemen [gedaagde],
+hierna te noemen [gedaagde] ,
 
 advocaat: mr. M.A. Kerkdijk.
 
@@ -67,19 +67,19 @@ De feiten
 
 [eiser] is eigenaresse van:
 
-de woning staande en gelegen te [adres 1], hierna te noemen: de woning;
+de woning staande en gelegen te [adres 1] , hierna te noemen: de woning;
 
-het registergoed, kadastraal omschreven als Bedrijvigheid (kantoor) en Terrein (grasland, staande en gelegen te [adres 2], hierna te noemen Registergoed I;
+het registergoed, kadastraal omschreven als Bedrijvigheid (kantoor) en Terrein (grasland, staande en gelegen te [adres 2] , hierna te noemen Registergoed I;
 
 het registergoed, kadastraal omschreven als Terrein (grasland), gelegen te Markelo (gemeente Hof van Twente), zonder plaatselijke aanduiding, kadastraal bekend [adres 3] (hierna te noemen: Registergoed II.
 
 2.2.
 
-[eiser] heeft na het overlijden van haar echtgenoot in 2013 [bedrijf] B.V. voortgezet. In 2022 heeft zij via een detacheringsbureau de heer [naam] (hierna: [naam]) ingehuurd als bedrijfsleider.
+[eiser] heeft na het overlijden van haar echtgenoot in 2013 [bedrijf] B.V. voortgezet. In 2022 heeft zij via een detacheringsbureau de heer [naam] (hierna: [naam] ) ingehuurd als bedrijfsleider.
 
 2.3.
 
-[naam] in (indirect) bestuurder en enig aandeelhouders van [gedaagde].
+[naam] in (indirect) bestuurder en enig aandeelhouders van [gedaagde] .
 
 Vanaf begin 2023 heeft [eiser] [naam] rechtstreeks ingehuurd via [gedaagde] voor € 60,00 per uur excl. btw.
 
@@ -93,9 +93,9 @@ Vanaf begin 2023 heeft [eiser] [naam] rechtstreeks ingehuurd via [gedaagde] voor
 
 2.6.
 
-Tussen [eiser] en [naam] is gesproken over de toekomst van [bedrijf] en de optie dat [naam] althans [gedaagde] het bedrijf zou overnemen. Schol & Gorter advocaten is in 2024 de advocaat van zowel [bedrijf] als van [gedaagde].
+Tussen [eiser] en [naam] is gesproken over de toekomst van [bedrijf] en de optie dat [naam] althans [gedaagde] het bedrijf zou overnemen. Schol & Gorter advocaten is in 2024 de advocaat van zowel [bedrijf] als van [gedaagde] .
 
-Op 15 februari 2024 is op kantoor van de advocaat een overeenkomst van geldlening getekend waarin staat dat [gedaagde] € 183.221,39 aan [bedrijf] heeft geleend. [eiser] als bestuurder van het bouwbedrijf verklaart zich bereid medeschuldenaar te zijn voor de lening. Ter zekerheid wordt een pandrecht (hypotheek) gegeven op alle activa van zowel [eiser] als [bedrijf].
+Op 15 februari 2024 is op kantoor van de advocaat een overeenkomst van geldlening getekend waarin staat dat [gedaagde] € 183.221,39 aan [bedrijf] heeft geleend. [eiser] als bestuurder van het bouwbedrijf verklaart zich bereid medeschuldenaar te zijn voor de lening. Ter zekerheid wordt een pandrecht (hypotheek) gegeven op alle activa van zowel [eiser] als [bedrijf] .
 
 2.7.
 
@@ -103,7 +103,7 @@ Op 13 augustus 2024 heeft de belastingdienst een bevel tot betaling betekend bij
 
 2.8.
 
-Op 28 augustus 2024 wordt een tweede leningsovereenkomst gesloten tussen [eiser] en [gedaagde] voor € 169.004,43, opnieuw met een hypotheekrecht op alle activa van zowel [eiser] als [bedrijf].
+Op 28 augustus 2024 wordt een tweede leningsovereenkomst gesloten tussen [eiser] en [gedaagde] voor € 169.004,43, opnieuw met een hypotheekrecht op alle activa van zowel [eiser] als [bedrijf] .
 
 2.9.
 
@@ -121,7 +121,7 @@ Op 6 november 2024 is [bedrijf] failliet verklaard.
 
 2.11.
 
-De curator in het faillissement heeft zich op 25 juni 2025 gesteld namens [bedrijf] en laten weten dat hij de procedure C/08/323288 namens het bouwbedrijf voortzet. Begin augustus 2025 heeft een driegesprek plaatsgevonden tussen de curator, [eiser] en [gedaagde]. [gedaagde] heeft gevraagd om uitstel om te antwoorden; de curator en [eiser] hebben ingestemd met uitstel tot 5 november 2025.
+De curator in het faillissement heeft zich op 25 juni 2025 gesteld namens [bedrijf] en laten weten dat hij de procedure C/08/323288 namens het bouwbedrijf voortzet. Begin augustus 2025 heeft een driegesprek plaatsgevonden tussen de curator, [eiser] en [gedaagde] . [gedaagde] heeft gevraagd om uitstel om te antwoorden; de curator en [eiser] hebben ingestemd met uitstel tot 5 november 2025.
 
 2.12.
 
@@ -164,15 +164,15 @@ Ter onderbouwing voert [eiser] aan dat zij heeft gedwaald bij het aangaan van de
 
 [naam] heeft [eiser] steeds verzekerd dat hij het beste met haar voorhad en [eiser] vertrouwde hem. [eiser] was overspannen en heeft de bedrijfsvoering aan hem overgelaten, inclusief alle betalingen. Bij het aangaan van de geldleningen kreeg [eiser] een overzicht van schulden te zien dat was opgesteld door de accountant. Achteraf blijkt dat dat overzicht niet klopt. [naam] gaf [eiser] veel persoonlijke en amoureuze aandacht om haar over te halen mee te gaan in zijn voorstellen. Hij heeft misbruik gemaakt van de kwetsbare omstandigheden waarin zij zich bevond. Hij gaf aan dat de leningen noodzakelijk om de bedrijfsovername door te laten gaan. Niemand heeft [eiser] verteld dat zij niet verplicht was om in privé garant te staan voor de leningen.
 
-Na de zomer van 2024 werd [eiser] duidelijk dat zij verkeerd was voorgelicht door [naam] en dat er veel geld van [bedrijf] was verdwenen naar [gedaagde]. [eiser] constateerde allerlei misstanden, zoals dubbel betaalde rekeningen, spookfacturen, het niet meenemen van afbetalingen in overzichten, het in rekening brengen door [gedaagde] van hoge marges en het toe-eigenen door WML van inventaris en rijdend materieel. Eigenlijk is [bedrijf] leeggehaald door [gedaagde]. Het rapport van de forensisch accountant is  voor 90% klaar en bevestigt de bevindingen van [eiser].
+Na de zomer van 2024 werd [eiser] duidelijk dat zij verkeerd was voorgelicht door [naam] en dat er veel geld van [bedrijf] was verdwenen naar [gedaagde] . [eiser] constateerde allerlei misstanden, zoals dubbel betaalde rekeningen, spookfacturen, het niet meenemen van afbetalingen in overzichten, het in rekening brengen door [gedaagde] van hoge marges en het toe-eigenen door [gedaagde] van inventaris en rijdend materieel. Eigenlijk is [bedrijf] leeggehaald door [gedaagde] . Het rapport van de forensisch accountant is  voor 90% klaar en bevestigt de bevindingen van [eiser] .
 
-De curator heeft inmiddels ook aangegeven dat hij voornemens is [gedaagde] als feitelijke beleidsbepaler aan te merken. Hij roept de pauliana in voor zowel het gepretendeerde pandrecht als de door [gedaagde] gesloten koopovereenkomst van bedrijfsmiddelen. [gedaagde] heeft de bedrijfsmiddelen van [bedrijf] gekocht en voor veel geld terug verhuurd aan [bedrijf]. Een claim voor bestuurdersaansprakelijkheid ligt voor de hand en dan zal [gedaagde] de complete schuldenlast moeten dragen, hetgeen zij niet kan.
+De curator heeft inmiddels ook aangegeven dat hij voornemens is [gedaagde] als feitelijke beleidsbepaler aan te merken. Hij roept de pauliana in voor zowel het gepretendeerde pandrecht als de door [gedaagde] gesloten koopovereenkomst van bedrijfsmiddelen. [gedaagde] heeft de bedrijfsmiddelen van [bedrijf] gekocht en voor veel geld terug verhuurd aan [bedrijf] . Een claim voor bestuurdersaansprakelijkheid ligt voor de hand en dan zal [gedaagde] de complete schuldenlast moeten dragen, hetgeen zij niet kan.
 
 In de bodemprocedure, waarin vernietiging van de leningen is gevorderd, heeft [gedaagde] nog altijd niet geconcludeerd voor antwoord. Een deel van de vertraging komt voor rekening van de curator, maar daarnaast heeft [gedaagde] steeds uitstel gevraagd. Het is onredelijk om nu al over te gaan tot executie van het hypotheekrecht. Als de woning en ander onroerend goed van [eiser] nu wordt geveild ontstaat een onomkeerbare situatie. [eiser] is dan alles kwijt en heeft geen woning meer. Als [eiser] in de bodemprocedure gelijk krijgt is het onwaarschijnlijk dat haar geld kan terugkrijgen. Het bedrijf [gedaagde] staat er financieel niet goed voor dus er is sprake van een totaal restitutierisico.
 
 3.3.
 
-[gedaagde] voert verweer en concludeert tot afwijzing van de vorderingen. Het tijdsverloop in de bodemprocedure is bijna volledig veroorzaakt door de curator van [eiser]. De curator gaf aan dat hij onderzoek deed. [gedaagde] was bereid daarop te wachten maar het was [gedaagde] die uiteindelijk het gevoel had aan het lijntje te worden gehouden. Na het gesprek van augustus over een mogelijke regeling bleef het weer stil en heeft [gedaagde] de notaris gevraagd de uitwinning van het hypotheekrecht weer op te pakken. In reactie op de dagvaarding stelt [gedaagde] dat de stellingen niet zijn onderbouwd. Dat [eiser] nergens van op de hoogte was, is onzin. Zij was vanaf oktober 2023 weer regelmatig op kantoor en had toegang tot de bankrekeningen. Zij wist dus welke rekeningen werden betaald. Door de boekhouder en accountant vonden controles plaats, en zij hebben nooit vragen gesteld bij de transacties dus dat de gestelde misstanden plaatsvonden is onwaarschijnlijk. Bij het aangaan van de leningen waren derden betrokken, zoals de gezamenlijke advocaat, de accountant en de notaris. Zij zagen geen reden om [eiser] te weerhouden van het aangaan van de leningen.
+[gedaagde] voert verweer en concludeert tot afwijzing van de vorderingen. Het tijdsverloop in de bodemprocedure is bijna volledig veroorzaakt door de curator van [eiser] . De curator gaf aan dat hij onderzoek deed. [gedaagde] was bereid daarop te wachten maar het was [gedaagde] die uiteindelijk het gevoel had aan het lijntje te worden gehouden. Na het gesprek van augustus over een mogelijke regeling bleef het weer stil en heeft [gedaagde] de notaris gevraagd de uitwinning van het hypotheekrecht weer op te pakken. In reactie op de dagvaarding stelt [gedaagde] dat de stellingen niet zijn onderbouwd. Dat [eiser] nergens van op de hoogte was, is onzin. Zij was vanaf oktober 2023 weer regelmatig op kantoor en had toegang tot de bankrekeningen. Zij wist dus welke rekeningen werden betaald. Door de boekhouder en accountant vonden controles plaats, en zij hebben nooit vragen gesteld bij de transacties dus dat de gestelde misstanden plaatsvonden is onwaarschijnlijk. Bij het aangaan van de leningen waren derden betrokken, zoals de gezamenlijke advocaat, de accountant en de notaris. Zij zagen geen reden om [eiser] te weerhouden van het aangaan van de leningen.
 
 [bedrijf] stond er financieel gezien slecht voor toen [gedaagde]  aan de samenwerking begon. De liquiditeitspositie was slecht en er was vaak geen geld om materialen te kopen. [gedaagde] heeft daarom voor eigen rekening en risico de materialen ingekocht. De opslagmarges waren zoals gebruikelijk in de branche en [eiser] heeft daar ook mee ingestemd. Als [gedaagde] dit niet had gedaan was [bedrijf] al veel eerder failliet gegaan. Dat [gedaagde] teveel uren zou hebben gedeclareerd (gemiddeld 66 per week in 2023 en gemiddeld 59 per week in 2024) is niet waar, de uren zijn daadwerkelijk gemaakt en wekelijks bijgehouden. Elke week ontving [eiser] daarvoor een factuur inclusief urenstaten en daar is nooit over geklaagd. [bedrijf] had grote liquiditeitsproblemen en [gedaagde] heeft door leningen de problemen opgelost; zonder die leningen konden geen materialen worden ingekocht en rekeningen betaald.
 
@@ -189,7 +189,7 @@ De voorzieningenrechter is van oordeel dat het spoedeisend belang voortvloeit ui
 
 4.2.
 
-[gedaagde] heeft als hypotheekhouder het recht van parate executie. Het verzet van [eiser] tegen die executie is een executiegeschil als bedoeld in artikel 438 Rv. De executiebevoegdheid van [gedaagde] als hypotheekhouder berust op het vrijwillig tussen partijen afgesproken verhaalsrecht op specifiek aangewezen vermogensobjecten van [eiser]. Die afspraak, vastgelegd in de hypotheekakten, verschaft op grond van artikel 430 Rv een executoriale titel aan [gedaagde] als schuldeiser.
+[gedaagde] heeft als hypotheekhouder het recht van parate executie. Het verzet van [eiser] tegen die executie is een executiegeschil als bedoeld in artikel 438 Rv. De executiebevoegdheid van [gedaagde] als hypotheekhouder berust op het vrijwillig tussen partijen afgesproken verhaalsrecht op specifiek aangewezen vermogensobjecten van [eiser] . Die afspraak, vastgelegd in de hypotheekakten, verschaft op grond van artikel 430 Rv een executoriale titel aan [gedaagde] als schuldeiser.
 
 4.3.
 
@@ -203,11 +203,11 @@ De geschetste omstandigheden kunnen wel een rol spelen bij de belangenafweging.
 
 4.5.
 
-Als de executie doorgaat betekent dat voor [eiser] dat haar woning wordt verkocht alsmede de andere onroerende zaken van [eiser] en [bedrijf]. [eiser] heeft geen vervangende woonruimte. Als zij in de lopende bodemprocedure gelijk krijgt is het zeer de vraag of de gevolgen kunnen worden teruggedraaid. [gedaagde] heeft zelf aangevoerd dat ook zij te maken heeft met grote schulden, waaronder bij de Belastingdienst, en dat zij een faillissement in de toekomst niet uitsluit. Bovendien zal [gedaagde] mogelijk door de curator van [bedrijf] worden aangesproken en aansprakelijk gehouden voor de schade in het faillissement; dan volgt wel zeker het faillissement van [gedaagde]. Er is dus sprake van een groot restitutierisico.
+Als de executie doorgaat betekent dat voor [eiser] dat haar woning wordt verkocht alsmede de andere onroerende zaken van [eiser] en [bedrijf] . [eiser] heeft geen vervangende woonruimte. Als zij in de lopende bodemprocedure gelijk krijgt is het zeer de vraag of de gevolgen kunnen worden teruggedraaid. [gedaagde] heeft zelf aangevoerd dat ook zij te maken heeft met grote schulden, waaronder bij de Belastingdienst, en dat zij een faillissement in de toekomst niet uitsluit. Bovendien zal [gedaagde] mogelijk door de curator van [bedrijf] worden aangesproken en aansprakelijk gehouden voor de schade in het faillissement; dan volgt wel zeker het faillissement van [gedaagde] . Er is dus sprake van een groot restitutierisico.
 
 Als de executie doorgaat betekent dat voor [gedaagde] dat zij op korte termijn terugbetaling van de geleende bedragen kan verwachten.
 
-De afweging van belangen vindt het plaats in het licht van de volgende omstandigheden. [gedaagde] heeft in het kader van deze procedure nagelaten om concreet inzicht gegeven in haar eigen financiële positie. Haar stelling dat zij de opbrengst van de executie nodig heeft om haar eigen schuldeisers te voldoen, onderbouwt zij op geen enkele wijze en is niet te controleren. Zo blijft onduidelijk hoe urgent [gedaagde] de opbrengst van de openbare verkoop nodig heeft en valt niet in te schatten of dit nog wel kan wachten tot de uitkomst van de hierboven geschetste bodemprocedure. Daar staat tegenover dat zij zelf stelt haar eigen faillissement niet te kunnen uitsluiten. Zou [gedaagde] de executoriale verkoop mogen doorzetten, dan wordt [eiser] dakloos en heeft zij geen uitzicht op een mogelijkheid om de opbrengst van deze executie (met eventueel aanvullende schadevergoeding) terug te vorderen van [gedaagde]. De onomkeerbare gevolgen op korte termijn voor [eiser] dienen in dit geval zwaarder wegen dan die van [gedaagde].
+De afweging van belangen vindt het plaats in het licht van de volgende omstandigheden. [gedaagde] heeft in het kader van deze procedure nagelaten om concreet inzicht gegeven in haar eigen financiële positie. Haar stelling dat zij de opbrengst van de executie nodig heeft om haar eigen schuldeisers te voldoen, onderbouwt zij op geen enkele wijze en is niet te controleren. Zo blijft onduidelijk hoe urgent [gedaagde] de opbrengst van de openbare verkoop nodig heeft en valt niet in te schatten of dit nog wel kan wachten tot de uitkomst van de hierboven geschetste bodemprocedure. Daar staat tegenover dat zij zelf stelt haar eigen faillissement niet te kunnen uitsluiten. Zou [gedaagde] de executoriale verkoop mogen doorzetten, dan wordt [eiser] dakloos en heeft zij geen uitzicht op een mogelijkheid om de opbrengst van deze executie (met eventueel aanvullende schadevergoeding) terug te vorderen van [gedaagde] . De onomkeerbare gevolgen op korte termijn voor [eiser] dienen in dit geval zwaarder wegen dan die van [gedaagde] .
 
 4.6.
 
