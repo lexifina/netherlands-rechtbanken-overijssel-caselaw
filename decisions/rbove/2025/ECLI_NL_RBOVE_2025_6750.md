@@ -16,7 +16,7 @@ published_in: ["Rechtspraak.nl"]
 
 ## Inhoudsindicatie
 
-De rechtbank legt de veroordeelde bedrijf de verplichting op tot betaling van € 55.660,81 aan de Staat ter ontneming van het wederrechtelijk verkregen voordeel.
+De rechtbank legt het veroordeelde bedrijf de verplichting op tot betaling van € 55.660,81 aan de Staat ter ontneming van het wederrechtelijk verkregen voordeel.
 
 ## Uitspraak
 
