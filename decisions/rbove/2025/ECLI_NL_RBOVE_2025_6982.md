@@ -16,11 +16,9 @@ published_in: ["Rechtspraak.nl"]
 
 ## Inhoudsindicatie
 
-Famoz vordert betaling van een onbetaalde factuur.
+Famoz is een bedrijf dat zich onder meer richt op fotografie. Ferm ontwikkelt en verkoopt elektrisch gereedschap. Famoz heeft in opdracht van Ferm foto’s gemaakt van haar producten, bestemd om geplaatst te worden op een nieuwe website. Ferm heeft de hiervoor door Famoz verstuurde factuur van € 14.029,95 onbetaald gelaten.
 
-Ferm stelt dat de deadlines waren overschreden en de kwaliteit van de geleverde producten gebrekkig is. In tegenvordering vragen zij om de overeenkomst tussen partijen buitengerechtelijk ontbonden te verklaren en vorderen zij een vergoeding van kosten.
-
-De vordering van Ferm wordt toegewezen, de tegenvordering wordt afgewezen.
+Famoz vordert in deze procedure betaling van die factuur, te vermeerderen met rente en kosten. Ferm is het daar niet mee eens en vraagt om de vordering van Famoz af te wijzen. Ferm vindt namelijk dat Famoz tekort is geschoten in de nakoming van de overeenkomst, en beroept zich op ontbinding daarvan. Ten eerst omdat Famoz volgens haar overeengekomen deadlines heeft overschreden, en ten tweede omdat de kwaliteit van de aangeleverde foto’s gebrekkig is. Als tegenvordering vraagt Ferm om voor recht te verklaren dat zij de overeenkomst buitengerechtelijk heeft ontbonden, althans om de ontbinding uit te spreken. Ook vordert zij vergoeding van kosten. Famoz vraagt op haar beurt om de tegenvordering van Ferm af te wijzen. De kantonrechter stelt Famoz in het gelijk.
 
 ## Uitspraak
 
