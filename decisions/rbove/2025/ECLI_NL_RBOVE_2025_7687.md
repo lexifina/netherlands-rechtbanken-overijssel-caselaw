@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBOVE:2025:7687"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "Computerrecht 2026/77 met annotatie van Lucille van Ommeren-Kerman"]
 ---
 
 # ECLI:NL:RBOVE:2025:7687 Rechtbank Overijssel , 24-12-2025 / C/08/331810 / HA ZA 25-122
