@@ -10,6 +10,7 @@ procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBOVE:2026:566"
 published_in: ["Rechtspraak.nl"]
+relations: [["Formele relatie", "Einduitspraak: ECLI:NL:RBOVE:2026:5496"]]
 ---
 
 # ECLI:NL:RBOVE:2026:566 Rechtbank Overijssel , 06-01-2026 / 11753519 \ CV EXPL 25-1803
@@ -48,14 +49,14 @@ gemachtigde: mr. T.B. van Dreumel,
 
 tegen
 
-[verweerder]
+[gedaagde]
 ,
 
 te [woonplaats 1] ,
 
 gedaagde partij,
 
-hierna te noemen: [verweerder] ,
+hierna te noemen: [gedaagde] ,
 
 gemachtigde: mr. R.N. Sahebdien.
 
@@ -64,9 +65,9 @@ De zaak in het kort
 
 1.1.
 
-[verweerder] heeft in 1987 met twee anderen een huurovereenkomst gesloten met [bedrijf] voor een atelier in [woonplaats 1] . [verweerder] was op een gegeven moment nog als enige huurder overgebleven en heeft in 1992 een nieuwe huurovereenkomst gesloten met [bedrijf] . [eiser] heeft het atelier in 2023 van [bedrijf] gekocht. [eiser] vordert dat [verweerder] het atelier ontruimt. Hij voert aan dat het atelier een ruimte is in de zin van artikel 7:230a BW en dat hij de huurovereenkomst rechtsgeldig heeft opgezegd.
+[gedaagde] heeft in 1987 met twee anderen een huurovereenkomst gesloten met [bedrijf] voor een atelier in [woonplaats 1] . [gedaagde] was op een gegeven moment nog als enige huurder overgebleven en heeft in 1992 een nieuwe huurovereenkomst gesloten met [bedrijf] . [eiser] heeft het atelier in 2023 van [bedrijf] gekocht. [eiser] vordert dat [gedaagde] het atelier ontruimt. Hij voert aan dat het atelier een ruimte is in de zin van artikel 7:230a BW en dat hij de huurovereenkomst rechtsgeldig heeft opgezegd.
 
-[verweerder] betwist dit. Hij voert aan dat hij woont in het atelier, waardoor het atelier (ook) als woonruimte moet worden aangemerkt en hij huurbescherming geniet. Dat hij ook in het atelier woont, staat weliswaar niet in de huurovereenkomst van 1992 maar dat is wel wat partijen hebben bedoeld met elkaar hebben af te spreken. [bedrijf] wist dat [verweerder] in het atelier woonde en de gemeente [woonplaats 1] ook.
+[gedaagde] betwist dit. Hij voert aan dat hij woont in het atelier, waardoor het atelier (ook) als woonruimte moet worden aangemerkt en hij huurbescherming geniet. Dat hij ook in het atelier woont, staat weliswaar niet in de huurovereenkomst van 1992 maar dat is wel wat partijen hebben bedoeld met elkaar hebben af te spreken. [bedrijf] wist dat [gedaagde] in het atelier woonde en de gemeente [woonplaats 1] ook.
 
 1.2.
 
@@ -85,7 +86,7 @@ de conclusie van antwoord;
 
 de brief waarin is meegedeeld dat een mondelinge behandeling is bepaald;
 
-het bericht van 8 december 2025 met productie(s) van [verweerder] , en
+het bericht van 8 december 2025 met productie(s) van [gedaagde] , en
 
 de mondelinge behandeling van 10 december 2025, waarbij partijen zijn verschenen en zijn bijgestaan door hun gemachtigde.
 
@@ -100,7 +101,7 @@ De feiten
 
 3.1.
 
-[verweerder] heeft op 14 januari 1987 samen met twee anderen een huurovereenkomst gesloten met de [bedrijf] BV (hierna: [bedrijf] ) voor een ruimte aan de [adres 1] in [woonplaats 1] . Partijen zijn daarbij een huurprijs van ƒ 350,- (gulden) per maand overeengekomen die per vooruitbetaling moet worden voldaan. In de huurovereenkomst is verder bepaald:
+[gedaagde] heeft op 14 januari 1987 samen met twee anderen een huurovereenkomst gesloten met de [bedrijf] BV (hierna: [bedrijf] ) voor een ruimte aan de [adres 1] in [woonplaats 1] . Partijen zijn daarbij een huurprijs van ƒ 350,- (gulden) per maand overeengekomen die per vooruitbetaling moet worden voldaan. In de huurovereenkomst is verder bepaald:
 
 ‘[…] Huurobject: Werkplaats met zolder en kantoorruimten. […]
 
@@ -108,7 +109,7 @@ Bestemming: het gehuurde is uitsluitend bestemd om te worden gebruikt als atelie
 
 3.2.
 
-[verweerder] is op een gegeven moment als enige huurder overgebleven en heeft op 12 maart 1992 een nieuwe huurovereenkomst gesloten met [bedrijf] voor het atelier (de werkplaats met zolder en kantoorruimten). Partijen zijn daarbij een huurprijs van ƒ 385,- (gulden) per maand overeengekomen die per vooruitbetaling moet worden voldaan. In de huurovereenkomst staat verder:
+[gedaagde] is op een gegeven moment als enige huurder overgebleven en heeft op 12 maart 1992 een nieuwe huurovereenkomst gesloten met [bedrijf] voor het atelier (de werkplaats met zolder en kantoorruimten). Partijen zijn daarbij een huurprijs van ƒ 385,- (gulden) per maand overeengekomen die per vooruitbetaling moet worden voldaan. In de huurovereenkomst staat verder:
 
 ‘[…] Huurobject: Werkplaats met zolder en kantoorruimten. […]
 
@@ -116,7 +117,7 @@ Bestemming: Het gehuurde is uitsluitend bestemd om te worden gebruikt als atelie
 
 3.3.
 
-In de woning die is gelegen aan de [adres 2] in [woonplaats 1] en naast het atelier dat [verweerder] huurt, woont mevrouw [naam] (hierna: [naam] ). Zij heeft hiervoor een huurovereenkomst gesloten met [bedrijf] .
+In de woning die is gelegen aan de [adres 2] in [woonplaats 1] en naast het atelier dat [gedaagde] huurt, woont mevrouw [naam] (hierna: [naam] ). Zij heeft hiervoor een huurovereenkomst gesloten met [bedrijf] .
 
 3.4.
 
@@ -134,7 +135,7 @@ b. het perceel grond met magazijn/opslagruimte, vijf garageboxen, een loods met 
 
 3.6.
 
-[eiser] heeft op 30 mei 2024 aan [verweerder] een brief gestuurd, waarin staat:
+[eiser] heeft op 30 mei 2024 aan [gedaagde] een brief gestuurd, waarin staat:
 
 ‘[…] U bent huurder van onze box 26 aan de [adres 1] te [woonplaats 1] . Sinds kort zijn wij eigenaar van het pand. Wij zijn voornemens het gehuurde grootschalig te renoveren.
 
@@ -146,22 +147,22 @@ Middels dit schrijven zeggen wij u tevens de ontruiming van het gehuurde aan teg
 
 3.7.
 
-Partijen hebben vervolgens gecorrespondeerd over de opzegging. [verweerder] heeft de huuropzegging niet bevestigd.
+Partijen hebben vervolgens gecorrespondeerd over de opzegging. [gedaagde] heeft de huuropzegging niet bevestigd.
 
 3.8.
 
-[verweerder] heeft het atelier niet ontruimd en [naam] woont nog in de naastgelegen woning.
+[gedaagde] heeft het atelier niet ontruimd en [naam] woont nog in de naastgelegen woning.
 
 4
 Het geschil
 
 4.1.
 
-[eiser] vordert dat de kantonrechter [verweerder] bij vonnis, voor zover mogelijk uitvoerbaar bij voorraad, veroordeelt om het atelier binnen één maand na dit vonnis te ontruimen. Verder vordert [eiser] dat [verweerder] wordt veroordeeld tot betaling van € 1.119,25 (inclusief btw) aan buitengerechtelijke incassokosten, te vermeerderen met de wettelijke rente als bedoeld in artikel 6:119 van het Burgerlijk Wetboek (hierna: BW) vanaf de vijftiende dag na dit vonnis tot aan de dag van volledige betaling. Tot slot vordert [eiser] dat [verweerder] de kosten van deze procedure (inclusief de nakosten) betaalt, te vermeerderen met de wettelijke rente als bedoeld in artikel 6:119 BW vanaf de vijftiende dag na dit vonnis tot aan de dag van volledige betaling.
+[eiser] vordert dat de kantonrechter [gedaagde] bij vonnis, voor zover mogelijk uitvoerbaar bij voorraad, veroordeelt om het atelier binnen één maand na dit vonnis te ontruimen. Verder vordert [eiser] dat [gedaagde] wordt veroordeeld tot betaling van € 1.119,25 (inclusief btw) aan buitengerechtelijke incassokosten, te vermeerderen met de wettelijke rente als bedoeld in artikel 6:119 van het Burgerlijk Wetboek (hierna: BW) vanaf de vijftiende dag na dit vonnis tot aan de dag van volledige betaling. Tot slot vordert [eiser] dat [gedaagde] de kosten van deze procedure (inclusief de nakosten) betaalt, te vermeerderen met de wettelijke rente als bedoeld in artikel 6:119 BW vanaf de vijftiende dag na dit vonnis tot aan de dag van volledige betaling.
 
 4.2.
 
-[verweerder] voert verweer. [verweerder] concludeert tot niet-ontvankelijkheid van [eiser] , dan wel tot afwijzing van de vorderingen van [eiser] , met uitvoerbaar bij voorraad te verklaren veroordeling van [eiser] in de kosten van deze procedure.
+[gedaagde] voert verweer. [gedaagde] concludeert tot niet-ontvankelijkheid van [eiser] , dan wel tot afwijzing van de vorderingen van [eiser] , met uitvoerbaar bij voorraad te verklaren veroordeling van [eiser] in de kosten van deze procedure.
 
 5
 De beoordeling
@@ -170,11 +171,11 @@ De kantonrechter zal een gerechtelijke plaatsopneming bevelen
 
 5.1.
 
-[eiser] vordert dat [verweerder] het atelier ontruimt. Hij voert aan dat [verweerder] een huurovereenkomst heeft gesloten met [bedrijf] voor een werkplaats met zolder en kantoorruimten, om uitsluitend te worden gebruikt als atelier. [eiser] stelt dat sprake is van een huurovereenkomst voor een ruimte in de zin van artikel 7:230a BW en dat hij de huurovereenkomst bij brief van 30 mei 2024 geldig heeft opgezegd omdat hij het atelier wil slopen/renoveren.
+[eiser] vordert dat [gedaagde] het atelier ontruimt. Hij voert aan dat [gedaagde] een huurovereenkomst heeft gesloten met [bedrijf] voor een werkplaats met zolder en kantoorruimten, om uitsluitend te worden gebruikt als atelier. [eiser] stelt dat sprake is van een huurovereenkomst voor een ruimte in de zin van artikel 7:230a BW en dat hij de huurovereenkomst bij brief van 30 mei 2024 geldig heeft opgezegd omdat hij het atelier wil slopen/renoveren.
 
 5.2.
 
-[verweerder] voert verweer. Hij stelt allereerst dat het atelier (ook) moet worden aangemerkt als woonruimte, waardoor hij huurbescherming geniet. [verweerder] onderbouwt dit met de stelling dat in de huurovereenkomst van 12 maart 1992 weliswaar staat dat het gehuurde wordt gebruikt voor de uitoefening van een atelier, maar dat dit niet is wat partijen destijds hebben beoogd overeen te komen. [verweerder] en de andere huurders gebruikten het gehuurde aanvankelijk als atelier, en toen [verweerder] als enige huurder overbleef is [verweerder] ook gaan wonen in het atelier. [verweerder] heeft onder meer van de zolder een slaapkamer gemaakt, en het atelier voorzien van een keukenblok, doucheruimte en een toilet. Dit wist [bedrijf] en de gemeente [woonplaats 1] was hier ook van op de hoogte. [verweerder] staat in het BRP op dit adres ingeschreven en hij ontvangt ook huurtoeslag.
+[gedaagde] voert verweer. Hij stelt allereerst dat het atelier (ook) moet worden aangemerkt als woonruimte, waardoor hij huurbescherming geniet. [gedaagde] onderbouwt dit met de stelling dat in de huurovereenkomst van 12 maart 1992 weliswaar staat dat het gehuurde wordt gebruikt voor de uitoefening van een atelier, maar dat dit niet is wat partijen destijds hebben beoogd overeen te komen. [gedaagde] en de andere huurders gebruikten het gehuurde aanvankelijk als atelier, en toen [gedaagde] als enige huurder overbleef is [gedaagde] ook gaan wonen in het atelier. [gedaagde] heeft onder meer van de zolder een slaapkamer gemaakt, en het atelier voorzien van een keukenblok, doucheruimte en een toilet. Dit wist [bedrijf] en de gemeente [woonplaats 1] was hier ook van op de hoogte. [gedaagde] staat in het BRP op dit adres ingeschreven en hij ontvangt ook huurtoeslag.
 
 5.3.
 
@@ -192,7 +193,7 @@ Het BRP
 
 5.5.
 
-De kantonrechter heeft ter zitting met partijen besproken dat hij het BRP zou gaan raadplegen voor het adres waarop [verweerder] staat ingeschreven. Dit heeft de kantonrechter niet gedaan, vanwege het voornemen om een gerechtelijke plaatsopneming te bevelen. [verweerder] dient voor een BRP-uittreksel met inschrijvingshistorie te zorgen.
+De kantonrechter heeft ter zitting met partijen besproken dat hij het BRP zou gaan raadplegen voor het adres waarop [gedaagde] staat ingeschreven. Dit heeft de kantonrechter niet gedaan, vanwege het voornemen om een gerechtelijke plaatsopneming te bevelen. [gedaagde] dient voor een BRP-uittreksel met inschrijvingshistorie te zorgen.
 
 Het verdere verloop
 
@@ -211,7 +212,7 @@ beveelt een plaatsopneming en bezichtiging door mr. J.B. de Groot, te houden op 
 
 6.2.
 
-bepaalt dat [eiser] en [verweerder] dan in persoon aanwezig moeten zijn, bijgestaan door hun gemachtigden;
+bepaalt dat [eiser] en [gedaagde] dan in persoon aanwezig moeten zijn, bijgestaan door hun gemachtigden;
 
 6.3.
 
@@ -231,7 +232,7 @@ wijst partijen erop, dat voor de plaatsopneming 90 minuten zal worden uitgetrokk
 
 6.7.
 
-bepaalt dat de zaak weer op de rol zal komen op een dag die na afloop van de plaatsopneming zal worden vastgesteld, bij welke gelegenheid [verweerder] in elk geval een BRP-uittreksel dient over te leggen waaruit blijkt of en sinds wanneer hij op het adres [adres 1] te [woonplaats 1] ingeschreven staat;
+bepaalt dat de zaak weer op de rol zal komen op een dag die na afloop van de plaatsopneming zal worden vastgesteld, bij welke gelegenheid [gedaagde] in elk geval een BRP-uittreksel dient over te leggen waaruit blijkt of en sinds wanneer hij op het adres [adres 1] te [woonplaats 1] ingeschreven staat;
 
 6.8.
 
