@@ -30,9 +30,9 @@ zaaknummer: ZWO 24/2154
 
 uitspraak van de enkelvoudige belastingkamer in de zaak tussen
 
-Stichting Interakt Contour Groep, gevestigd te Nunspeet, belanghebbende
+Stichting [belanghebbende], gevestigd te [verbalisant], belanghebbende
 
-(gemachtigde: [gemachtigde]),
+(gemachtigde: [gemachtigde] ),
 
 en
 
