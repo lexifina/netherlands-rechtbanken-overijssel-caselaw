@@ -30,15 +30,15 @@ zaaknummer: ZWO 24/1242
 
 uitspraak van de enkelvoudige belastingkamer in de zaak tussen
 
-Stichting IMMO Zorgwoningfonds 2, gevestigd te Eindhoven, belanghebbende
+Stichting [belanghebbende], gevestigd te [vestigingsplaats], belanghebbende
 
-(gemachtigde: [gemachtigde 1]),
+(gemachtigde: [gemachtigde 1] ),
 
 en
 
 de heffingsambtenaar van de Reg. Belastingsamenwerking Deventer, Olst-Wijhe en Raalte.
 
-(gemachtigde: [gemachtigde 2]).
+(gemachtigde: [gemachtigde 2] ).
 
 Inleiding
 
@@ -68,7 +68,7 @@ Beoordeling door de rechtbank
 
 5. Tussen partijen is niet in geschil dat de waarde van de onroerende zaak dient te worden bepaald op de gecorrigeerde vervangingswaarde. Evenmin is in geschil dat bij de bepaling van de waarde van de onroerende zaak gebruik kan worden gemaakt van de Taxatiewijzer Verzorging en de daarin opgenomen kengetallen. In geschil is de door de heffingsambtenaar gehanteerde restwaarde en levensduur van de onroerende zaak.
 
-6. De heffingsambtenaar heeft ter onderbouwing van de WOZ-waarde verwezen naar het in beroep overgelegde taxatierapport, opgesteld door [naam], WOZ-taxateur. Ter zitting is tevens verwezen naar een uitspraak van de rechtbank Noord-Nederland en een uitspraak van de rechtbank Den Haag.
+6. De heffingsambtenaar heeft ter onderbouwing van de WOZ-waarde verwezen naar het in beroep overgelegde taxatierapport, opgesteld door [naam] , WOZ-taxateur. Ter zitting is tevens verwezen naar een uitspraak van de rechtbank Noord-Nederland en een uitspraak van de rechtbank Den Haag.
 
 De restwaarde
 
