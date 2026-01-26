@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBOVE:2026:332"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "JAAN 2026/91 met annotatie van G.J. van Essen, mr. T. van Wijk"]
 ---
 
 # ECLI:NL:RBOVE:2026:332 Rechtbank Overijssel , 26-01-2026 / C/08/341332 / KG ZA 25-274
