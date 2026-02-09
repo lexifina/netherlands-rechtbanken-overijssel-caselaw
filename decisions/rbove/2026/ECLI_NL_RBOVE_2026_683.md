@@ -10,6 +10,7 @@ procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBOVE:2026:683"
 published_in: ["Rechtspraak.nl"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHARL:2026:4959"]]
 ---
 
 # ECLI:NL:RBOVE:2026:683 Rechtbank Overijssel , 09-02-2026 / C/08/342626 / KG ZA 25-306
