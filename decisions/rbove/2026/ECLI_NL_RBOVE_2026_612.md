@@ -9,7 +9,8 @@ type: "uitspraak"
 procedure: "Eerste aanleg - meervoudig"
 subject: "Civiel recht; Personen- en familierecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBOVE:2026:612"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "JPF 2026/63"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:GHARL:2026:3789"]]
 ---
 
 # ECLI:NL:RBOVE:2026:612 Rechtbank Overijssel , 13-02-2026 / 341792 / JE RK 25-1982
