@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBOVE:2026:996"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "NJFCZ 2026/198", "RCR 2026/43"]
 ---
 
 # ECLI:NL:RBOVE:2026:996 Rechtbank Overijssel , 24-02-2026 / C/08/343653 / KG ZA 26-10
