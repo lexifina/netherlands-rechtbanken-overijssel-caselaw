@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - meervoudig"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBOVE:2026:1651"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "NJFCZ 2026/172", "Prg. 2026/152"]
 ---
 
 # ECLI:NL:RBOVE:2026:1651 Rechtbank Overijssel , 10-03-2026 / C/08/344694 / KG RK 26/84
