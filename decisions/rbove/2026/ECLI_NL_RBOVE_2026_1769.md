@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBOVE:2026:1769"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "Sdu Nieuws Insolventierecht 2026/133"]
 ---
 
 # ECLI:NL:RBOVE:2026:1769 Rechtbank Overijssel , 16-03-2026 / NL:TZ:2600233:R-RK
