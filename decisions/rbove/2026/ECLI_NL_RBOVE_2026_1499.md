@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBOVE:2026:1499"
-published_in: ["Rechtspraak.nl", "Sdu Nieuws Arbeidsrecht 2026/102", "AR-Updates.nl 2026-0446", "VAAN-AR-Updates.nl 2026-0446", "JAR 2026/98"]
+published_in: ["Rechtspraak.nl", "Sdu Nieuws Arbeidsrecht 2026/102", "AR-Updates.nl 2026-0446", "VAAN-AR-Updates.nl 2026-0446", "JAR 2026/98", "Prg. 2026/154", "TvPP 2026/29, p.102 met annotatie van M. Immerzeel"]
 ---
 
 # ECLI:NL:RBOVE:2026:1499 Rechtbank Overijssel , 17-03-2026 / 11774800 \ CV EXPL  25-2007
