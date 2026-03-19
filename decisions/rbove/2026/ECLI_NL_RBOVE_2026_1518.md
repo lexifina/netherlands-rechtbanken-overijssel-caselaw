@@ -16,7 +16,7 @@ published_in: ["Rechtspraak.nl"]
 
 ## Inhoudsindicatie
 
-Wraking. De verzoekster wordt niet ontvankelijk verklaart in haar verzoek omdat het wrakingsverzoek is ingediend nadat de uitspraak was gedaan.
+Wraking. De verzoekster wordt niet ontvankelijk verklaard in haar verzoek omdat het wrakingsverzoek is ingediend nadat de uitspraak was gedaan.
 
 ## Uitspraak
 
