@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBOVE:2026:1557"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "Belastingblad 2026/186 met annotatie van J.G.E. Gieskes"]
 ---
 
 # ECLI:NL:RBOVE:2026:1557 Rechtbank Overijssel , 20-03-2026 / ak_24_2835
@@ -30,33 +30,33 @@ zaaknummer: ZWO 24/2835
 
 uitspraak van de enkelvoudige belastingkamer in de zaak tussen
 
-McDonald's Nederland B.V., gevestigd te Amsterdam, eiseres
+[eiseres] B.V., gevestigd te [vestigingsplaats 1] , eiseres
 
-gemachtigde: M.O.E. Uyen,
+gemachtigde: [gemachtigde 1] ,
 
 en
 
 de directeur van GBTwente, de heffingsambtenaar,
 
-gemachtigde: M.S. Boschman.
+gemachtigde: [gemachtigde 2] .
 
 Inleiding
 
 In deze uitspraak beoordeelt de rechtbank het beroep van eiseres tegen de uitspraak op bezwaar van de heffingsambtenaar van 3 mei 2024.
 
-De heffingsambtenaar heeft de waarde van de onroerende zaak Goudstraat 3 te Hengelo
+De heffingsambtenaar heeft de waarde van de onroerende zaak [adres 1]
 
-(het restaurant) op 1 januari 2022 (de waardepeildatum) vastgesteld op € 1.258.000 (de beschikking). Met deze waardevaststelling is aan eiseres ook de aanslag in de onroerendezaakbelastingen eigenaar en gebruiker niet-woning van de gemeente Hengelo voor het jaar 2023 opgelegd (de aanslag).
+(het restaurant) op 1 januari 2022 (de waardepeildatum) vastgesteld op € 1.258.000 (de beschikking). Met deze waardevaststelling is aan eiseres ook de aanslag in de onroerendezaakbelastingen eigenaar en gebruiker niet-woning van de gemeente [vestigingsplaats 3] voor het jaar 2023 opgelegd (de aanslag).
 
 De heffingsambtenaar heeft het bezwaar van eiseres ongegrond verklaard en de waarde van het restaurant gehandhaafd.
 
 De heffingsambtenaar heeft op 12 september 2025 een zogenoemd advies in beroep ingediend, welk stuk door de rechtbank zal worden aangemerkt als verweerschrift. Bij dit stuk is een taxatierapport overgelegd.
 
-De rechtbank heeft het beroep op 6 februari 2026 op zitting behandeld. Hieraan hebben deelgenomen: mr. [naam 1] namens de gemachtigde van eiseres en de gemachtigde van de heffingsambtenaar, bijgestaan door [taxateur], taxateur.
+De rechtbank heeft het beroep op 6 februari 2026 op zitting behandeld. Hieraan hebben deelgenomen: mr. [naam 1] namens de gemachtigde van eiseres en de gemachtigde van de heffingsambtenaar, bijgestaan door [taxateur] , taxateur.
 
 Feiten
 
-Eiseres is eigenaar en gebruiker van het restaurant, dat in 1999 is gebouwd en in 2022 is uitgebreid en gerenoveerd. Het betreft een fastfoodrestaurant met terras, parkeerplaatsen en een drive-through. De verhuurbare vloeroppervlakte van het restaurant bedraagt 385 m² en de kadastrale perceeloppervlakte bedraagt in totaal 3.623 m². Het restaurant is nabij een toe- en afrit van de rijksweg A35 gelegen.
+Eiseres is eigenaar en gebruiker van het restaurant, dat in 1999 is gebouwd en in 2022 is uitgebreid en gerenoveerd. Het betreft een fastfoodrestaurant met terras, parkeerplaatsen en een drive-through. De verhuurbare vloeroppervlakte van het restaurant bedraagt 385 m² en de kadastrale perceeloppervlakte bedraagt in totaal 3.623 m². Het restaurant is nabij een toe- en afrit van de rijksweg [adres 2] gelegen.
 
 Beoordeling door de rechtbank
 
@@ -74,47 +74,47 @@ Waar in het op 12 september 2025 ingediende oude taxatierapport (met een getaxee
 
 6. De taxateur heeft bij de waardering gebruik gemaakt van de volgende huurtransacties:
 
-de KFC met drive-through aan de Woonboulevard 60 te Almelo, bouwjaar 2023, oppervlakte gebouw 309 m², per 1 januari 2024 verhuurd voor € 105.000 per jaar. Uit het door de heffingsambtenaar overgelegde huurinlichtingenformulier volgt dat de eerste twee maanden huurvrij waren. Dat komt neer op een gecorrigeerde jaarhuur van € 100.425 en een huurwaarde van € 325 per m²;
+de [bedrijf 1] met drive-through aan de [adres 3], bouwjaar 2023, oppervlakte gebouw 309 m², per 1 januari 2024 verhuurd voor € 105.000 per jaar. Uit het door de heffingsambtenaar overgelegde huurinlichtingenformulier volgt dat de eerste twee maanden huurvrij waren. Dat komt neer op een gecorrigeerde jaarhuur van € 100.425 en een huurwaarde van € 325 per m²;
 
-de KFC met drive-through aan de Heerlerbaan 240 te Heerlen, bouwjaar 2022, oppervlakte gebouw 398 m², per 1 april 2021 verhuurd voor € 123.000 per jaar
+de [bedrijf 1] met drive-through aan de [adres 4], bouwjaar 2022, oppervlakte gebouw 398 m², per 1 april 2021 verhuurd voor € 123.000 per jaar
 
 (huurwaarde € 309,05 per m²);
 
-- de Burger King met drive-through aan de Gouwelandenlaan 15 te Alphen a/d Rijn, bouwjaar 2006, oppervlakte gebouw 528 m², per 1 januari 2020 verhuurd voor
+- de [bedrijf 2] met drive-through aan de [adres 5], bouwjaar 2006, oppervlakte gebouw 528 m², per 1 januari 2020 verhuurd voor
 
 € 242.308 (huurwaarde € 458,92 per m²).
 
 De taxateur heeft verder op de volgende verkooptransacties gewezen:
 
-- de KFC met drive-through aan de Westelijke Randweg 40 te Sittard, bouwjaar 2015, oppervlakte 612 m², op 25 augustus 2023 in verhuurde staat verkocht voor
+- de [bedrijf 1] met drive-through aan de [adres 6], bouwjaar 2015, oppervlakte 612 m², op 25 augustus 2023 in verhuurde staat verkocht voor
 
 € 1.950.000;
 
-de KFC met drive-through aan de Van Doorneweg 1 te Kampen, bouwjaar 2024, oppervlakte 302 m², op 9 april 2024 in verhuurde staat verkocht voor € 1.700.000;
+de [bedrijf 1] met drive-through aan de [adres 7], bouwjaar 2024, oppervlakte 302 m², op 9 april 2024 in verhuurde staat verkocht voor € 1.700.000;
 
-een perceel grond aan de Hanzepoort 2 te Oldenzaal, oppervlakte 4.205 m², op
+een perceel grond aan de [adres 8], oppervlakte 4.205 m², op
 
-1 februari 2022 verkocht voor € 1.600.000. Deze transactie betreft de aankoop van de grond door McDonald’s Nederland B.V.. De opstal was al via een recht van erfpacht [de rechtbank leest: recht van opstal] in eigendom en gebruik bij McDonald’s;
+1 februari 2022 verkocht voor € 1.600.000. Deze transactie betreft de aankoop van de grond door [eiseres] B.V.. De opstal was al via een recht van erfpacht [de rechtbank leest: recht van opstal] in eigendom en gebruik bij [eiseres];
 
-een Burger King met drive-through aan de Leeghwaterweg 3 te Wijdewormer, bouwjaar 2006, oppervlakte 350 m², op 17 mei 2021 in verhuurde staat verkocht voor € 2.500.000;
+een [bedrijf 2] met drive-through aan de [adres 9], bouwjaar 2006, oppervlakte 350 m², op 17 mei 2021 in verhuurde staat verkocht voor € 2.500.000;
 
-een McDonald’s met drive-through aan de Ariënsstraat 98 te Venlo, bouwjaar 2012, oppervlakte 570 m², op 26 december 2023 verkocht voor € 3.450.000. Bij deze transactie is vermeld dat McDonald’s deze vestiging rechtstreeks van de ontwikkelaar/belegger heeft gekocht.
+een [eiseres] met drive-through aan de [adres 10], bouwjaar 2012, oppervlakte 570 m², op 26 december 2023 verkocht voor € 3.450.000. Bij deze transactie is vermeld dat [eiseres] deze vestiging rechtstreeks van de ontwikkelaar/belegger heeft gekocht.
 
 7. De rechtbank is van oordeel dat de heffingsambtenaar met het taxatierapport en wat verder is aangevoerd, voldoende aannemelijk heeft gemaakt dat de beschikte waarde van het restaurant niet te hoog is en overweegt daartoe het volgende.
 
 Huurwaarde
 
-8. Eiseres heeft zich ter zitting op het standpunt gesteld dat de objecten, die voor de onderbouwing van de huurwaarde zijn gebruikt, niet allemaal even goed vergelijkbaar zijn. Zo is het object Gouwelandenlaan 15 te Alphen a/d Rijn in de Randstad gelegen. Het object Woonboulevard 60 te Almelo is het best vergelijkbaar, maar is kleiner en heeft ook een lagere huurwaarde per m². Verder is het object Heerlerbaan 240 te Heerlen weliswaar op een forse afstand gelegen, maar heeft dit object wel een soortgelijke ligging en verzorgingsgebied. Ook de huurwaarde van dit object onderbouwt een lagere huurwaarde voor het object van eiseres.
+8. Eiseres heeft zich ter zitting op het standpunt gesteld dat de objecten, die voor de onderbouwing van de huurwaarde zijn gebruikt, niet allemaal even goed vergelijkbaar zijn. Zo is het object [adres 5] in de [locatie] gelegen. Het object [adres 3] is het best vergelijkbaar, maar is kleiner en heeft ook een lagere huurwaarde per m². Verder is het object [adres 4] weliswaar op een forse afstand gelegen, maar heeft dit object wel een soortgelijke ligging en verzorgingsgebied. Ook de huurwaarde van dit object onderbouwt een lagere huurwaarde voor het object van eiseres.
 
-9. Namens de heffingsambtenaar is ter zitting aangevoerd dat het restaurant van eiseres in 2022 een aanbouw heeft gekregen, in het geheel is gerenoveerd en dat het in zoverre een vernieuwde McDonald’s betreft. Over de vergelijkbaarheid van de vermelde objecten is ter zitting verklaard dat het bij de McDonald’s om specifiek vastgoed gaat dat vaak langs een N-weg of een rijksweg ligt. Ook het onderhavige restaurant van eiseres ligt langs een rijksweg. De KFC heeft een andere bedrijfsvoering, waarbij de locatie van een wat ondergeschikter belang is. Dit verklaart waarom de huurwaarde van een McDonald’s hoger is dan die van een KFC. Voor dit type vastgoed moet buiten de gemeentegrenzen worden gekeken. Het restaurant in Alphen a/d Rijn ligt weliswaar in het westen, maar heeft ook een verschil in huurwaarde.
+9. Namens de heffingsambtenaar is ter zitting aangevoerd dat het restaurant van eiseres in 2022 een aanbouw heeft gekregen, in het geheel is gerenoveerd en dat het in zoverre een vernieuwde [eiseres] betreft. Over de vergelijkbaarheid van de vermelde objecten is ter zitting verklaard dat het bij de [eiseres] om specifiek vastgoed gaat dat vaak langs een N-weg of een rijksweg ligt. Ook het onderhavige restaurant van eiseres ligt langs een rijksweg. De [bedrijf 1] heeft een andere bedrijfsvoering, waarbij de locatie van een wat ondergeschikter belang is. Dit verklaart waarom de huurwaarde van een [eiseres] hoger is dan die van een [bedrijf 1]. Voor dit type vastgoed moet buiten de gemeentegrenzen worden gekeken. Het restaurant in [plaats] ligt weliswaar in het westen, maar heeft ook een verschil in huurwaarde.
 
-10. De rechtbank is van oordeel dat de door de heffingsambtenaar gebruikte objecten in voldoende mate vergelijkbaar zijn met het restaurant van eiseres. Eiseres en de heffingsambtenaar verschillen er niet over van mening dat met name de objecten Woonboulevard 60 te Almelo en Heerlerbaan 240 te Heerlen goed met het restaurant van eiseres kunnen worden vergeleken. Ook deze objecten betreffen fastfoodrestaurants met een drive-through en hebben een vergelijkbare vloeroppervlakte. De huurwaarde voor het object van eiseres valt binnen de bandbreedte van de huurtransacties. Deze huurtransacties geven een goed beeld van de huurprijzen in de markt van fastfoodrestaurants rond de waardepeildatum. Het vorenstaande, genomen bij de door eiseres niet bestreden verklaring van de taxateur van de heffingsambtenaar ter zitting dat het restaurant van eiseres in 2022 een aanbouw heeft gekregen en compleet is gerenoveerd, acht de rechtbank een huurwaarde van € 350 per m² op de waardepeildatum niet te hoog.
+10. De rechtbank is van oordeel dat de door de heffingsambtenaar gebruikte objecten in voldoende mate vergelijkbaar zijn met het restaurant van eiseres. Eiseres en de heffingsambtenaar verschillen er niet over van mening dat met name de objecten [adres 3] en [adres 4] goed met het restaurant van eiseres kunnen worden vergeleken. Ook deze objecten betreffen fastfoodrestaurants met een drive-through en hebben een vergelijkbare vloeroppervlakte. De huurwaarde voor het object van eiseres valt binnen de bandbreedte van de huurtransacties. Deze huurtransacties geven een goed beeld van de huurprijzen in de markt van fastfoodrestaurants rond de waardepeildatum. Het vorenstaande, genomen bij de door eiseres niet bestreden verklaring van de taxateur van de heffingsambtenaar ter zitting dat het restaurant van eiseres in 2022 een aanbouw heeft gekregen en compleet is gerenoveerd, acht de rechtbank een huurwaarde van € 350 per m² op de waardepeildatum niet te hoog.
 
 Kapitalisatiefactor
 
 11. De heffingsambtenaar heeft de gehanteerde kapitalisatiefactor van 11 bottom up berekend en daarbij gebruik gemaakt van voormelde huurwaarde van € 134.750. Ten aanzien van deze huurwaarde is hiervoor al overwogen dat deze niet te hoog is.
 
-Over deze berekening heeft de taxateur van de heffingsambtenaar ter zitting verklaard dat het leegstandsrisico van 3,9% is gebaseerd op alle horeca in Hengelo. Als gekeken wordt naar het vastgoed van eiseres in Nederland, dan is geen sprake van leegstand. Alleen een McDonald’s in Limburg is leeg komen te staan, maar dat is het gevolg geweest van een wegomlegging.
+Over deze berekening heeft de taxateur van de heffingsambtenaar ter zitting verklaard dat het leegstandsrisico van 3,9% is gebaseerd op alle horeca in [vestigingsplaats 3]. Als gekeken wordt naar het vastgoed van eiseres in Nederland, dan is geen sprake van leegstand. Alleen een [eiseres] in [vestigingsplaats 2] is leeg komen te staan, maar dat is het gevolg geweest van een wegomlegging.
 
 12. De rechtbank stelt vast dat eiseres de berekening van de kapitalisatiefactor voor het overige niet gemotiveerd heeft bestreden.
 
@@ -122,9 +122,9 @@ Verkooptransacties
 
 13. Eiseres heeft aangevoerd dat drie van de vijf verkooptransacties in verhuurde staat hebben plaatsgevonden en om die reden niet bruikbaar zijn om de waarde van het restaurant van eiseres te onderbouwen.
 
-14. Namens de heffingsambtenaar is hierover ter zitting verklaard dat een aantal objecten weliswaar in verhuurde staat is verkocht, maar dat deze transacties wel een beeld geven van de markt. Verder heeft de taxateur over de grondtransactie van het object Hanzepoort 2 te Oldenzaal aangevoerd dat het restaurant al bij eiseres in eigendom en gebruik was en dat de transactie alleen ziet op de verkoop aan eiseres van de grond met een oppervlakte van 4.205 m² voor € 1.600.000. Volgens de taxateur zegt dit wel iets over de waarde van dit specifieke vastgoed.
+14. Namens de heffingsambtenaar is hierover ter zitting verklaard dat een aantal objecten weliswaar in verhuurde staat is verkocht, maar dat deze transacties wel een beeld geven van de markt. Verder heeft de taxateur over de grondtransactie van het object [adres 8] aangevoerd dat het restaurant al bij eiseres in eigendom en gebruik was en dat de transactie alleen ziet op de verkoop aan eiseres van de grond met een oppervlakte van 4.205 m² voor € 1.600.000. Volgens de taxateur zegt dit wel iets over de waarde van dit specifieke vastgoed.
 
-15. De rechtbank overweegt dat van de vijf gebruikte verkooptransacties er drie zien op de verkoop van een fastfoodrestaurant met drive-through in verhuurde staat en dit laatste maakt dat deze transacties zich minder goed lenen voor de onderbouwing van de WOZ-waarde van het restaurant van eiseres. Naar het oordeel van de rechtbank laat met name de (grond)transactie van Hanzepoort 2 te Oldenzaal echter wel zien dat de beschikte waarde van het restaurant van eiseres niet te hoog is.
+15. De rechtbank overweegt dat van de vijf gebruikte verkooptransacties er drie zien op de verkoop van een fastfoodrestaurant met drive-through in verhuurde staat en dit laatste maakt dat deze transacties zich minder goed lenen voor de onderbouwing van de WOZ-waarde van het restaurant van eiseres. Naar het oordeel van de rechtbank laat met name de (grond)transactie van [adres 8] echter wel zien dat de beschikte waarde van het restaurant van eiseres niet te hoog is.
 
 Artikel 30a van de Wet WOZ
 
