@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBOVE:2026:1581"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "RSV 2026/85"]
 ---
 
 # ECLI:NL:RBOVE:2026:1581 Rechtbank Overijssel , 24-03-2026 / ak_25_2966
