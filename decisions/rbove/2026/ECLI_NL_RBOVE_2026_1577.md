@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht; Socialezekerheidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBOVE:2026:1577"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "JWWB 2026/81"]
 ---
 
 # ECLI:NL:RBOVE:2026:1577 Rechtbank Overijssel , 24-03-2026 / ak_25_3212
