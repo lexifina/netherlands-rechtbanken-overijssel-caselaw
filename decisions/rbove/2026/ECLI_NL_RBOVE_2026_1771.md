@@ -30,21 +30,21 @@ zaaknummer: ZWO 24/2284
 
 uitspraak van de enkelvoudige belastingkamer in de zaak tussen
 
-Stichting Humankind, gevestigd te Heerlen, belanghebbende,
+Stichting [belanghebbende], gevestigd te [vestigingsplaats], belanghebbende,
 
-gemachtigde: [gemachtigde 1],
+gemachtigde: [gemachtigde 1] ,
 
 en
 
 de directeur van GBTwente, de heffingsambtenaar,
 
-gemachtigde: [gemachtigde 2].
+gemachtigde: [gemachtigde 2] .
 
 Inleiding
 
 In deze uitspraak beoordeelt de rechtbank het beroep tegen de uitspraak op bezwaar van de heffingsambtenaar van 16 februari 2024.
 
-De heffingsambtenaar heeft de waarde van de onroerende zaak [adres 1] (kinderdagverblijf ‘[bedrijf]’, hierna: de onroerende zaak) op 1 januari 2022 (de waardepeildatum) vastgesteld op € 551.000 (de beschikking). Met deze waardevaststelling is ook de aanslag in de onroerendezaakbelastingen gebruiker niet-woning van de gemeente Almelo voor het jaar 2023 opgelegd (de aanslag).
+De heffingsambtenaar heeft de waarde van de onroerende zaak [adres 1] (kinderdagverblijf ‘ [bedrijf] ’, hierna: de onroerende zaak) op 1 januari 2022 (de waardepeildatum) vastgesteld op € 551.000 (de beschikking). Met deze waardevaststelling is ook de aanslag in de onroerendezaakbelastingen gebruiker niet-woning van de gemeente Almelo voor het jaar 2023 opgelegd (de aanslag).
 
 De heffingsambtenaar heeft het bezwaar ongegrond verklaard en de waarde van de onroerende zaak gehandhaafd.
 
@@ -52,7 +52,7 @@ De heffingsambtenaar heeft een taxatierapport met taxatiekaart en het rapport �
 
 Belanghebbende heeft een taxatierapport met taxatiekaart en het rapport “Restwaarde algemeen” met “Bijlage Dagverblijven” overgelegd.
 
-De rechtbank heeft het beroep op 6 februari 2026 ter zitting behandeld. Hieraan hebben deelgenomen: mr. H. Vloet namens de gemachtigde van belanghebbende, bijgestaan door [naam 1], taxateur, en de gemachtigde van de heffingsambtenaar, bijgestaan door [naam 2], taxateur.
+De rechtbank heeft het beroep op 6 februari 2026 ter zitting behandeld. Hieraan hebben deelgenomen: mr. H. Vloet namens de gemachtigde van belanghebbende, bijgestaan door [naam 1] , taxateur, en de gemachtigde van de heffingsambtenaar, bijgestaan door [naam 2] , taxateur.
 
 Feiten
 
@@ -68,7 +68,7 @@ Beoordeling door de rechtbank
 
 3. Tussen partijen is niet in geschil dat de WOZ-waarde van de onroerende zaak dient te worden bepaald op de gecorrigeerde vervangingswaarde.
 
-4. De heffingsambtenaar moet aannemelijk maken dat hij de waarde van de onroerende zaak niet op een te hoog bedrag heeft vastgesteld. De heffingsambtenaar heeft ter onderbouwing van de beschikte waarde een door [naam 2], gediplomeerd WOZ-taxateur, opgesteld taxatierapport met taxatiekaart overgelegd. In deze taxatiekaart wordt tot een (hogere) gecorrigeerde vervangingswaarde van de onroerende zaak van € 690.000 (inclusief BTW) op de waardepeildatum 1 januari 2022 gekomen.
+4. De heffingsambtenaar moet aannemelijk maken dat hij de waarde van de onroerende zaak niet op een te hoog bedrag heeft vastgesteld. De heffingsambtenaar heeft ter onderbouwing van de beschikte waarde een door [naam 2] , gediplomeerd WOZ-taxateur, opgesteld taxatierapport met taxatiekaart overgelegd. In deze taxatiekaart wordt tot een (hogere) gecorrigeerde vervangingswaarde van de onroerende zaak van € 690.000 (inclusief BTW) op de waardepeildatum 1 januari 2022 gekomen.
 
 5. De taxateur van de heffingsambtenaar heeft bij de waardering gebruik gemaakt van de Taxatiewijzer en kengetallen, deel 1 Onderwijs (waardepeildatum 1 januari 2022), meer in het bijzonder voor het bouwdeel uit 1950 van archetype O183PA12 en voor het aangebouwde deel uit 1984 van archetype O184PL12. De taxateur heeft de waarde als volgt opgebouwd:
 
