@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBOVE:2026:1877"
-published_in: ["Rechtspraak.nl", "Sdu Nieuws Arbeidsrecht 2026/137"]
+published_in: ["Rechtspraak.nl", "Sdu Nieuws Arbeidsrecht 2026/137", "RAR 2026/107"]
 ---
 
 # ECLI:NL:RBOVE:2026:1877 Rechtbank Overijssel , 07-04-2026 / 11850565 \ CV EXPL  25-2457
