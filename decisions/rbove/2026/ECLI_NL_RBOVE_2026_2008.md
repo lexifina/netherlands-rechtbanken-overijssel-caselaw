@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht; Bestuursprocesrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBOVE:2026:2008"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "Omgevingswet Ruimte 2026/357 met annotatie van M.G.O. de Lange"]
 ---
 
 # ECLI:NL:RBOVE:2026:2008 Rechtbank Overijssel , 13-04-2026 / AK_26_875 en AK_26_851
