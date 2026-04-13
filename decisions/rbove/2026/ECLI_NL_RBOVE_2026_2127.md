@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht; Personen- en familierecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBOVE:2026:2127"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "JPF 2026/82", "FJR 2026/46.30"]
 ---
 
 # ECLI:NL:RBOVE:2026:2127 Rechtbank Overijssel , 13-04-2026 / C/08/343069 / FA RK 25-3270
