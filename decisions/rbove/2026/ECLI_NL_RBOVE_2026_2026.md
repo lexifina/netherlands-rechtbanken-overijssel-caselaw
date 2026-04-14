@@ -31,15 +31,15 @@ Zittingsplaats Enschede
 
 Zaaknummer / rekestnummer: 12105033 \ EJ VERZ  26-69
 
-Beschikking van 14 april 2026
+Beschikking van 17 juli 2026
 
 in de zaak van
 
 HINKE GEERTRUIDA MARIA SCHOLTEN LINDE,
 
-geboren op 20 maart 2009 te Hengelo (O) ,
+geboren op 20 maart 2009 te Hengelo (O),
 
-verzoekende partij, hierna te noemen Hinke ,
+verzoekende partij, hierna te noemen Hinke,
 
 vertegenwoordigd door: K.A.M. Scholten Linde – Luttikhuis (moeder) en
 
@@ -80,7 +80,7 @@ Bij het verlenen van handlichting moet de kantonrechter bepalen welke bevoegdhed
 
 3.3.
 
-Hinke heeft uitgelegd dat zij in 2021 haar eigen webshop is begonnen en vervolgens eind 2024 haar eigen kledingwinkel heeft geopend. Hinke werkt op de weekenddagen in de winkel en doordeweeks is zij bezig met het leveren van pakketjes van de online gedane aankopen. Het bedrijf staat nu nog op naam van de moeder van Hinke , maar omdat Hinke de werkzaamheden grotendeels zelf uitvoert, wil zij het bedrijf graag zelfstandig runnen. Hinke heeft tijdens de mondelinge behandeling aangegeven dat zij zich bewust is van de vele uitgaven, zoals loonkosten, de huur en inkoopkosten. Hinke is dus op de hoogte van de mogelijke risico’s. Dit blijkt volgens de kantonrechter ook wel uit haar opleiding ‘Ondernemer en Handel’ en de coachingtrajecten die zij volgt.
+Hinke heeft uitgelegd dat zij in 2021 haar eigen webshop is begonnen en vervolgens eind 2024 haar eigen kledingwinkel heeft geopend. Hinke werkt op de weekenddagen in de winkel en doordeweeks is zij bezig met het leveren van pakketjes van de online gedane aankopen. Het bedrijf staat nu nog op naam van de moeder van Hinke, maar omdat Hinke de werkzaamheden grotendeels zelf uitvoert, wil zij het bedrijf graag zelfstandig runnen. Hinke heeft tijdens de mondelinge behandeling aangegeven dat zij zich bewust is van de vele uitgaven, zoals loonkosten, de huur en inkoopkosten. Hinke is dus op de hoogte van de mogelijke risico’s. Dit blijkt volgens de kantonrechter ook wel uit haar opleiding ‘Ondernemer en Handel’ en de coachingtrajecten die zij volgt.
 
 3.4.
 
@@ -101,23 +101,21 @@ De kantonrechter
 
 4.1.
 
-verleent Hinke handlichting – dit alles met een maximum van € 15.000,-- – tot:
+verleent Hinke handlichting tot:
 
-- het mogen aangaan van overeenkomsten;
+- het mogen aangaan van overeenkomsten – niet zijnde geldleningen – met een maximum van € 15.000,00 per transactie;
 
 - het verrichten van betalingen;
 
 - het mogen inschrijven van het bedrijf van Hinke bij de Kamer van Koophandel;
 
-- het kopen van bedrijfsmiddelen;
+- het kopen van bedrijfsmiddelen, met een maximum van € 15.000,00 per transactie;
 
 - het afsluiten van abonnementen;
 
 - het openen van een zakelijke bankrekening;
 
 - het aannemen van personeel;
-
-- het aangaan van contracten;
 
 - het huren van een opslagruimte.
 
@@ -129,4 +127,4 @@ bepaalt dat de handlichting door de griffier zal worden gepubliceerd in de Staat
 
 wijst het meer of anders verzochte af.
 
-Deze beschikking is gegeven door mr. A.M.S. Kuipers, kantonrechter, en in het openbaar uitgesproken op 14 april 2026.
+Deze beschikking is gegeven door mr. A.M.S. Kuipers, kantonrechter, en in het openbaar uitgesproken op 17 juli 2026.
