@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBOVE:2026:2045"
-published_in: ["Rechtspraak.nl", "Viditax (FutD) 2026041605", "FutD 2026-0692"]
+published_in: ["Rechtspraak.nl", "Viditax (FutD) 2026041605", "FutD 2026-0692", "Belastingblad 2026/213 met annotatie van J.C. Scherff"]
 ---
 
 # ECLI:NL:RBOVE:2026:2045 Rechtbank Overijssel , 14-04-2026 / ak_24_3692
