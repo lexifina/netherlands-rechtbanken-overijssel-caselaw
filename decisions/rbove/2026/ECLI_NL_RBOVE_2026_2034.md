@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht; Bestuursprocesrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBOVE:2026:2034"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "STAB-OGR-Updates.nl 2026-0094"]
 ---
 
 # ECLI:NL:RBOVE:2026:2034 Rechtbank Overijssel , 14-04-2026 / ak_25_1619
