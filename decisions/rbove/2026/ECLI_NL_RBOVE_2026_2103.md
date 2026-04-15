@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - meervoudig"
 subject: "Strafrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBOVE:2026:2103"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "JM 2026/94 met annotatie van mr. S. Pieters"]
 ---
 
 # ECLI:NL:RBOVE:2026:2103 Rechtbank Overijssel , 15-04-2026 / 84/112931-23 (P)
