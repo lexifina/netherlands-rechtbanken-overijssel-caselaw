@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBOVE:2026:2158"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "AR-Updates.nl 2026-0645", "VAAN-AR-Updates.nl 2026-0645"]
 ---
 
 # ECLI:NL:RBOVE:2026:2158 Rechtbank Overijssel , 16-04-2026 / 12097210 \ EJ VERZ  26-29
