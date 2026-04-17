@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht; Omgevingsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBOVE:2026:2128"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "STAB-OGR-Updates.nl 2026-0106", "Omgevingswet VTH 2026/635"]
 ---
 
 # ECLI:NL:RBOVE:2026:2128 Rechtbank Overijssel , 17-04-2026 / ak_25_920
