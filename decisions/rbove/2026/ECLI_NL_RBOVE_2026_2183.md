@@ -16,7 +16,7 @@ published_in: ["Rechtspraak.nl"]
 
 ## Inhoudsindicatie
 
-De rechtbank veroordeelt de verdachte tot een gevangenisstraf van 30 maanden. De verdachte heeft zich schuldig gemaakt aan feitelijke leidinggeven aan drie ondernemingen bij het plegen van valsheid in geschrifte door het opmaken van valse contracten en facturen en het vervalsen van de bedrijfsadministratie. Deze gedragingen vonden plaats in georganiseerd verband.
+De rechtbank veroordeelt de verdachte tot een gevangenisstraf van 30 maanden. De verdachte heeft zich schuldig gemaakt aan feitelijk leidinggeven aan valsheid in geschrifte door het opmaken van valse contracten en facturen en het vervalsen van de bedrijfsadministratie. Deze gedragingen vonden plaats in georganiseerd verband.
 
 ## Uitspraak
 
