@@ -16,7 +16,7 @@ published_in: ["Rechtspraak.nl"]
 
 ## Inhoudsindicatie
 
-De rechtbank veroordeelt de verdachte tot een gevangenisstraf van 8 maanden. De verdachte heeft zich schuldig gemaakt aan feitelijke leidinggeven van een rechtspersoon bij het plegen van valsheid in geschrifte door het opmaken van valse contracten en facturen en het vervalsen van de bedrijfsadministratie.
+De rechtbank veroordeelt de verdachte tot een gevangenisstraf van 8 maanden. De verdachte heeft zich schuldig gemaakt aan feitelijk leidinggeven aan valsheid in geschrifte door het opmaken van valse contracten en facturen en het vervalsen van de bedrijfsadministratie.
 
 ## Uitspraak
 
