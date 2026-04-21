@@ -16,7 +16,7 @@ published_in: ["Rechtspraak.nl"]
 
 ## Inhoudsindicatie
 
-Veroordeling voor verkrachting en het vervaardigen en in bezit hebben van kinderporno. Beide feiten begaan tegen zijn kind. Oplegging van geen gevangenisstraf voor de duur van vijf jaren.
+Veroordeling voor verkrachting en het vervaardigen en in bezit hebben van kinderporno. Beide feiten begaan tegen zijn kind. Oplegging van een gevangenisstraf voor de duur van vijf jaren.
 
 ## Uitspraak
 
