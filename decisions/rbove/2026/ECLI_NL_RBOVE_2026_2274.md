@@ -16,7 +16,7 @@ published_in: ["Rechtspraak.nl"]
 
 ## Inhoudsindicatie
 
-verdachte is schuldig bevonden aan grootschalige drugscriminaliteit en veroordeeld tot een taakstraf van tweehonderdveertig uur en een voorwaardelijke gevangenisstraf van drie maanden.
+De verdachte heeft zich, samen met anderen, schuldig gemaakt aan het vervoeren en aanwezig hebben van een zeer grote hoeveelheid (2539 kilo) methamfetamine. De verdachte is veroordeeld tot een taakstraf van 240 uren en een voorwaardelijke gevangenisstraf van drie maanden.
 
 ## Uitspraak
 
