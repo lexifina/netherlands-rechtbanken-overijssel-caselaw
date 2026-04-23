@@ -16,7 +16,7 @@ published_in: ["Rechtspraak.nl"]
 
 ## Inhoudsindicatie
 
-De rechtbank veroordeelt een 34-jarige man tot een gevangenisstraf van twee jaren en gelast dat de verdachte ter beschikking wordt gesteld en beveelt dat hij van overheidswege zal worden verpleegd. De verdachte heeft zich schuldig gemaakt aan het brand stichten van een schuur bij een pand en het opzettelijk en wederrechtelijk vernielen van enig goed dat aan een ander toebehoort.
+De rechtbank veroordeelt een 34-jarige man tot een gevangenisstraf van twee jaren en gelast dat de verdachte ter beschikking wordt gesteld en beveelt dat hij van overheidswege zal worden verpleegd. De verdachte heeft zich schuldig gemaakt aan het stichten van brand en het opzettelijk en wederrechtelijk vernielen van enig goed dat aan een ander toebehoort.
 
 ## Uitspraak
 
