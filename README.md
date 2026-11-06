@@ -1,5 +1,7 @@
 # Dutch case law: the rechtbanken (district courts): overijssel
 
+Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is the case law of the Rechtbank Overijssel (with the former Rechtbanken Zwolle, Almelo/Oost-Nederland and Zwolle-Lelystad), Netherlands, which global-law reads at `netherlands/rechtbanken-overijssel/caselaw/`.
+
 Every decision of the rechtbanken (district courts): overijssel that the Rechtspraak publishes with its text, as a git history: one file per decision, one
 commit per decision, dated the day it was decided. 22,086 decisions from 1996-08-28 to 2026-11-06. Part of
 [lexifina/global-law](https://github.com/lexifina/global-law) at `netherlands/rechtbanken-overijssel/caselaw`.
